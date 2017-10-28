@@ -48,7 +48,7 @@ This file will be updated every week from the submissions.
 
 ```js
 {
-  "team": [integer], // list of student ids. multiple ids for group projects
+  "team": [{}], // list of students information. multiple ids for group projects
   "team_name": null, // group name if a group project, otherwise student name
   "files": [], // list of file names for this submission
   "thumbnail": null // thumbnail filename for this submission
@@ -63,7 +63,7 @@ Group information created manually for group projects.
 [
   {
     "name": string, // group name
-    "members": [] // list of submissions. see below
+    "members": [] // list of students information.
   }
 ]
 ```
@@ -81,7 +81,8 @@ This file is created automatically by parsing `assignments.json`.
       "submissions": [
         {
           "name": string, //submission name
-          "folder": string // submission folder - useful for loading the thumbnail
+          "folder": string, // submission folder - useful for loading the thumbnail
+          "thumbnail": string // thumbnail address relative to folder
         }
       ]
 

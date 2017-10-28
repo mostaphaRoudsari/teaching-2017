@@ -1,0 +1,1471 @@
+[
+    {
+        "family_name": "Adamski", 
+        "email": "aadamski@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_05.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_05.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+            }
+        ], 
+        "id": 0, 
+        "name": "Alexandra"
+    }, 
+    {
+        "family_name": "Ali", 
+        "email": "mohamed7@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Ali_Mohamed.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_11.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_11.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Ali_Mohamed.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Ali_Mohamed.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Ali_Mohamed.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Ali_Mohamed.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Ali_Mohamed.png"
+            }
+        ], 
+        "id": 1, 
+        "name": "Mohamed"
+    }, 
+    {
+        "family_name": "Bonilla", 
+        "email": "cbonil@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Bonilla_Carla.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_04.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_04.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Bonilla_Carla.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Bonilla_Carla.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Bonilla_Carla.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Bonilla_Carla.png"
+            }
+        ], 
+        "id": 2, 
+        "name": "Carla"
+    }, 
+    {
+        "family_name": "Bronola", 
+        "email": "nbronola@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Bronola_Nicole.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_11.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_11.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Bronola_Nicole.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Bronola_Nicole.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Bronola_Nicole.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Bronola_Nicole.png"
+            }
+        ], 
+        "id": 3, 
+        "name": "Nicole"
+    }, 
+    {
+        "family_name": "Chen", 
+        "email": "chensir@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Chen_Sirui.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_08.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_08.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Chen_Sirui.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Chen_Sirui.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Chen_Sirui.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Chen_Sirui.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Chen_Sirui.png"
+            }
+        ], 
+        "id": 4, 
+        "name": "Sirui"
+    }, 
+    {
+        "family_name": "Dashiell", 
+        "email": "cdash@upenn.edu", 
+        "submissions": [], 
+        "id": 5, 
+        "name": "Caitlin"
+    }, 
+    {
+        "family_name": "Duan", 
+        "email": "dxiaoyu@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_06.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_06.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+            }
+        ], 
+        "id": 6, 
+        "name": "Xiaoyu"
+    }, 
+    {
+        "family_name": "Han", 
+        "email": "xuanhao@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Han_Xuanhao.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_07.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_07.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Han_Xuanhao.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Han_Xuanhao.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Han_Xuanhao.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Han_Xuanhao.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Han_Xuanhao.png"
+            }
+        ], 
+        "id": 7, 
+        "name": "Xuanhao"
+    }, 
+    {
+        "family_name": "Hao", 
+        "email": "hyunz@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_08.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_08.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+            }
+        ], 
+        "id": 8, 
+        "name": "Yunzhuo"
+    }, 
+    {
+        "family_name": "Heldridge", 
+        "email": "ehel@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_05.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_05.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+            }
+        ], 
+        "id": 9, 
+        "name": "Elizabeth"
+    }, 
+    {
+        "family_name": "Hernandez", 
+        "email": "marielah@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Hernandez_Mariela.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_04.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_04.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Hernandez_Mariela.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Hernandez_Mariela.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Hernandez_Mariela.png"
+            }
+        ], 
+        "id": 10, 
+        "name": "Mariela"
+    }, 
+    {
+        "family_name": "Hillier", 
+        "email": "hillierj@sas.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Hillier_Jordan.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_02.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_02.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Hillier_Jordan.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Hillier_Jordan.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Hillier_Jordan.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Hillier_Jordan.png"
+            }
+        ], 
+        "id": 11, 
+        "name": "Jordan"
+    }, 
+    {
+        "family_name": "Huang", 
+        "email": "juhuang@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Huang_Justine.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_01.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_01.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Huang_Justine.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Huang_Justine.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Huang_Justine.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Huang_Justine.png"
+            }
+        ], 
+        "id": 12, 
+        "name": "Justine"
+    }, 
+    {
+        "family_name": "Ijaz", 
+        "email": "uroosa@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Ijaz_Uroosa.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_04.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_04.png"
+            }
+        ], 
+        "id": 13, 
+        "name": "Uroosa"
+    }, 
+    {
+        "family_name": "Jia", 
+        "email": "weizhenj@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Jia_Weizhen.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_08.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_08.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Jia_Weizhen.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Jia_Weizhen.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Jia_Weizhen.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Jia_Weizhen.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Jia_Weizhen.png"
+            }
+        ], 
+        "id": 14, 
+        "name": "Weizhen"
+    }, 
+    {
+        "family_name": "Kane", 
+        "email": "keaton@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Kane_Keaton.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_02.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_02.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Kane_Keaton.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Kane_Keaton.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Kane_Keaton.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Kane_Keaton.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Kane_Keaton.png"
+            }
+        ], 
+        "id": 15, 
+        "name": "Keaton"
+    }, 
+    {
+        "family_name": "Kim", 
+        "email": "gwkim@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Kim_GwanSook.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_02.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_02.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Kim_GwanSook.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Kim_GwanSook.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Kim_GwanSook.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Kim_GwanSook.png"
+            }
+        ], 
+        "id": 16, 
+        "name": "GwanSook"
+    }, 
+    {
+        "family_name": "Lanski", 
+        "email": "klanski@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Lanski_Katherine.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_01.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_01.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Lanski_Katherine.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Lanski_Katherine.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Lanski_Katherine.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Lanski_Katherine.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Lanski_Katherine.png"
+            }
+        ], 
+        "id": 17, 
+        "name": "Katherine"
+    }, 
+    {
+        "family_name": "Lee", 
+        "email": "jongwlee@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Lee_Jongwon.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_12.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_12.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Lee_Jongwon.png"
+            }
+        ], 
+        "id": 18, 
+        "name": "Jongwon"
+    }, 
+    {
+        "family_name": "Lee", 
+        "email": "leetae@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Lee_Tae.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_10.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_10.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Lee_Tae.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Lee_Tae.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Lee_Tae.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Lee_Tae.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Lee_Tae.png"
+            }
+        ], 
+        "id": 19, 
+        "name": "Tae"
+    }, 
+    {
+        "family_name": "Lin", 
+        "email": "shilin@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Lin_ShihKai.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_03.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_03.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Lin_ShihKai.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Lin_ShihKai.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Lin_ShihKai.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Lin_ShihKai.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Lin_ShihKai.png"
+            }
+        ], 
+        "id": 20, 
+        "name": "ShihKai"
+    }, 
+    {
+        "family_name": "Liu", 
+        "email": "lyuc@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Liu_Yuchen.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_07.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_07.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Liu_Yuchen.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Liu_Yuchen.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Liu_Yuchen.png"
+            }
+        ], 
+        "id": 21, 
+        "name": "Yuchen"
+    }, 
+    {
+        "family_name": "Matia", 
+        "email": "amatia@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Matia_Andrew.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_10.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_10.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Matia_Andrew.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Matia_Andrew.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Matia_Andrew.png"
+            }
+        ], 
+        "id": 22, 
+        "name": "Andrew"
+    }, 
+    {
+        "family_name": "Ogunmoyero", 
+        "email": "oayo@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_12.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_12.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+            }
+        ], 
+        "id": 23, 
+        "name": "Ayotunde"
+    }, 
+    {
+        "family_name": "Oh", 
+        "email": "jinahoh@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Oh_Jinah.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_05.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_05.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Oh_Jinah.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Oh_Jinah.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Oh_Jinah.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Oh_Jinah.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Oh_Jinah.png"
+            }
+        ], 
+        "id": 24, 
+        "name": "Jinah"
+    }, 
+    {
+        "family_name": "Su", 
+        "email": "tingsu@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Su_Ting.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_06.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_06.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Su_Ting.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Su_Ting.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Su_Ting.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Su_Ting.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Su_Ting.png"
+            }
+        ], 
+        "id": 25, 
+        "name": "Ting"
+    }, 
+    {
+        "family_name": "Sun", 
+        "email": "xuezhu@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_09.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_09.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+            }
+        ], 
+        "id": 26, 
+        "name": "Xuezhu"
+    }, 
+    {
+        "family_name": "Turpin", 
+        "email": "ellisont@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_11.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_11.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Turpin_Ellison.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Turpin_Ellison.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Turpin_Ellison.png"
+            }
+        ], 
+        "id": 27, 
+        "name": "Ellison"
+    }, 
+    {
+        "family_name": "Vannoy", 
+        "email": "cvannoy@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Vannoy_Calvin.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Vannoy_Calvin.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Vannoy_Calvin.png"
+            }
+        ], 
+        "id": 28, 
+        "name": "Calvin"
+    }, 
+    {
+        "family_name": "Wang", 
+        "email": "bingyuw@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Wang_Bingyu.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_06.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_06.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Wang_Bingyu.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Wang_Bingyu.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Wang_Bingyu.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Wang_Bingyu.png"
+            }
+        ], 
+        "id": 29, 
+        "name": "Bingyu"
+    }, 
+    {
+        "family_name": "Weaver", 
+        "email": "loweaver@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Weaver_Logan.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_01.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_01.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Weaver_Logan.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Weaver_Logan.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Weaver_Logan.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Weaver_Logan.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Weaver_Logan.png"
+            }
+        ], 
+        "id": 30, 
+        "name": "Logan"
+    }, 
+    {
+        "family_name": "Yamba", 
+        "email": "moiseyam@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Yamba_Moise.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_12.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_12.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Yamba_Moise.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Yamba_Moise.png"
+            }
+        ], 
+        "id": 31, 
+        "name": "Moise"
+    }, 
+    {
+        "family_name": "Zhang", 
+        "email": "yefanz@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Zhang_Yefan.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_03.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_03.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Zhang_Yefan.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Zhang_Yefan.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Zhang_Yefan.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Zhang_Yefan.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Zhang_Yefan.png"
+            }
+        ], 
+        "id": 32, 
+        "name": "Yefan"
+    }, 
+    {
+        "family_name": "Zhang", 
+        "email": "yizhang2@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Zhang_Yi.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_09.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_09.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Zhang_Yi.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Zhang_Yi.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Zhang_Yi.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Zhang_Yi.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Zhang_Yi.png"
+            }
+        ], 
+        "id": 33, 
+        "name": "Yi"
+    }, 
+    {
+        "family_name": "Zhu", 
+        "email": "zhengzhu@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "00_climate_analysis_round_I", 
+                "name": "Climate Analysis I", 
+                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+            }, 
+            {
+                "folder": "01_outdoor_comfort_map_round_I", 
+                "name": "Field measurement I", 
+                "thumbnail": "thumbnails/group_07.png"
+            }, 
+            {
+                "folder": "02_outdoor_comfort_map_round_II", 
+                "name": "Field measurement II", 
+                "thumbnail": "thumbnails/group_07.png"
+            }, 
+            {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+            }
+        ], 
+        "id": 34, 
+        "name": "Zheng-Yang"
+    }
+]
