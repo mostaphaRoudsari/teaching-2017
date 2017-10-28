@@ -6,42 +6,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+                "thumbnail": "thumbnails/adamski_alexandra.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_05.png"
+                "thumbnail": "thumbnails/group_05_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_05.png"
+                "thumbnail": "thumbnails/group_05_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+                "thumbnail": "thumbnails/adamski_alexandra_outdoor comfort.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+                "thumbnail": "thumbnails/adamski_alexandra_climate_data_report_2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+                "thumbnail": "thumbnails/adamski_alexandra_annualcomfort.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+                "thumbnail": "thumbnails/adamski_alexandra_spring street salt shed.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Adamski_Alexandra.png"
+                "thumbnail": "thumbnails/adamski_alexandra_meyerson_massing.png"
             }
         ], 
         "id": 0, 
@@ -54,42 +54,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Ali_Mohamed.png"
+                "thumbnail": "thumbnails/ali_mohamed.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_11.png"
+                "thumbnail": "thumbnails/group_11_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_11.png"
+                "thumbnail": "thumbnails/group_11_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Ali_Mohamed.png"
+                "thumbnail": "thumbnails/ali_mohamed_outdoor comfort.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Ali_Mohamed.png"
+                "thumbnail": "thumbnails/ali_mohamed_weather report2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Ali_Mohamed.png"
+                "thumbnail": "thumbnails/ali_mohamed_outdoor comfort map 2.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Ali_Mohamed.png"
+                "thumbnail": "thumbnails/ali_mohamed_bahrain world trade center.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Ali_Mohamed.png"
+                "thumbnail": "thumbnails/ali_mohamed_meyerson_massing.png"
             }
         ], 
         "id": 1, 
@@ -102,37 +102,37 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Bonilla_Carla.png"
+                "thumbnail": "thumbnails/bonilla_carla.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_04.png"
+                "thumbnail": "thumbnails/group_04_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_04.png"
+                "thumbnail": "thumbnails/group_04_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Bonilla_Carla.png"
+                "thumbnail": "thumbnails/bonilla_carla_outdoor comfort simulation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Bonilla_Carla.png"
+                "thumbnail": "thumbnails/bonilla_carla_climate report round 2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Bonilla_Carla.png"
+                "thumbnail": "thumbnails/bonilla_carla_annual comfort map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Bonilla_Carla.png"
+                "thumbnail": "thumbnails/bonilla_carla_building assignment.png"
             }
         ], 
         "id": 2, 
@@ -145,37 +145,37 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Bronola_Nicole.png"
+                "thumbnail": "thumbnails/bronola_nicole.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_11.png"
+                "thumbnail": "thumbnails/group_11_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_11.png"
+                "thumbnail": "thumbnails/group_11_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Bronola_Nicole.png"
+                "thumbnail": "thumbnails/bronola_nicole_03.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Bronola_Nicole.png"
+                "thumbnail": "thumbnails/bronola_nicole_05_annual_comfort_map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Bronola_Nicole.png"
+                "thumbnail": "thumbnails/bronola_nicole_broadmuseum.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Bronola_Nicole.png"
+                "thumbnail": "thumbnails/bronola_nicole_meyerson_massing.png"
             }
         ], 
         "id": 3, 
@@ -188,42 +188,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Chen_Sirui.png"
+                "thumbnail": "thumbnails/chen_sirui.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_08.png"
+                "thumbnail": "thumbnails/group_08_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_08.png"
+                "thumbnail": "thumbnails/group_08_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Chen_Sirui.png"
+                "thumbnail": "thumbnails/chen_sirui_outdoor_comfort_simulation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Chen_Sirui.png"
+                "thumbnail": "thumbnails/chen_sirui_climate_report_round_2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Chen_Sirui.png"
+                "thumbnail": "thumbnails/chen_sirui_annual_comfort_map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Chen_Sirui.png"
+                "thumbnail": "thumbnails/chen_sirui_case_study.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Chen_Sirui.png"
+                "thumbnail": "thumbnails/chen_sirui_meyerson_massing.png"
             }
         ], 
         "id": 4, 
@@ -243,42 +243,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+                "thumbnail": "thumbnails/duan_xiaoyu.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_06.png"
+                "thumbnail": "thumbnails/group_06_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_06.png"
+                "thumbnail": "thumbnails/group_06_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+                "thumbnail": "thumbnails/duan_xiaoyu_assignment 03.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+                "thumbnail": "thumbnails/duan_xiaoyu_assignment 04.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+                "thumbnail": "thumbnails/duan_xiaoyu_assignment 05.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+                "thumbnail": "thumbnails/duan_xiaoyu_assignment 06.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Duan_Xiaoyu.png"
+                "thumbnail": "thumbnails/duan_xiaoyu_meyerson_massing.png"
             }
         ], 
         "id": 6, 
@@ -291,42 +291,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Han_Xuanhao.png"
+                "thumbnail": "thumbnails/han_xuanhao.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_07.png"
+                "thumbnail": "thumbnails/group_07_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_07.png"
+                "thumbnail": "thumbnails/group_07_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Han_Xuanhao.png"
+                "thumbnail": "thumbnails/han_xuanhao_assignment3.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Han_Xuanhao.png"
+                "thumbnail": "thumbnails/han_xuanhao_assignment4.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Han_Xuanhao.png"
+                "thumbnail": "thumbnails/han_xuanhao_assignment5.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Han_Xuanhao.png"
+                "thumbnail": "thumbnails/han_xuanhao_case_study.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Han_Xuanhao.png"
+                "thumbnail": "thumbnails/han_xuanhao_meyerson_massing.png"
             }
         ], 
         "id": 7, 
@@ -339,42 +339,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+                "thumbnail": "thumbnails/hao_yunzhuo.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_08.png"
+                "thumbnail": "thumbnails/group_08_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_08.png"
+                "thumbnail": "thumbnails/group_08_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+                "thumbnail": "thumbnails/hao_yunzhuo_assignment3.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+                "thumbnail": "thumbnails/hao_yunzhuo_climate report round 2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+                "thumbnail": "thumbnails/hao_yunzhuo_assignment5.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+                "thumbnail": "thumbnails/hao_yunzhuo_nest we grow.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Hao_Yunzhuo.png"
+                "thumbnail": "thumbnails/hao_yunzhuo_massing.png"
             }
         ], 
         "id": 8, 
@@ -387,37 +387,37 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+                "thumbnail": "thumbnails/heldridge_elizabeth.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_05.png"
+                "thumbnail": "thumbnails/group_05_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_05.png"
+                "thumbnail": "thumbnails/group_05_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+                "thumbnail": "thumbnails/heldridge_elizabeth_outdoor comfort assignment.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+                "thumbnail": "thumbnails/heldridge_elizabeth_annual-comfort-map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+                "thumbnail": "thumbnails/heldridge_elizabeth_omega institute bnim.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Heldridge_Elizabeth.png"
+                "thumbnail": "thumbnails/heldridge_elizabeth_meyerson_massing.png"
             }
         ], 
         "id": 9, 
@@ -430,32 +430,32 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Hernandez_Mariela.png"
+                "thumbnail": "thumbnails/hernandez_mariela.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_04.png"
+                "thumbnail": "thumbnails/group_04_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_04.png"
+                "thumbnail": "thumbnails/group_04_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Hernandez_Mariela.png"
+                "thumbnail": "thumbnails/hernandez_mariela_outdoor_comfort_simulation.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Hernandez_Mariela.png"
+                "thumbnail": "thumbnails/hernandez_mariela_case_studies.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Hernandez_Mariela.png"
+                "thumbnail": "thumbnails/hernandez_mariela_meyerson_massing.png"
             }
         ], 
         "id": 10, 
@@ -468,37 +468,37 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Hillier_Jordan.png"
+                "thumbnail": "thumbnails/hillier_jordan.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_02.png"
+                "thumbnail": "thumbnails/group_02_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_02.png"
+                "thumbnail": "thumbnails/group_02_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Hillier_Jordan.png"
+                "thumbnail": "thumbnails/hillier_jordan_assignment 3.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Hillier_Jordan.png"
+                "thumbnail": "thumbnails/hillier_jordan_annual comfort map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Hillier_Jordan.png"
+                "thumbnail": "thumbnails/hillier_jordan_irving convention center.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Hillier_Jordan.png"
+                "thumbnail": "thumbnails/hillier_jordan_meyerson massing.png"
             }
         ], 
         "id": 11, 
@@ -511,37 +511,37 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Huang_Justine.png"
+                "thumbnail": "thumbnails/huang_justine.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_01.png"
+                "thumbnail": "thumbnails/group_01_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_01.png"
+                "thumbnail": "thumbnails/group_01_assignment_3.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Huang_Justine.png"
+                "thumbnail": "thumbnails/huang_justine_passive design.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Huang_Justine.png"
+                "thumbnail": "thumbnails/huang_justine_assignment 5.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Huang_Justine.png"
+                "thumbnail": "thumbnails/huang_justine_nanyangtechnical.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Huang_Justine.png"
+                "thumbnail": "thumbnails/huang_justine_meyerson_massing.png"
             }
         ], 
         "id": 12, 
@@ -554,17 +554,17 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Ijaz_Uroosa.png"
+                "thumbnail": "thumbnails/ijaz_uroosa.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_04.png"
+                "thumbnail": "thumbnails/group_04_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_04.png"
+                "thumbnail": "thumbnails/group_04_assignment_3.png"
             }
         ], 
         "id": 13, 
@@ -577,42 +577,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Jia_Weizhen.png"
+                "thumbnail": "thumbnails/jia_weizhen.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_08.png"
+                "thumbnail": "thumbnails/group_08_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_08.png"
+                "thumbnail": "thumbnails/group_08_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Jia_Weizhen.png"
+                "thumbnail": "thumbnails/jia_weizhen_03.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Jia_Weizhen.png"
+                "thumbnail": "thumbnails/jia_weizhen_climate report round2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Jia_Weizhen.png"
+                "thumbnail": "thumbnails/jia_weizhen_annual_comfort a05.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Jia_Weizhen.png"
+                "thumbnail": "thumbnails/jia_weizhen_newmuseum.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Jia_Weizhen.png"
+                "thumbnail": "thumbnails/jia_weizhen_meyerson_massing.png"
             }
         ], 
         "id": 14, 
@@ -625,42 +625,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Kane_Keaton.png"
+                "thumbnail": "thumbnails/kane_keaton.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_02.png"
+                "thumbnail": "thumbnails/group_02_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_02.png"
+                "thumbnail": "thumbnails/group_02_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Kane_Keaton.png"
+                "thumbnail": "thumbnails/kane_keaton_outdoor comfort simulation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Kane_Keaton.png"
+                "thumbnail": "thumbnails/kane_keaton_climate data report round 2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Kane_Keaton.png"
+                "thumbnail": "thumbnails/kane_keaton_annual comfort map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Kane_Keaton.png"
+                "thumbnail": "thumbnails/kane_keaton_marika alderton house.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Kane_Keaton.png"
+                "thumbnail": "thumbnails/kane_keaton_meyerson_massing.png"
             }
         ], 
         "id": 15, 
@@ -673,37 +673,37 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Kim_GwanSook.png"
+                "thumbnail": "thumbnails/kim_gwansook.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_02.png"
+                "thumbnail": "thumbnails/group_02_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_02.png"
+                "thumbnail": "thumbnails/group_02_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Kim_GwanSook.png"
+                "thumbnail": "thumbnails/kim_gwansook_outdoor_comfort_simulation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Kim_GwanSook.png"
+                "thumbnail": "thumbnails/kim_gwansook_04_climate_data_report_round_2.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Kim_GwanSook.png"
+                "thumbnail": "thumbnails/kim_gwansook_prakroyaltower.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Kim_GwanSook.png"
+                "thumbnail": "thumbnails/kim_gwansook_meyerson_massing.png"
             }
         ], 
         "id": 16, 
@@ -716,42 +716,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Lanski_Katherine.png"
+                "thumbnail": "thumbnails/lanski_katherine.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_01.png"
+                "thumbnail": "thumbnails/group_01_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_01.png"
+                "thumbnail": "thumbnails/group_01_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Lanski_Katherine.png"
+                "thumbnail": "thumbnails/lanski_katherine_outdoorcomfortsimulation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Lanski_Katherine.png"
+                "thumbnail": "thumbnails/lanski_katherine_climatereport02.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Lanski_Katherine.png"
+                "thumbnail": "thumbnails/lanski_katherine_assignment05.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Lanski_Katherine.png"
+                "thumbnail": "thumbnails/lanski_katherine_treehouse.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Lanski_Katherine.png"
+                "thumbnail": "thumbnails/lanski_katherine_meyerson_massing.png"
             }
         ], 
         "id": 17, 
@@ -764,22 +764,22 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Lee_Jongwon.png"
+                "thumbnail": null
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_12.png"
+                "thumbnail": "thumbnails/group_12_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_12.png"
+                "thumbnail": "thumbnails/group_12_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Lee_Jongwon.png"
+                "thumbnail": "thumbnails/lee_jongwon_03- outdoor comfort.png"
             }
         ], 
         "id": 18, 
@@ -792,42 +792,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Lee_Tae.png"
+                "thumbnail": "thumbnails/lee_tae.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_10.png"
+                "thumbnail": "thumbnails/group_10_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_10.png"
+                "thumbnail": "thumbnails/group_10_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Lee_Tae.png"
+                "thumbnail": "thumbnails/lee_tae_4_outdoor comfort simulation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Lee_Tae.png"
+                "thumbnail": "thumbnails/lee_tae_04_climate_data_report_round_2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Lee_Tae.png"
+                "thumbnail": "thumbnails/lee_tae_05_annual_comfort_map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Lee_Tae.png"
+                "thumbnail": "thumbnails/lee_tae_case_studies.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Lee_Tae.png"
+                "thumbnail": "thumbnails/lee_tae_meyerson_massing.png"
             }
         ], 
         "id": 19, 
@@ -840,42 +840,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Lin_ShihKai.png"
+                "thumbnail": "thumbnails/lin_shihkai.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_03.png"
+                "thumbnail": "thumbnails/group_03_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_03.png"
+                "thumbnail": "thumbnails/group_03_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Lin_ShihKai.png"
+                "thumbnail": "thumbnails/lin_shihkai_outdoorcomfort.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Lin_ShihKai.png"
+                "thumbnail": "thumbnails/lin_shihkai_climate report round 2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Lin_ShihKai.png"
+                "thumbnail": "thumbnails/lin_shihkai_annualcomfort.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Lin_ShihKai.png"
+                "thumbnail": "thumbnails/lin_shihkai_oasishoteldowntown.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Lin_ShihKai.png"
+                "thumbnail": "thumbnails/lin_shihkai_meyerson_massing.png"
             }
         ], 
         "id": 20, 
@@ -888,32 +888,32 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Liu_Yuchen.png"
+                "thumbnail": "thumbnails/liu_yuchen.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_07.png"
+                "thumbnail": "thumbnails/group_07_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_07.png"
+                "thumbnail": "thumbnails/group_07_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Liu_Yuchen.png"
+                "thumbnail": "thumbnails/liu_yuchen_outdoorcomfortcalculation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Liu_Yuchen.png"
+                "thumbnail": "thumbnails/liu_yuchen_climatreportround2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Liu_Yuchen.png"
+                "thumbnail": "thumbnails/liu_yuchen_comfortmap.png"
             }
         ], 
         "id": 21, 
@@ -926,32 +926,32 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Matia_Andrew.png"
+                "thumbnail": "thumbnails/matia_andrew.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_10.png"
+                "thumbnail": "thumbnails/group_10_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_10.png"
+                "thumbnail": "thumbnails/group_10_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Matia_Andrew.png"
+                "thumbnail": "thumbnails/matia_andrew_outdoorcomfortcalculation.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Matia_Andrew.png"
+                "thumbnail": "thumbnails/matia_andrew_egww federal building.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Matia_Andrew.png"
+                "thumbnail": "thumbnails/matia_andrew_meyerson_massing.png"
             }
         ], 
         "id": 22, 
@@ -964,42 +964,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+                "thumbnail": "thumbnails/ogunmoyero_ayotunde.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_12.png"
+                "thumbnail": "thumbnails/group_12_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_12.png"
+                "thumbnail": "thumbnails/group_12_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+                "thumbnail": "thumbnails/ogunmoyero_ayotunde_outdoorcomfort.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+                "thumbnail": "thumbnails/ogunmoyero_ayotunde_climate data report round 2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+                "thumbnail": "thumbnails/ogunmoyero_ayotunde_annual comfort map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+                "thumbnail": "thumbnails/ogunmoyero_ayotunde_burj_khalifa.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Ogunmoyero_Ayotunde.png"
+                "thumbnail": "thumbnails/ogunmoyero_ayotunde_meyerson_massing.png"
             }
         ], 
         "id": 23, 
@@ -1012,42 +1012,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Oh_Jinah.png"
+                "thumbnail": "thumbnails/oh_jinah.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_05.png"
+                "thumbnail": "thumbnails/group_05_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_05.png"
+                "thumbnail": "thumbnails/group_05_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Oh_Jinah.png"
+                "thumbnail": "thumbnails/oh_jinah.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Oh_Jinah.png"
+                "thumbnail": "thumbnails/oh_jinah_round 2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Oh_Jinah.png"
+                "thumbnail": "thumbnails/oh_jinah_05 annual comfort map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Oh_Jinah.png"
+                "thumbnail": "thumbnails/oh_jinah_eplus.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Oh_Jinah.png"
+                "thumbnail": "thumbnails/oh_jinah_meyerson_massing.png"
             }
         ], 
         "id": 24, 
@@ -1060,42 +1060,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Su_Ting.png"
+                "thumbnail": null
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_06.png"
+                "thumbnail": "thumbnails/group_06_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_06.png"
+                "thumbnail": "thumbnails/group_06_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Su_Ting.png"
+                "thumbnail": "thumbnails/su_ting_assignment03.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Su_Ting.png"
+                "thumbnail": "thumbnails/su_ting_assignment04.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Su_Ting.png"
+                "thumbnail": "thumbnails/su_ting_assignment05.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Su_Ting.png"
+                "thumbnail": "thumbnails/su_ting_chancery st james plc,30 st mary axe.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Su_Ting.png"
+                "thumbnail": "thumbnails/su_ting_meyerson_massing.png"
             }
         ], 
         "id": 25, 
@@ -1108,37 +1108,37 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+                "thumbnail": "thumbnails/sun_xuezhu.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_09.png"
+                "thumbnail": "thumbnails/group_09_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_09.png"
+                "thumbnail": "thumbnails/group_09_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+                "thumbnail": "thumbnails/sun_xuezhu_outdoor comfort simulation.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+                "thumbnail": "thumbnails/sun_xuezhu_annual comfort.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+                "thumbnail": "thumbnails/sun_xuezhu_yaodong.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Sun_Xuezhu.png"
+                "thumbnail": "thumbnails/sun_xuezhu_meyerson_massing.png"
             }
         ], 
         "id": 26, 
@@ -1151,27 +1151,27 @@
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_11.png"
+                "thumbnail": "thumbnails/group_11_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_11.png"
+                "thumbnail": "thumbnails/group_11_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Turpin_Ellison.png"
+                "thumbnail": "thumbnails/turpin_ellison_03.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Turpin_Ellison.png"
+                "thumbnail": "thumbnails/turpin_ellison_case_studies.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Turpin_Ellison.png"
+                "thumbnail": "thumbnails/turpin_ellison_meyerson_massing.png"
             }
         ], 
         "id": 27, 
@@ -1184,17 +1184,17 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Vannoy_Calvin.png"
+                "thumbnail": "thumbnails/vannoy_calvin.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Vannoy_Calvin.png"
+                "thumbnail": "thumbnails/vannoy_calvin_assignment_4.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Vannoy_Calvin.png"
+                "thumbnail": "thumbnails/vannoy_calvin_meyerson_massing.png"
             }
         ], 
         "id": 28, 
@@ -1207,37 +1207,37 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Wang_Bingyu.png"
+                "thumbnail": "thumbnails/wang_bingyu.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_06.png"
+                "thumbnail": "thumbnails/group_06_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_06.png"
+                "thumbnail": "thumbnails/group_06_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Wang_Bingyu.png"
+                "thumbnail": "thumbnails/wang_bingyu_outdoor comfort calculation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Wang_Bingyu.png"
+                "thumbnail": null
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Wang_Bingyu.png"
+                "thumbnail": "thumbnails/wang_bingyu_annual comfort map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Wang_Bingyu.png"
+                "thumbnail": "thumbnails/wang_bingyu_ikaros house.png"
             }
         ], 
         "id": 29, 
@@ -1250,42 +1250,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Weaver_Logan.png"
+                "thumbnail": "thumbnails/weaver_logan.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_01.png"
+                "thumbnail": "thumbnails/group_01_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_01.png"
+                "thumbnail": "thumbnails/group_01_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Weaver_Logan.png"
+                "thumbnail": "thumbnails/weaver_logan_assignment 3_outdoor comfort studies.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Weaver_Logan.png"
+                "thumbnail": "thumbnails/weaver_logan_climate_data_report_round_2.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Weaver_Logan.png"
+                "thumbnail": "thumbnails/weaver_logan_annual_comfort_map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Weaver_Logan.png"
+                "thumbnail": null
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Weaver_Logan.png"
+                "thumbnail": "thumbnails/weaver_logan_meyerson_massing.png"
             }
         ], 
         "id": 30, 
@@ -1298,27 +1298,27 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Yamba_Moise.png"
+                "thumbnail": "thumbnails/yamba_moise.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_12.png"
+                "thumbnail": "thumbnails/group_12_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_12.png"
+                "thumbnail": "thumbnails/group_12_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Yamba_Moise.png"
+                "thumbnail": "thumbnails/yamba_moise_a4.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Yamba_Moise.png"
+                "thumbnail": "thumbnails/yamba_moise_a5.png"
             }
         ], 
         "id": 31, 
@@ -1331,42 +1331,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Zhang_Yefan.png"
+                "thumbnail": "thumbnails/zhang_yefan.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_03.png"
+                "thumbnail": "thumbnails/group_03_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_03.png"
+                "thumbnail": "thumbnails/group_03_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Zhang_Yefan.png"
+                "thumbnail": "thumbnails/zhang_yefan_outdoor comfort simulation.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Zhang_Yefan.png"
+                "thumbnail": "thumbnails/zhang_yefan_assginment4.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Zhang_Yefan.png"
+                "thumbnail": "thumbnails/zhang_yefan_assignment 5.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Zhang_Yefan.png"
+                "thumbnail": "thumbnails/zhang_yefan_assginment6.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Zhang_Yefan.png"
+                "thumbnail": "thumbnails/zhang_yefan_meyerson_massing.png"
             }
         ], 
         "id": 32, 
@@ -1379,42 +1379,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Zhang_Yi.png"
+                "thumbnail": "thumbnails/zhang_yi.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_09.png"
+                "thumbnail": "thumbnails/group_09_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_09.png"
+                "thumbnail": "thumbnails/group_09_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Zhang_Yi.png"
+                "thumbnail": "thumbnails/zhang_yi_outdoor comfort.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Zhang_Yi.png"
+                "thumbnail": "thumbnails/zhang_yi_04_climate_data.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Zhang_Yi.png"
+                "thumbnail": "thumbnails/zhang_yi_comfort_map.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Zhang_Yi.png"
+                "thumbnail": "thumbnails/zhang_yi_10-14.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Zhang_Yi.png"
+                "thumbnail": "thumbnails/zhang_yi_meyerson_massing.png"
             }
         ], 
         "id": 33, 
@@ -1427,42 +1427,42 @@
             {
                 "folder": "00_climate_analysis_round_I", 
                 "name": "Climate Analysis I", 
-                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+                "thumbnail": "thumbnails/zhu_zheng-yang.png"
             }, 
             {
                 "folder": "01_outdoor_comfort_map_round_I", 
                 "name": "Field measurement I", 
-                "thumbnail": "thumbnails/group_07.png"
+                "thumbnail": "thumbnails/group_07_assignment_2.png"
             }, 
             {
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
-                "thumbnail": "thumbnails/group_07.png"
+                "thumbnail": "thumbnails/group_07_assignment_3.png"
             }, 
             {
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
-                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+                "thumbnail": "thumbnails/zhu_zheng-yang_assignment 3.png"
             }, 
             {
                 "folder": "04_climate_analysis_round_II", 
                 "name": "Climate analysis II", 
-                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+                "thumbnail": "thumbnails/zhu_zheng-yang_assignment 4.png"
             }, 
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+                "thumbnail": "thumbnails/zhu_zheng-yang_assignment 5.png"
             }, 
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+                "thumbnail": "thumbnails/zhu_zheng-yang_pearl academy of fashion.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
-                "thumbnail": "thumbnails/Zhu_Zheng-Yang.png"
+                "thumbnail": "thumbnails/zhu_zheng-yang_meyerson_massing.png"
             }
         ], 
         "id": 34, 
