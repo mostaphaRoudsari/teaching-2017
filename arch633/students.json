@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "family_name": "Adamski",
+    "name": "Alexandra",
+    "email": "aadamski@upenn.edu"
+  },
+  {
+    "id": 1,
+    "family_name": "Ali",
+    "name": "Mohamed",
+    "email": "mohamed7@upenn.edu"
+  },
+  {
+    "id": 2,
+    "family_name": "Bonilla",
+    "name": "Carla",
+    "email": "cbonil@upenn.edu"
+  },
+  {
+    "id": 3,
+    "family_name": "Bronola",
+    "name": "Nicole",
+    "email": "nbronola@upenn.edu"
+  },
+  {
+    "id": 4,
+    "family_name": "Chen",
+    "name": "Sirui",
+    "email": "chensir@upenn.edu"
+  },
+  {
+    "id": 5,
+    "family_name": "Dashiell",
+    "name": "Caitlin",
+    "email": "cdash@upenn.edu"
+  },
+  {
+    "id": 6,
+    "family_name": "Duan",
+    "name": "Xiaoyu",
+    "email": "dxiaoyu@upenn.edu"
+  },
+  {
+    "id": 7,
+    "family_name": "Han",
+    "name": "Xuanhao",
+    "email": "xuanhao@upenn.edu"
+  },
+  {
+    "id": 8,
+    "family_name": "Hao",
+    "name": "Yunzhuo",
+    "email": "hyunz@design.upenn.edu"
+  },
+  {
+    "id": 9,
+    "family_name": "Heldridge",
+    "name": "Elizabeth",
+    "email": "ehel@upenn.edu"
+  },
+  {
+    "id": 10,
+    "family_name": "Hernandez",
+    "name": "Mariela",
+    "email": "marielah@upenn.edu"
+  },
+  {
+    "id": 11,
+    "family_name": "Hillier",
+    "name": "Jordan",
+    "email": "hillierj@sas.upenn.edu"
+  },
+  {
+    "id": 12,
+    "family_name": "Huang",
+    "name": "Justine",
+    "email": "juhuang@upenn.edu"
+  },
+  {
+    "id": 13,
+    "family_name": "Ijaz",
+    "name": "Uroosa",
+    "email": "uroosa@upenn.edu"
+  },
+  {
+    "id": 14,
+    "family_name": "Jia",
+    "name": "Weizhen",
+    "email": "weizhenj@upenn.edu"
+  },
+  {
+    "id": 15,
+    "family_name": "Kane",
+    "name": "Keaton",
+    "email": "keaton@upenn.edu"
+  },
+  {
+    "id": 16,
+    "family_name": "Kim",
+    "name": "GwanSook",
+    "email": "gwkim@upenn.edu"
+  },
+  {
+    "id": 17,
+    "family_name": "Lanski",
+    "name": "Katherine",
+    "email": "klanski@upenn.edu"
+  },
+  {
+    "id": 18,
+    "family_name": "Lee",
+    "name": "Jongwon",
+    "email": "jongwlee@upenn.edu"
+  },
+  {
+    "id": 19,
+    "family_name": "Lee",
+    "name": "Tae",
+    "email": "leetae@upenn.edu"
+  },
+  {
+    "id": 20,
+    "family_name": "Lin",
+    "name": "ShihKai",
+    "email": "shilin@upenn.edu"
+  },
+  {
+    "id": 21,
+    "family_name": "Liu",
+    "name": "Yuchen",
+    "email": "lyuc@upenn.edu"
+  },
+  {
+    "id": 22,
+    "family_name": "Matia",
+    "name": "Andrew",
+    "email": "amatia@upenn.edu"
+  },
+  {
+    "id": 23,
+    "family_name": "Ogunmoyero",
+    "name": "Ayotunde",
+    "email": "oayo@upenn.edu"
+  },
+  {
+    "id": 24,
+    "family_name": "Oh",
+    "name": "Jinah",
+    "email": "jinahoh@upenn.edu"
+  },
+  {
+    "id": 25,
+    "family_name": "Su",
+    "name": "Ting",
+    "email": "tingsu@upenn.edu"
+  },
+  {
+    "id": 26,
+    "family_name": "Sun",
+    "name": "Xuezhu",
+    "email": "xuezhu@upenn.edu"
+  },
+  {
+    "id": 27,
+    "family_name": "Turpin",
+    "name": "Ellison",
+    "email": "ellisont@design.upenn.edu"
+  },
+  {
+    "id": 28,
+    "family_name": "Vannoy",
+    "name": "Calvin",
+    "email": "cvannoy@upenn.edu"
+  },
+  {
+    "id": 29,
+    "family_name": "Wang",
+    "name": "Bingyu",
+    "email": "bingyuw@upenn.edu"
+  },
+  {
+    "id": 30,
+    "family_name": "Weaver",
+    "name": "Logan",
+    "email": "loweaver@upenn.edu"
+  },
+  {
+    "id": 31,
+    "family_name": "Yamba",
+    "name": "Moise",
+    "email": "moiseyam@upenn.edu"
+  },
+  {
+    "id": 32,
+    "family_name": "Zhang",
+    "name": "Yefan",
+    "email": "yefanz@upenn.edu"
+  },
+  {
+    "id": 33,
+    "family_name": "Zhang",
+    "name": "Yi",
+    "email": "yizhang2@upenn.edu"
+  },
+  {
+    "id": 34,
+    "family_name": "Zhu",
+    "name": "Zheng-Yang",
+    "email": "zhengzhu@upenn.edu"
+  }
+]
