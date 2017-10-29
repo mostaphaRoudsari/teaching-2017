@@ -1,0 +1,223 @@
+[
+    {
+        "family_name": "Chen", 
+        "email": "chenyiq@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_04_parking_optimization.png"
+            }
+        ], 
+        "id": 0, 
+        "name": "Yiqun"
+    }, 
+    {
+        "family_name": "Choi", 
+        "email": "yunyc@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_02_final_project.png"
+            }
+        ], 
+        "id": 1, 
+        "name": "Yunyoung"
+    }, 
+    {
+        "family_name": "Deng", 
+        "email": "rden@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_01_report.png"
+            }
+        ], 
+        "id": 2, 
+        "name": "Ruo-Ning"
+    }, 
+    {
+        "family_name": "Hou", 
+        "email": "naifeih@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_06_final_report.png"
+            }
+        ], 
+        "id": 3, 
+        "name": "Naifei"
+    }, 
+    {
+        "family_name": "Jia", 
+        "email": "weizhenj@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_07_weizhen_jia_final_report.png"
+            }
+        ], 
+        "id": 4, 
+        "name": "Weizhen"
+    }, 
+    {
+        "family_name": "Kwon", 
+        "email": "hakwon@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_02_final_project.png"
+            }
+        ], 
+        "id": 5, 
+        "name": "Hae-Yun"
+    }, 
+    {
+        "family_name": "Marshall", 
+        "email": "kajmarsh@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_01_report.png"
+            }
+        ], 
+        "id": 6, 
+        "name": "Kaj"
+    }, 
+    {
+        "family_name": "Medlinsky", 
+        "email": "noahmed@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_03_medlinsky_schroth_final_submission.png"
+            }
+        ], 
+        "id": 7, 
+        "name": "Noah"
+    }, 
+    {
+        "family_name": "Ni", 
+        "email": "niyangch@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_08_final_project_report.png"
+            }
+        ], 
+        "id": 8, 
+        "name": "Yangchao"
+    }, 
+    {
+        "family_name": "Ouyang", 
+        "email": "ouyangt@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_04_parking_optimization.png"
+            }
+        ], 
+        "id": 9, 
+        "name": "Tian"
+    }, 
+    {
+        "family_name": "Schroth", 
+        "email": "aschroth@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_03_medlinsky_schroth_final_submission.png"
+            }
+        ], 
+        "id": 10, 
+        "name": "Adam"
+    }, 
+    {
+        "family_name": "Schultz", 
+        "email": "jschult@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_05_schultz_final.png"
+            }
+        ], 
+        "id": 11, 
+        "name": "Joshua"
+    }, 
+    {
+        "family_name": "Tan", 
+        "email": "shengji@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_06_final_report.png"
+            }
+        ], 
+        "id": 12, 
+        "name": "Shengji"
+    }, 
+    {
+        "family_name": "Wang", 
+        "email": "xiaowan@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_08_final_project_report.png"
+            }
+        ], 
+        "id": 13, 
+        "name": "Xiaoling"
+    }, 
+    {
+        "family_name": "Xiong", 
+        "email": "shuoqi@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_06_final_report.png"
+            }
+        ], 
+        "id": 14, 
+        "name": "Shuoqi"
+    }, 
+    {
+        "family_name": "Yoon", 
+        "email": "yoonjs@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_09_yoon_ji_final.png"
+            }
+        ], 
+        "id": 15, 
+        "name": "Ji-Sook"
+    }, 
+    {
+        "family_name": "Zhu", 
+        "email": "wenzhu@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "final_project", 
+                "name": "Final Project", 
+                "thumbnail": "thumbnails/group_08_final_project_report.png"
+            }
+        ], 
+        "id": 16, 
+        "name": "Wen"
+    }
+]

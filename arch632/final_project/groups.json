@@ -1,0 +1,149 @@
+[
+  {
+    "name": "group_01",
+    "members": [
+      {
+        "id": 2,
+        "family_name": "Deng",
+        "name": "Ruo-Ning",
+        "email": "rden@design.upenn.edu"
+      },
+      {
+        "id": 6,
+        "family_name": "Marshall",
+        "name": "Kaj",
+        "email": "kajmarsh@design.upenn.edu"
+      }
+    ]
+  },
+  {
+    "name": "group_02",
+    "members": [
+      {
+        "id": 1,
+        "family_name": "Choi",
+        "name": "Yunyoung",
+        "email": "yunyc@design.upenn.edu"
+      },
+      {
+        "id": 5,
+        "family_name": "Kwon",
+        "name": "Hae-Yun",
+        "email": "hakwon@design.upenn.edu"
+      }
+    ]
+  },
+  {
+    "name": "group_03",
+    "members": [
+      {
+        "id": 7,
+        "family_name": "Medlinsky",
+        "name": "Noah",
+        "email": "noahmed@design.upenn.edu"
+      },
+      {
+        "id": 10,
+        "family_name": "Schroth",
+        "name": "Adam",
+        "email": "aschroth@design.upenn.edu"
+      }
+    ]
+  },
+  {
+    "name": "group_04",
+    "members": [
+      {
+        "id": 0,
+        "family_name": "Chen",
+        "name": "Yiqun",
+        "email": "chenyiq@design.upenn.edu"
+      },
+      {
+        "id": 9,
+        "family_name": "Ouyang",
+        "name": "Tian",
+        "email": "ouyangt@design.upenn.edu"
+      }
+    ]
+  },
+  {
+    "name": "group_05",
+    "members": [
+      {
+        "id": 11,
+        "family_name": "Schultz",
+        "name": "Joshua",
+        "email": "jschult@design.upenn.edu"
+      }
+    ]
+  },
+  {
+    "name": "group_06",
+    "members": [
+      {
+        "id": 12,
+        "family_name": "Tan",
+        "name": "Shengji",
+        "email": "shengji@upenn.edu"
+      },
+      {
+        "id": 14,
+        "family_name": "Xiong",
+        "name": "Shuoqi",
+        "email": "shuoqi@upenn.edu"
+      },
+      {
+        "id": 3,
+        "family_name": "Hou",
+        "name": "Naifei",
+        "email": "naifeih@design.upenn.edu"
+      }
+    ]
+  },
+  {
+    "name": "group_07",
+    "members": [
+      {
+        "id": 4,
+        "family_name": "Jia",
+        "name": "Weizhen",
+        "email": "weizhenj@upenn.edu"
+      }
+    ]
+  },
+  {
+    "name": "group_08",
+    "members": [
+      {
+        "id": 8,
+        "family_name": "Ni",
+        "name": "Yangchao",
+        "email": "niyangch@design.upenn.edu"
+      },
+      {
+        "id": 13,
+        "family_name": "Wang",
+        "name": "Xiaoling",
+        "email": "xiaowan@design.upenn.edu"
+      },
+      {
+        "id": 16,
+        "family_name": "Zhu",
+        "name": "Wen",
+        "email": "wenzhu@design.upenn.edu"
+      }
+    ]
+  },
+  {
+    "name": "group_09",
+    "members": [
+      {
+        "id": 15,
+        "family_name": "Yoon",
+        "name": "Ji-Sook",
+        "email": "yoonjs@design.upenn.edu"
+      }
+    ]
+  }
+]

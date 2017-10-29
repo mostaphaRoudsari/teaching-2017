@@ -1,0 +1,214 @@
+[
+  {
+    "reload": false, 
+    "folder": "final_project", 
+    "submissions": [
+      {
+        "files": [
+          "group_01_report.pdf", 
+          "group_01_theater_model.3dm", 
+          "group_01_theater_ray_trace.gh"
+        ], 
+        "team_name": "group_01", 
+        "thumbnail": "thumbnails/group_01_report.png", 
+        "team": [
+          {
+            "family_name": "Deng", 
+            "email": "rden@design.upenn.edu", 
+            "id": 2, 
+            "name": "Ruo-Ning"
+          }, 
+          {
+            "family_name": "Marshall", 
+            "email": "kajmarsh@design.upenn.edu", 
+            "id": 6, 
+            "name": "Kaj"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "group_02_final_project.pdf", 
+          "group_02_grasshopper_galapagos.3dm", 
+          "group_02_grasshopper_galapagos.gh", 
+          "group_02_grasshopper_octopus.3dm", 
+          "group_02_grasshopper_octopus.gh"
+        ], 
+        "team_name": "group_02", 
+        "thumbnail": "thumbnails/group_02_final_project.png", 
+        "team": [
+          {
+            "family_name": "Choi", 
+            "email": "yunyc@design.upenn.edu", 
+            "id": 1, 
+            "name": "Yunyoung"
+          }, 
+          {
+            "family_name": "Kwon", 
+            "email": "hakwon@design.upenn.edu", 
+            "id": 5, 
+            "name": "Hae-Yun"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "group_03_design_explorer_files.zip", 
+          "group_03_medlinsky_schroth_final_submission.3dm", 
+          "group_03_medlinsky_schroth_final_submission.docx", 
+          "group_03_medlinsky_schroth_final_submission.gh", 
+          "group_03_medlinsky_schroth_final_submission.pdf", 
+          "group_03_medlinsky_schroth_wall_assem.gh"
+        ], 
+        "team_name": "group_03", 
+        "thumbnail": "thumbnails/group_03_medlinsky_schroth_final_submission.png", 
+        "team": [
+          {
+            "family_name": "Medlinsky", 
+            "email": "noahmed@design.upenn.edu", 
+            "id": 7, 
+            "name": "Noah"
+          }, 
+          {
+            "family_name": "Schroth", 
+            "email": "aschroth@design.upenn.edu", 
+            "id": 10, 
+            "name": "Adam"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "group_04_final.gh", 
+          "group_04_parking_optimization.pdf", 
+          "group_04_phase.3dm"
+        ], 
+        "team_name": "group_04", 
+        "thumbnail": "thumbnails/group_04_parking_optimization.png", 
+        "team": [
+          {
+            "family_name": "Chen", 
+            "email": "chenyiq@design.upenn.edu", 
+            "id": 0, 
+            "name": "Yiqun"
+          }, 
+          {
+            "family_name": "Ouyang", 
+            "email": "ouyangt@design.upenn.edu", 
+            "id": 9, 
+            "name": "Tian"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "group_05_files.zip", 
+          "group_05_schultz_final.pdf"
+        ], 
+        "team_name": "group_05", 
+        "thumbnail": "thumbnails/group_05_schultz_final.png", 
+        "team": [
+          {
+            "family_name": "Schultz", 
+            "email": "jschult@design.upenn.edu", 
+            "id": 11, 
+            "name": "Joshua"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "group_06_atrium_performce_with_human_ui.gh", 
+          "group_06_final_report.pdf"
+        ], 
+        "team_name": "group_06", 
+        "thumbnail": "thumbnails/group_06_final_report.png", 
+        "team": [
+          {
+            "family_name": "Tan", 
+            "email": "shengji@upenn.edu", 
+            "id": 12, 
+            "name": "Shengji"
+          }, 
+          {
+            "family_name": "Xiong", 
+            "email": "shuoqi@upenn.edu", 
+            "id": 14, 
+            "name": "Shuoqi"
+          }, 
+          {
+            "family_name": "Hou", 
+            "email": "naifeih@design.upenn.edu", 
+            "id": 3, 
+            "name": "Naifei"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "group_07_daylight_final_project.3dm", 
+          "group_07_daylight_final_project.gh", 
+          "group_07_weizhen_jia_final_report.pdf"
+        ], 
+        "team_name": "group_07", 
+        "thumbnail": "thumbnails/group_07_weizhen_jia_final_report.png", 
+        "team": [
+          {
+            "family_name": "Jia", 
+            "email": "weizhenj@upenn.edu", 
+            "id": 4, 
+            "name": "Weizhen"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "group_08_final.3dm", 
+          "group_08_final.gh", 
+          "group_08_final_project_report.pdf"
+        ], 
+        "team_name": "group_08", 
+        "thumbnail": "thumbnails/group_08_final_project_report.png", 
+        "team": [
+          {
+            "family_name": "Ni", 
+            "email": "niyangch@design.upenn.edu", 
+            "id": 8, 
+            "name": "Yangchao"
+          }, 
+          {
+            "family_name": "Wang", 
+            "email": "xiaowan@design.upenn.edu", 
+            "id": 13, 
+            "name": "Xiaoling"
+          }, 
+          {
+            "family_name": "Zhu", 
+            "email": "wenzhu@design.upenn.edu", 
+            "id": 16, 
+            "name": "Wen"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "group_09_yoon_ji_final.3dm", 
+          "group_09_yoon_ji_final.gh", 
+          "group_09_yoon_ji_final.pdf"
+        ], 
+        "team_name": "group_09", 
+        "thumbnail": "thumbnails/group_09_yoon_ji_final.png", 
+        "team": [
+          {
+            "family_name": "Yoon", 
+            "email": "yoonjs@design.upenn.edu", 
+            "id": 15, 
+            "name": "Ji-Sook"
+          }
+        ]
+      }
+    ], 
+    "name": "Final Project", 
+    "is_group_project": true
+  }
+]
