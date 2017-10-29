@@ -1,19 +1,19 @@
-Name,Classif,Email Address,Primary Major,Primary Division,Registered Section,Penn ID
-"Chan, Lok Yun Priscilla","P5","prischan@design.upenn.edu","ARCT","GFA","ARCH753001","45652850"
-"Farah, Silmi ","P5","silmi@design.upenn.edu","ARCT","GFA","ARCH753001","60792188"
-"Guarin, Juan David","P5","guarin@design.upenn.edu","ARCT","GFA","ARCH753001","49486772"
-"Gupta, Naman ","P5","naman259@design.upenn.edu","ARCT","GFA","ARCH753001","70699067"
-"Huang, Weston ","P5","hweston@design.upenn.edu","ARCT","GFA","ARCH753001","31877234"
-"Hwang, Youngjin ","P5","yjhwang@design.upenn.edu","ARCT","GFA","ARCH753001","55859113"
-"Jeon, Bosung ","P6","bosung@upenn.edu","ARCT","GFA","ARCH753001","12186191"
-"Jiang, Hewen ","P6","hewen@upenn.edu","ARCT","GFA","ARCH753001","68803815"
-"Kamath, Ayodh V","G","ayodh@upenn.edu","ARCH","GFP","ARCH753001","28577606"
-"Katta Adiseshaiah, Aishwarya ","P5","aishu@design.upenn.edu","ARCT","GFA","ARCH753001","71332623"
-"Kennedy, Kirin Suzanne","P3","kkennedy@design.upenn.edu","ARCT","GFA","ARCH753001","25874881"
-"Li, Yunqian ","P5","yunqian@design.upenn.edu","ARCT","GFA","ARCH753001","46766405"
-"Ma, Xiaoyu ","P6","maxiaoyu@upenn.edu","ARCT","GFA","ARCH753001","41649568"
-"Nelson, Graham Perron","P3","grnelson@design.upenn.edu","ARCT","GFA","ARCH753001","16008213"
-"Peng, Yunzhongda ","P6","pengyun@upenn.edu","ARCT","GFA","ARCH753001","63637531"
-"Wang, Yuchi ","P6","yuchwang@upenn.edu","ARCT","GFA","ARCH753001","39102028"
-"Zhang, Yunlong ","P6","zyunlong@upenn.edu","ARCT","GFA","ARCH753001","49348963"
-"Zhao, Xiaoyu ","P6","xiaoyuz@upenn.edu","ARCT","GFA","ARCH753001","83183093"
+id,family_name,name,email
+0,Chan, LokYunPriscilla,prischan@design.upenn.edu
+1,Farah, Silmi ,silmi@design.upenn.edu
+2,Guarin, Juan,guarin@design.upenn.edu
+3,Gupta, Naman ,naman259@design.upenn.edu
+4,Huang, Weston ,hweston@design.upenn.edu
+5,Hwang, Youngjin ,yjhwang@design.upenn.edu
+6,Jeon, Bosung ,bosung@upenn.edu
+7,Jiang, Hewen ,hewen@upenn.edu
+8,Kamath, Ayodh,ayodh@upenn.edu
+9,Katta-Adiseshaiah, Aishwarya ,aishu@design.upenn.edu
+10,Kennedy, Kirin,kkennedy@design.upenn.edu
+11,Li, Yunqian ,yunqian@design.upenn.edu
+12,Ma, Xiaoyu ,maxiaoyu@upenn.edu
+13,Nelson, Graham,grnelson@design.upenn.edu
+14,Peng, Yunzhongda ,pengyun@upenn.edu
+15,Wang, Yuchi ,yuchwang@upenn.edu
+16,Zhang, Yunlong ,zyunlong@upenn.edu
+17,Zhao, Xiaoyu ,xiaoyuz@upenn.edu

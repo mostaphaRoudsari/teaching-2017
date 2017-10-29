@@ -1,0 +1,486 @@
+[
+    {
+        "family_name": "Chan", 
+        "email": "prischan@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/chan_lokyunpriscilla.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/chan_lokyunpriscilla.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/chan_lokyunpriscilla.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/chan_lokyunpriscilla.png"
+            }
+        ], 
+        "id": 0, 
+        "name": "LokYunPriscilla"
+    }, 
+    {
+        "family_name": "Farah", 
+        "email": "silmi@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/farah_silmi.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/farah_silmi.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/farah_silmi.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/farah_silmi.png"
+            }
+        ], 
+        "id": 1, 
+        "name": "Silmi"
+    }, 
+    {
+        "family_name": "Guarin", 
+        "email": "guarin@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/guarin_juan.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/guarin_juan.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/guarin_juan_pdf.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/guarin_juan.png"
+            }
+        ], 
+        "id": 2, 
+        "name": "Juan"
+    }, 
+    {
+        "family_name": "Gupta", 
+        "email": "naman259@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/gupta_naman.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/gupta_naman.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/gupta_naman.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/gupta_naman.png"
+            }
+        ], 
+        "id": 3, 
+        "name": "Naman"
+    }, 
+    {
+        "family_name": "Huang", 
+        "email": "hweston@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": null
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/huang_weston.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/huang_weston.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/huang_weston.png"
+            }
+        ], 
+        "id": 4, 
+        "name": "Weston"
+    }, 
+    {
+        "family_name": "Hwang", 
+        "email": "yjhwang@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/hwang_youngjin.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/hwang_youngjin.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/hwang_youngjin.png"
+            }
+        ], 
+        "id": 5, 
+        "name": "Youngjin"
+    }, 
+    {
+        "family_name": "Jeon", 
+        "email": "bosung@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/jeon_bosung.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/jeon_bosung.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/jeon_bosung.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/jeon_bosung.png"
+            }
+        ], 
+        "id": 6, 
+        "name": "Bosung"
+    }, 
+    {
+        "family_name": "Jiang", 
+        "email": "hewen@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/jiang_hewen.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/jiang_hewen.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/jiang_hewen.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/jiang_hewen.png"
+            }
+        ], 
+        "id": 7, 
+        "name": "Hewen"
+    }, 
+    {
+        "family_name": "Kamath", 
+        "email": "ayodh@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/kamath_ayodh.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/kamath_ayodh.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/kamath_ayodh.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/kamath_ayodh.png"
+            }
+        ], 
+        "id": 8, 
+        "name": "Ayodh"
+    }, 
+    {
+        "family_name": "Katta-Adiseshaiah", 
+        "email": "aishu@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png"
+            }
+        ], 
+        "id": 9, 
+        "name": "Aishwarya"
+    }, 
+    {
+        "family_name": "Kennedy", 
+        "email": "kkennedy@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/kennedy_kirin.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/kennedy_kirin.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/kennedy_kirin.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/kennedy_kirin.png"
+            }
+        ], 
+        "id": 10, 
+        "name": "Kirin"
+    }, 
+    {
+        "family_name": "Li", 
+        "email": "yunqian@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/li_yunqian.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/li_yunqian.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/li_yunqian.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/li_yunqian.png"
+            }
+        ], 
+        "id": 11, 
+        "name": "Yunqian"
+    }, 
+    {
+        "family_name": "Ma", 
+        "email": "maxiaoyu@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/ma_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/ma_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/ma_xiaoyu.png"
+            }
+        ], 
+        "id": 12, 
+        "name": "Xiaoyu"
+    }, 
+    {
+        "family_name": "Nelson", 
+        "email": "grnelson@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/nelson_graham_092517.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/nelson_graham.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/nelson_graham_101617.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/nelson_graham.png"
+            }
+        ], 
+        "id": 13, 
+        "name": "Graham"
+    }, 
+    {
+        "family_name": "Peng", 
+        "email": "pengyun@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/peng_yunzhongda_0918.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/peng_yunzhongda_1023.png"
+            }
+        ], 
+        "id": 14, 
+        "name": "Yunzhongda"
+    }, 
+    {
+        "family_name": "Wang", 
+        "email": "yuchwang@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/wang_yuchi.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/wang_yuchi.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/wang_yuchi.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/wang_yuchi.png"
+            }
+        ], 
+        "id": 15, 
+        "name": "Yuchi"
+    }, 
+    {
+        "family_name": "Zhang", 
+        "email": "zyunlong@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/zhang_yunlong.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/zhang_yunlong.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/zhang_yunlong.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/zhang_yunlong.png"
+            }
+        ], 
+        "id": 16, 
+        "name": "Yunlong"
+    }, 
+    {
+        "family_name": "Zhao", 
+        "email": "xiaoyuz@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "20170925", 
+                "name": "Weather data analysis I", 
+                "thumbnail": "thumbnails/zhao_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/zhao_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/zhao_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171023", 
+                "name": "Daylighting I", 
+                "thumbnail": "thumbnails/zhao_xiaoyu.png"
+            }
+        ], 
+        "id": 17, 
+        "name": "Xiaoyu"
+    }
+]
