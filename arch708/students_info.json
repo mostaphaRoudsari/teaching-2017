@@ -1,0 +1,119 @@
+[
+    {
+        "family_name": "Aguilar", 
+        "email": "aguilars@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_philadelphia.png"
+            }
+        ], 
+        "id": 0, 
+        "name": "Samantha"
+    }, 
+    {
+        "family_name": "Barria", 
+        "email": "jmiguel@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_singapore.png"
+            }
+        ], 
+        "id": 1, 
+        "name": "Jose"
+    }, 
+    {
+        "family_name": "Dhanuka", 
+        "email": "mansid@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_philadelphia.png"
+            }
+        ], 
+        "id": 2, 
+        "name": "Mansi"
+    }, 
+    {
+        "family_name": "Hah", 
+        "email": "esthah@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_chicago.png"
+            }
+        ], 
+        "id": 3, 
+        "name": "Esther"
+    }, 
+    {
+        "family_name": "Kothari", 
+        "email": "bhaktik@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_singapore.png"
+            }
+        ], 
+        "id": 4, 
+        "name": "Bhakti"
+    }, 
+    {
+        "family_name": "Sajjadi", 
+        "email": "mitsa@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_phoenix.png"
+            }
+        ], 
+        "id": 5, 
+        "name": "Mitra"
+    }, 
+    {
+        "family_name": "Sanjaya", 
+        "email": "nsanjaya@design.upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_chicago.png"
+            }
+        ], 
+        "id": 6, 
+        "name": "Natasha"
+    }, 
+    {
+        "family_name": "Siram", 
+        "email": "nsiram@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_singapore.png"
+            }
+        ], 
+        "id": 7, 
+        "name": "Neeharika"
+    }, 
+    {
+        "family_name": "Tan", 
+        "email": "shengji@upenn.edu", 
+        "submissions": [
+            {
+                "folder": "mid_review", 
+                "name": "Mid Review", 
+                "thumbnail": "thumbnails/team_phoenix.png"
+            }
+        ], 
+        "id": 8, 
+        "name": "Shengji"
+    }
+]
