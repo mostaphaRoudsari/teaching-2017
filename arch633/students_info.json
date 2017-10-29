@@ -914,6 +914,16 @@
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
                 "thumbnail": "thumbnails/liu_yuchen_comfortmap.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/liu_yuchen_case study.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/liu_yuchen_meyerson_massing.png"
             }
         ], 
         "id": 21, 
@@ -1238,6 +1248,11 @@
                 "folder": "06_case_studies", 
                 "name": "Case study", 
                 "thumbnail": "thumbnails/wang_bingyu_ikaros house.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/wang_bingyu_meyerson_massing.png"
             }
         ], 
         "id": 29, 
