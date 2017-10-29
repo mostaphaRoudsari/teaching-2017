@@ -1,0 +1,115 @@
+[
+  {
+    "reload": false, 
+    "folder": "final_project", 
+    "submissions": [
+      {
+        "files": [
+          "team_chicago.pdf"
+        ], 
+        "team_name": "team_chicago", 
+        "thumbnail": "thumbnails/team_chicago.png", 
+        "team": [
+          {
+            "family_name": "Hah", 
+            "email": "esthah@design.upenn.edu", 
+            "id": 3, 
+            "name": "Esther"
+          }, 
+          {
+            "family_name": "Sanjaya", 
+            "email": "nsanjaya@design.upenn.edu", 
+            "id": 6, 
+            "name": "Natasha"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_philadelphia.pdf"
+        ], 
+        "team_name": "team_philadelphia", 
+        "thumbnail": "thumbnails/team_philadelphia.png", 
+        "team": [
+          {
+            "family_name": "Aguilar", 
+            "email": "aguilars@design.upenn.edu", 
+            "id": 0, 
+            "name": "Samantha"
+          }, 
+          {
+            "family_name": "Dhanuka", 
+            "email": "mansid@upenn.edu", 
+            "id": 2, 
+            "name": "Mansi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_phoenix.pdf"
+        ], 
+        "team_name": "team_phoenix", 
+        "thumbnail": "thumbnails/team_phoenix.png", 
+        "team": [
+          {
+            "family_name": "Sajjadi", 
+            "email": "mitsa@upenn.edu", 
+            "id": 5, 
+            "name": "Mitra"
+          }, 
+          {
+            "family_name": "Tan", 
+            "email": "shengji@upenn.edu", 
+            "id": 8, 
+            "name": "Shengji"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_singapore.pdf"
+        ], 
+        "team_name": "team_singapore", 
+        "thumbnail": "thumbnails/team_singapore.png", 
+        "team": [
+          {
+            "family_name": "Siram", 
+            "email": "nsiram@upenn.edu", 
+            "id": 7, 
+            "name": "Neeharika"
+          }, 
+          {
+            "family_name": "Kothari", 
+            "email": "bhaktik@upenn.edu", 
+            "id": 4, 
+            "name": "Bhakti"
+          }, 
+          {
+            "family_name": "Barria", 
+            "email": "jmiguel@upenn.edu", 
+            "id": 1, 
+            "name": "Jose"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "team_barcelona.pdf"
+        ], 
+        "team_name": "team_barcelona", 
+        "thumbnail": "thumbnails/team_barcelona.png", 
+        "team": [
+          {
+            "family_name": "Youm", 
+            "email": "iyoum@design.upenn.edu", 
+            "id": 9, 
+            "name": "In-Hea"
+          }
+        ]
+      }
+    ], 
+    "name": "Final Project", 
+    "is_group_project": true
+  }
+]
