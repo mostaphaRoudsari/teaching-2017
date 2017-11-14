@@ -20,8 +20,8 @@
           {
             "family_name": "Chan", 
             "email": "prischan@design.upenn.edu", 
-            "id": 0, 
-            "name": "LokYunPriscilla"
+            "name": "LokYunPriscilla", 
+            "id": 0
           }
         ]
       }, 
@@ -35,8 +35,8 @@
           {
             "family_name": "Farah", 
             "email": "silmi@design.upenn.edu", 
-            "id": 1, 
-            "name": "Silmi"
+            "name": "Silmi", 
+            "id": 1
           }
         ]
       }, 
@@ -50,8 +50,8 @@
           {
             "family_name": "Guarin", 
             "email": "guarin@design.upenn.edu", 
-            "id": 2, 
-            "name": "Juan"
+            "name": "Juan", 
+            "id": 2
           }
         ]
       }, 
@@ -65,8 +65,8 @@
           {
             "family_name": "Gupta", 
             "email": "naman259@design.upenn.edu", 
-            "id": 3, 
-            "name": "Naman"
+            "name": "Naman", 
+            "id": 3
           }
         ]
       }, 
@@ -80,8 +80,8 @@
           {
             "family_name": "Huang", 
             "email": "hweston@design.upenn.edu", 
-            "id": 4, 
-            "name": "Weston"
+            "name": "Weston", 
+            "id": 4
           }
         ]
       }, 
@@ -95,8 +95,8 @@
           {
             "family_name": "Hwang", 
             "email": "yjhwang@design.upenn.edu", 
-            "id": 5, 
-            "name": "Youngjin"
+            "name": "Youngjin", 
+            "id": 5
           }
         ]
       }, 
@@ -110,8 +110,8 @@
           {
             "family_name": "Jeon", 
             "email": "bosung@upenn.edu", 
-            "id": 6, 
-            "name": "Bosung"
+            "name": "Bosung", 
+            "id": 6
           }
         ]
       }, 
@@ -125,8 +125,8 @@
           {
             "family_name": "Jiang", 
             "email": "hewen@upenn.edu", 
-            "id": 7, 
-            "name": "Hewen"
+            "name": "Hewen", 
+            "id": 7
           }
         ]
       }, 
@@ -140,8 +140,8 @@
           {
             "family_name": "Kamath", 
             "email": "ayodh@upenn.edu", 
-            "id": 8, 
-            "name": "Ayodh"
+            "name": "Ayodh", 
+            "id": 8
           }
         ]
       }, 
@@ -155,8 +155,8 @@
           {
             "family_name": "Katta-Adiseshaiah", 
             "email": "aishu@design.upenn.edu", 
-            "id": 9, 
-            "name": "Aishwarya"
+            "name": "Aishwarya", 
+            "id": 9
           }
         ]
       }, 
@@ -170,8 +170,8 @@
           {
             "family_name": "Kennedy", 
             "email": "kkennedy@design.upenn.edu", 
-            "id": 10, 
-            "name": "Kirin"
+            "name": "Kirin", 
+            "id": 10
           }
         ]
       }, 
@@ -185,8 +185,8 @@
           {
             "family_name": "Li", 
             "email": "yunqian@design.upenn.edu", 
-            "id": 11, 
-            "name": "Yunqian"
+            "name": "Yunqian", 
+            "id": 11
           }
         ]
       }, 
@@ -200,8 +200,8 @@
           {
             "family_name": "Ma", 
             "email": "maxiaoyu@upenn.edu", 
-            "id": 12, 
-            "name": "Xiaoyu"
+            "name": "Xiaoyu", 
+            "id": 12
           }
         ]
       }, 
@@ -215,8 +215,8 @@
           {
             "family_name": "Nelson", 
             "email": "grnelson@design.upenn.edu", 
-            "id": 13, 
-            "name": "Graham"
+            "name": "Graham", 
+            "id": 13
           }
         ]
       }, 
@@ -230,8 +230,8 @@
           {
             "family_name": "Peng", 
             "email": "pengyun@upenn.edu", 
-            "id": 14, 
-            "name": "Yunzhongda"
+            "name": "Yunzhongda", 
+            "id": 14
           }
         ]
       }, 
@@ -245,8 +245,8 @@
           {
             "family_name": "Wang", 
             "email": "yuchwang@upenn.edu", 
-            "id": 15, 
-            "name": "Yuchi"
+            "name": "Yuchi", 
+            "id": 15
           }
         ]
       }, 
@@ -260,8 +260,8 @@
           {
             "family_name": "Zhang", 
             "email": "zyunlong@upenn.edu", 
-            "id": 16, 
-            "name": "Yunlong"
+            "name": "Yunlong", 
+            "id": 16
           }
         ]
       }, 
@@ -275,8 +275,8 @@
           {
             "family_name": "Zhao", 
             "email": "xiaoyuz@upenn.edu", 
-            "id": 17, 
-            "name": "Xiaoyu"
+            "name": "Xiaoyu", 
+            "id": 17
           }
         ]
       }
@@ -298,8 +298,8 @@
           {
             "family_name": "Chan", 
             "email": "prischan@design.upenn.edu", 
-            "id": 0, 
-            "name": "LokYunPriscilla"
+            "name": "LokYunPriscilla", 
+            "id": 0
           }
         ]
       }, 
@@ -313,8 +313,8 @@
           {
             "family_name": "Farah", 
             "email": "silmi@design.upenn.edu", 
-            "id": 1, 
-            "name": "Silmi"
+            "name": "Silmi", 
+            "id": 1
           }
         ]
       }, 
@@ -328,8 +328,8 @@
           {
             "family_name": "Guarin", 
             "email": "guarin@design.upenn.edu", 
-            "id": 2, 
-            "name": "Juan"
+            "name": "Juan", 
+            "id": 2
           }
         ]
       }, 
@@ -343,8 +343,8 @@
           {
             "family_name": "Gupta", 
             "email": "naman259@design.upenn.edu", 
-            "id": 3, 
-            "name": "Naman"
+            "name": "Naman", 
+            "id": 3
           }
         ]
       }, 
@@ -358,8 +358,8 @@
           {
             "family_name": "Huang", 
             "email": "hweston@design.upenn.edu", 
-            "id": 4, 
-            "name": "Weston"
+            "name": "Weston", 
+            "id": 4
           }
         ]
       }, 
@@ -373,8 +373,8 @@
           {
             "family_name": "Jeon", 
             "email": "bosung@upenn.edu", 
-            "id": 6, 
-            "name": "Bosung"
+            "name": "Bosung", 
+            "id": 6
           }
         ]
       }, 
@@ -389,8 +389,8 @@
           {
             "family_name": "Jiang", 
             "email": "hewen@upenn.edu", 
-            "id": 7, 
-            "name": "Hewen"
+            "name": "Hewen", 
+            "id": 7
           }
         ]
       }, 
@@ -405,8 +405,8 @@
           {
             "family_name": "Kamath", 
             "email": "ayodh@upenn.edu", 
-            "id": 8, 
-            "name": "Ayodh"
+            "name": "Ayodh", 
+            "id": 8
           }
         ]
       }, 
@@ -420,8 +420,8 @@
           {
             "family_name": "Katta-Adiseshaiah", 
             "email": "aishu@design.upenn.edu", 
-            "id": 9, 
-            "name": "Aishwarya"
+            "name": "Aishwarya", 
+            "id": 9
           }
         ]
       }, 
@@ -436,8 +436,8 @@
           {
             "family_name": "Kennedy", 
             "email": "kkennedy@design.upenn.edu", 
-            "id": 10, 
-            "name": "Kirin"
+            "name": "Kirin", 
+            "id": 10
           }
         ]
       }, 
@@ -451,8 +451,8 @@
           {
             "family_name": "Li", 
             "email": "yunqian@design.upenn.edu", 
-            "id": 11, 
-            "name": "Yunqian"
+            "name": "Yunqian", 
+            "id": 11
           }
         ]
       }, 
@@ -467,8 +467,8 @@
           {
             "family_name": "Nelson", 
             "email": "grnelson@design.upenn.edu", 
-            "id": 13, 
-            "name": "Graham"
+            "name": "Graham", 
+            "id": 13
           }
         ]
       }, 
@@ -482,8 +482,8 @@
           {
             "family_name": "Wang", 
             "email": "yuchwang@upenn.edu", 
-            "id": 15, 
-            "name": "Yuchi"
+            "name": "Yuchi", 
+            "id": 15
           }
         ]
       }, 
@@ -497,8 +497,8 @@
           {
             "family_name": "Zhang", 
             "email": "zyunlong@upenn.edu", 
-            "id": 16, 
-            "name": "Yunlong"
+            "name": "Yunlong", 
+            "id": 16
           }
         ]
       }, 
@@ -512,8 +512,8 @@
           {
             "family_name": "Zhao", 
             "email": "xiaoyuz@upenn.edu", 
-            "id": 17, 
-            "name": "Xiaoyu"
+            "name": "Xiaoyu", 
+            "id": 17
           }
         ]
       }
@@ -527,6 +527,616 @@
     "submissions": [
       {
         "files": [
+          "chan_lokyunpriscilla.gh", 
+          "chan_lokyunpriscilla.pdf"
+        ], 
+        "team_name": "LokYunPriscilla Chan", 
+        "thumbnail": "thumbnails/chan_lokyunpriscilla.png", 
+        "team": [
+          {
+            "family_name": "Chan", 
+            "email": "prischan@design.upenn.edu", 
+            "name": "LokYunPriscilla", 
+            "id": 0
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "farah_silmi.3dm", 
+          "farah_silmi.gh", 
+          "farah_silmi.pdf"
+        ], 
+        "team_name": "Silmi Farah", 
+        "thumbnail": "thumbnails/farah_silmi.png", 
+        "team": [
+          {
+            "family_name": "Farah", 
+            "email": "silmi@design.upenn.edu", 
+            "name": "Silmi", 
+            "id": 1
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "guarin_juan_gh.gh", 
+          "guarin_juan_pdf.pdf", 
+          "guarin_juan_rh.3dm"
+        ], 
+        "team_name": "Juan Guarin", 
+        "thumbnail": "thumbnails/guarin_juan_pdf.png", 
+        "team": [
+          {
+            "family_name": "Guarin", 
+            "email": "guarin@design.upenn.edu", 
+            "name": "Juan", 
+            "id": 2
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "gupta_naman.3dm", 
+          "gupta_naman.gh", 
+          "gupta_naman.pdf"
+        ], 
+        "team_name": "Naman Gupta", 
+        "thumbnail": "thumbnails/gupta_naman.png", 
+        "team": [
+          {
+            "family_name": "Gupta", 
+            "email": "naman259@design.upenn.edu", 
+            "name": "Naman", 
+            "id": 3
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "huang_weston.3dm", 
+          "huang_weston.gh", 
+          "huang_weston.pdf"
+        ], 
+        "team_name": "Weston Huang", 
+        "thumbnail": "thumbnails/huang_weston.png", 
+        "team": [
+          {
+            "family_name": "Huang", 
+            "email": "hweston@design.upenn.edu", 
+            "name": "Weston", 
+            "id": 4
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "hwang_youngjin.3dm", 
+          "hwang_youngjin.gh", 
+          "hwang_youngjin.pdf"
+        ], 
+        "team_name": "Youngjin Hwang", 
+        "thumbnail": "thumbnails/hwang_youngjin.png", 
+        "team": [
+          {
+            "family_name": "Hwang", 
+            "email": "yjhwang@design.upenn.edu", 
+            "name": "Youngjin", 
+            "id": 5
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jeon_bosung.gh", 
+          "jeon_bosung.pdf"
+        ], 
+        "team_name": "Bosung Jeon", 
+        "thumbnail": "thumbnails/jeon_bosung.png", 
+        "team": [
+          {
+            "family_name": "Jeon", 
+            "email": "bosung@upenn.edu", 
+            "name": "Bosung", 
+            "id": 6
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jiang_hewen.3dm", 
+          "jiang_hewen.gh", 
+          "jiang_hewen.pdf"
+        ], 
+        "team_name": "Hewen Jiang", 
+        "thumbnail": "thumbnails/jiang_hewen.png", 
+        "team": [
+          {
+            "family_name": "Jiang", 
+            "email": "hewen@upenn.edu", 
+            "name": "Hewen", 
+            "id": 7
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kamath_ayodh.3dm", 
+          "kamath_ayodh.gh", 
+          "kamath_ayodh.pdf", 
+          "kamath_ayodh_2.gh"
+        ], 
+        "team_name": "Ayodh Kamath", 
+        "thumbnail": "thumbnails/kamath_ayodh.png", 
+        "team": [
+          {
+            "family_name": "Kamath", 
+            "email": "ayodh@upenn.edu", 
+            "name": "Ayodh", 
+            "id": 8
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "katta-adiseshaiah_aishwarya.3dm", 
+          "katta-adiseshaiah_aishwarya.gh", 
+          "katta-adiseshaiah_aishwarya.pdf"
+        ], 
+        "team_name": "Aishwarya Katta-Adiseshaiah", 
+        "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png", 
+        "team": [
+          {
+            "family_name": "Katta-Adiseshaiah", 
+            "email": "aishu@design.upenn.edu", 
+            "name": "Aishwarya", 
+            "id": 9
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kennedy_kirin.3dm", 
+          "kennedy_kirin.gh", 
+          "kennedy_kirin.pdf"
+        ], 
+        "team_name": "Kirin Kennedy", 
+        "thumbnail": "thumbnails/kennedy_kirin.png", 
+        "team": [
+          {
+            "family_name": "Kennedy", 
+            "email": "kkennedy@design.upenn.edu", 
+            "name": "Kirin", 
+            "id": 10
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "li_yunqian.3dm", 
+          "li_yunqian.gh", 
+          "li_yunqian.pdf"
+        ], 
+        "team_name": "Yunqian Li", 
+        "thumbnail": "thumbnails/li_yunqian.png", 
+        "team": [
+          {
+            "family_name": "Li", 
+            "email": "yunqian@design.upenn.edu", 
+            "name": "Yunqian", 
+            "id": 11
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "ma_xiaoyu.3dm", 
+          "ma_xiaoyu.gh", 
+          "ma_xiaoyu.pdf"
+        ], 
+        "team_name": "Xiaoyu Ma", 
+        "thumbnail": "thumbnails/ma_xiaoyu.png", 
+        "team": [
+          {
+            "family_name": "Ma", 
+            "email": "maxiaoyu@upenn.edu", 
+            "name": "Xiaoyu", 
+            "id": 12
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "nelson_graham_101617.pdf", 
+          "nelson_graham_sunpath_100917.gh"
+        ], 
+        "team_name": "Graham Nelson", 
+        "thumbnail": "thumbnails/nelson_graham_101617.png", 
+        "team": [
+          {
+            "family_name": "Nelson", 
+            "email": "grnelson@design.upenn.edu", 
+            "name": "Graham", 
+            "id": 13
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wang_yuchi.3dm", 
+          "wang_yuchi.pdf", 
+          "wang_yuchi_comparison.gh", 
+          "wang_yuchi_shader.gh"
+        ], 
+        "team_name": "Yuchi Wang", 
+        "thumbnail": "thumbnails/wang_yuchi.png", 
+        "team": [
+          {
+            "family_name": "Wang", 
+            "email": "yuchwang@upenn.edu", 
+            "name": "Yuchi", 
+            "id": 15
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhang_yunlong.3dm", 
+          "zhang_yunlong.gh", 
+          "zhang_yunlong.pdf"
+        ], 
+        "team_name": "Yunlong Zhang", 
+        "thumbnail": "thumbnails/zhang_yunlong.png", 
+        "team": [
+          {
+            "family_name": "Zhang", 
+            "email": "zyunlong@upenn.edu", 
+            "name": "Yunlong", 
+            "id": 16
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhao_xiaoyu.3dm", 
+          "zhao_xiaoyu.gh", 
+          "zhao_xiaoyu.pdf"
+        ], 
+        "team_name": "Xiaoyu Zhao", 
+        "thumbnail": "thumbnails/zhao_xiaoyu.png", 
+        "team": [
+          {
+            "family_name": "Zhao", 
+            "email": "xiaoyuz@upenn.edu", 
+            "name": "Xiaoyu", 
+            "id": 17
+          }
+        ]
+      }
+    ], 
+    "name": "Meyerson hall canopy", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "20171023", 
+    "submissions": [
+      {
+        "files": [
+          "chan_lokyunpriscilla.3dm", 
+          "chan_lokyunpriscilla.gh", 
+          "chan_lokyunpriscilla.pdf"
+        ], 
+        "team_name": "LokYunPriscilla Chan", 
+        "thumbnail": "thumbnails/chan_lokyunpriscilla.png", 
+        "team": [
+          {
+            "family_name": "Chan", 
+            "email": "prischan@design.upenn.edu", 
+            "name": "LokYunPriscilla", 
+            "id": 0
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "farah_silmi.3dm", 
+          "farah_silmi.gh", 
+          "farah_silmi.pdf"
+        ], 
+        "team_name": "Silmi Farah", 
+        "thumbnail": "thumbnails/farah_silmi.png", 
+        "team": [
+          {
+            "family_name": "Farah", 
+            "email": "silmi@design.upenn.edu", 
+            "name": "Silmi", 
+            "id": 1
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "guarin_juan.3dm", 
+          "guarin_juan.gh", 
+          "guarin_juan.pdf"
+        ], 
+        "team_name": "Juan Guarin", 
+        "thumbnail": "thumbnails/guarin_juan.png", 
+        "team": [
+          {
+            "family_name": "Guarin", 
+            "email": "guarin@design.upenn.edu", 
+            "name": "Juan", 
+            "id": 2
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "gupta_naman.3dm", 
+          "gupta_naman.gh", 
+          "gupta_naman.pdf"
+        ], 
+        "team_name": "Naman Gupta", 
+        "thumbnail": "thumbnails/gupta_naman.png", 
+        "team": [
+          {
+            "family_name": "Gupta", 
+            "email": "naman259@design.upenn.edu", 
+            "name": "Naman", 
+            "id": 3
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "huang_weston.3dm", 
+          "huang_weston.gh", 
+          "huang_weston.pdf"
+        ], 
+        "team_name": "Weston Huang", 
+        "thumbnail": "thumbnails/huang_weston.png", 
+        "team": [
+          {
+            "family_name": "Huang", 
+            "email": "hweston@design.upenn.edu", 
+            "name": "Weston", 
+            "id": 4
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "hwang_youngjin.3dm", 
+          "hwang_youngjin.gh", 
+          "hwang_youngjin.pdf"
+        ], 
+        "team_name": "Youngjin Hwang", 
+        "thumbnail": "thumbnails/hwang_youngjin.png", 
+        "team": [
+          {
+            "family_name": "Hwang", 
+            "email": "yjhwang@design.upenn.edu", 
+            "name": "Youngjin", 
+            "id": 5
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jeon_bosung.3dm", 
+          "jeon_bosung.gh", 
+          "jeon_bosung.pdf"
+        ], 
+        "team_name": "Bosung Jeon", 
+        "thumbnail": "thumbnails/jeon_bosung.png", 
+        "team": [
+          {
+            "family_name": "Jeon", 
+            "email": "bosung@upenn.edu", 
+            "name": "Bosung", 
+            "id": 6
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jiang_hewen.3dm", 
+          "jiang_hewen.gh", 
+          "jiang_hewen.pdf"
+        ], 
+        "team_name": "Hewen Jiang", 
+        "thumbnail": "thumbnails/jiang_hewen.png", 
+        "team": [
+          {
+            "family_name": "Jiang", 
+            "email": "hewen@upenn.edu", 
+            "name": "Hewen", 
+            "id": 7
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kamath_ayodh.3dm", 
+          "kamath_ayodh.gh", 
+          "kamath_ayodh.pdf"
+        ], 
+        "team_name": "Ayodh Kamath", 
+        "thumbnail": "thumbnails/kamath_ayodh.png", 
+        "team": [
+          {
+            "family_name": "Kamath", 
+            "email": "ayodh@upenn.edu", 
+            "name": "Ayodh", 
+            "id": 8
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "katta-adiseshaiah_aishwarya.3dm", 
+          "katta-adiseshaiah_aishwarya.gh", 
+          "katta-adiseshaiah_aishwarya.pdf"
+        ], 
+        "team_name": "Aishwarya Katta-Adiseshaiah", 
+        "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png", 
+        "team": [
+          {
+            "family_name": "Katta-Adiseshaiah", 
+            "email": "aishu@design.upenn.edu", 
+            "name": "Aishwarya", 
+            "id": 9
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kennedy_kirin.gh", 
+          "kennedy_kirin.pdf"
+        ], 
+        "team_name": "Kirin Kennedy", 
+        "thumbnail": "thumbnails/kennedy_kirin.png", 
+        "team": [
+          {
+            "family_name": "Kennedy", 
+            "email": "kkennedy@design.upenn.edu", 
+            "name": "Kirin", 
+            "id": 10
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "li_yunqian.3dm", 
+          "li_yunqian.gh", 
+          "li_yunqian.pdf"
+        ], 
+        "team_name": "Yunqian Li", 
+        "thumbnail": "thumbnails/li_yunqian.png", 
+        "team": [
+          {
+            "family_name": "Li", 
+            "email": "yunqian@design.upenn.edu", 
+            "name": "Yunqian", 
+            "id": 11
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "ma_xiaoyu.3dm", 
+          "ma_xiaoyu.gh", 
+          "ma_xiaoyu.pdf"
+        ], 
+        "team_name": "Xiaoyu Ma", 
+        "thumbnail": "thumbnails/ma_xiaoyu.png", 
+        "team": [
+          {
+            "family_name": "Ma", 
+            "email": "maxiaoyu@upenn.edu", 
+            "name": "Xiaoyu", 
+            "id": 12
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "nelson_graham.3dm", 
+          "nelson_graham.gh", 
+          "nelson_graham.pdf"
+        ], 
+        "team_name": "Graham Nelson", 
+        "thumbnail": "thumbnails/nelson_graham.png", 
+        "team": [
+          {
+            "family_name": "Nelson", 
+            "email": "grnelson@design.upenn.edu", 
+            "name": "Graham", 
+            "id": 13
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_yunzhongda.3dm", 
+          "peng_yunzhongda.gh", 
+          "peng_yunzhongda_1023.pdf"
+        ], 
+        "team_name": "Yunzhongda Peng", 
+        "thumbnail": "thumbnails/peng_yunzhongda_1023.png", 
+        "team": [
+          {
+            "family_name": "Peng", 
+            "email": "pengyun@upenn.edu", 
+            "name": "Yunzhongda", 
+            "id": 14
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wang_yuchi.3dm", 
+          "wang_yuchi.gh", 
+          "wang_yuchi.pdf"
+        ], 
+        "team_name": "Yuchi Wang", 
+        "thumbnail": "thumbnails/wang_yuchi.png", 
+        "team": [
+          {
+            "family_name": "Wang", 
+            "email": "yuchwang@upenn.edu", 
+            "name": "Yuchi", 
+            "id": 15
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhang_yunlong.3dm", 
+          "zhang_yunlong.gh", 
+          "zhang_yunlong.pdf"
+        ], 
+        "team_name": "Yunlong Zhang", 
+        "thumbnail": "thumbnails/zhang_yunlong.png", 
+        "team": [
+          {
+            "family_name": "Zhang", 
+            "email": "zyunlong@upenn.edu", 
+            "name": "Yunlong", 
+            "id": 16
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhao_xiaoyu.3dm", 
+          "zhao_xiaoyu.gh", 
+          "zhao_xiaoyu.pdf"
+        ], 
+        "team_name": "Xiaoyu Zhao", 
+        "thumbnail": "thumbnails/zhao_xiaoyu.png", 
+        "team": [
+          {
+            "family_name": "Zhao", 
+            "email": "xiaoyuz@upenn.edu", 
+            "name": "Xiaoyu", 
+            "id": 17
+          }
+        ]
+      }
+    ], 
+    "name": "Daylighting I", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "20171030", 
+    "submissions": [
+      {
+        "files": [
+          "chan_lokyunpriscilla.3dm", 
           "chan_lokyunpriscilla.gh", 
           "chan_lokyunpriscilla.pdf"
         ], 
@@ -560,12 +1170,14 @@
       }, 
       {
         "files": [
-          "guarin_juan_gh.gh", 
-          "guarin_juan_pdf.pdf", 
-          "guarin_juan_rh.3dm"
+          "guarin_juan.pdf", 
+          "guarin_juan_glare.gh", 
+          "guarin_juan_image_based.gh", 
+          "guarin_juan_shading.3dm", 
+          "guarin_juan_udi.gh"
         ], 
         "team_name": "Juan Guarin", 
-        "thumbnail": "thumbnails/guarin_juan_pdf.png", 
+        "thumbnail": "thumbnails/guarin_juan.png", 
         "team": [
           {
             "family_name": "Guarin", 
@@ -613,6 +1225,318 @@
         "files": [
           "hwang_youngjin.3dm", 
           "hwang_youngjin.gh", 
+          "hwang_youngjin.pdf", 
+          "hwang_youngjin_glare.gh"
+        ], 
+        "team_name": "Youngjin Hwang", 
+        "thumbnail": null, 
+        "team": [
+          {
+            "family_name": "Hwang", 
+            "email": "yjhwang@design.upenn.edu", 
+            "id": 5, 
+            "name": "Youngjin"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jeon_bosung.3dm", 
+          "jeon_bosung.gh", 
+          "jeon_bosung.pdf"
+        ], 
+        "team_name": "Bosung Jeon", 
+        "thumbnail": "thumbnails/jeon_bosung.png", 
+        "team": [
+          {
+            "family_name": "Jeon", 
+            "email": "bosung@upenn.edu", 
+            "id": 6, 
+            "name": "Bosung"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jiang_hewen.pdf"
+        ], 
+        "team_name": "Hewen Jiang", 
+        "thumbnail": "thumbnails/jiang_hewen.png", 
+        "team": [
+          {
+            "family_name": "Jiang", 
+            "email": "hewen@upenn.edu", 
+            "id": 7, 
+            "name": "Hewen"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kamath_ayodh.gh", 
+          "kamath_ayodh.pdf"
+        ], 
+        "team_name": "Ayodh Kamath", 
+        "thumbnail": "thumbnails/kamath_ayodh.png", 
+        "team": [
+          {
+            "family_name": "Kamath", 
+            "email": "ayodh@upenn.edu", 
+            "id": 8, 
+            "name": "Ayodh"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "katta-adiseshaiah_aishwarya.3dm", 
+          "katta-adiseshaiah_aishwarya.gh", 
+          "katta-adiseshaiah_aishwarya.pdf"
+        ], 
+        "team_name": "Aishwarya Katta-Adiseshaiah", 
+        "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png", 
+        "team": [
+          {
+            "family_name": "Katta-Adiseshaiah", 
+            "email": "aishu@design.upenn.edu", 
+            "id": 9, 
+            "name": "Aishwarya"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kennedy_kirin.3dm", 
+          "kennedy_kirin.gh", 
+          "kennedy_kirin.pdf"
+        ], 
+        "team_name": "Kirin Kennedy", 
+        "thumbnail": "thumbnails/kennedy_kirin.png", 
+        "team": [
+          {
+            "family_name": "Kennedy", 
+            "email": "kkennedy@design.upenn.edu", 
+            "id": 10, 
+            "name": "Kirin"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "li_yunqian.3dm", 
+          "li_yunqian.gh", 
+          "li_yunqian.pdf"
+        ], 
+        "team_name": "Yunqian Li", 
+        "thumbnail": "thumbnails/li_yunqian.png", 
+        "team": [
+          {
+            "family_name": "Li", 
+            "email": "yunqian@design.upenn.edu", 
+            "id": 11, 
+            "name": "Yunqian"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "ma_xiaoyu.3dm", 
+          "ma_xiaoyu.pdf", 
+          "ma_xiaoyu_shade.gh", 
+          "ma_xiaoyu_shade_window.gh"
+        ], 
+        "team_name": "Xiaoyu Ma", 
+        "thumbnail": "thumbnails/ma_xiaoyu.png", 
+        "team": [
+          {
+            "family_name": "Ma", 
+            "email": "maxiaoyu@upenn.edu", 
+            "id": 12, 
+            "name": "Xiaoyu"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "nelson_graham.3dm", 
+          "nelson_graham.gh"
+        ], 
+        "team_name": "Graham Nelson", 
+        "thumbnail": null, 
+        "team": [
+          {
+            "family_name": "Nelson", 
+            "email": "grnelson@design.upenn.edu", 
+            "id": 13, 
+            "name": "Graham"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_yunzhongda_1028.3dm", 
+          "peng_yunzhongda_1028.gh", 
+          "peng_yunzhongda_1028.pdf", 
+          "peng_yunzhongda_1028_pro.gh"
+        ], 
+        "team_name": "Yunzhongda Peng", 
+        "thumbnail": "thumbnails/peng_yunzhongda_1028.png", 
+        "team": [
+          {
+            "family_name": "Peng", 
+            "email": "pengyun@upenn.edu", 
+            "id": 14, 
+            "name": "Yunzhongda"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wang_yuchi.3dm", 
+          "wang_yuchi.gh", 
+          "wang_yuchi.pdf"
+        ], 
+        "team_name": "Yuchi Wang", 
+        "thumbnail": "thumbnails/wang_yuchi.png", 
+        "team": [
+          {
+            "family_name": "Wang", 
+            "email": "yuchwang@upenn.edu", 
+            "id": 15, 
+            "name": "Yuchi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhang_yunlong.3dm", 
+          "zhang_yunlong.gh"
+        ], 
+        "team_name": "Yunlong Zhang", 
+        "thumbnail": null, 
+        "team": [
+          {
+            "family_name": "Zhang", 
+            "email": "zyunlong@upenn.edu", 
+            "id": 16, 
+            "name": "Yunlong"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhao_xiaoyu.3dm", 
+          "zhao_xiaoyu.gh", 
+          "zhao_xiaoyu.pdf"
+        ], 
+        "team_name": "Xiaoyu Zhao", 
+        "thumbnail": "thumbnails/zhao_xiaoyu.png", 
+        "team": [
+          {
+            "family_name": "Zhao", 
+            "email": "xiaoyuz@upenn.edu", 
+            "id": 17, 
+            "name": "Xiaoyu"
+          }
+        ]
+      }
+    ], 
+    "name": "Daylighting II", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "20171106", 
+    "submissions": [
+      {
+        "files": [
+          "chan_lokyunpriscilla.3dm", 
+          "chan_lokyunpriscilla.gh", 
+          "chan_lokyunpriscilla.pdf"
+        ], 
+        "team_name": "LokYunPriscilla Chan", 
+        "thumbnail": "thumbnails/chan_lokyunpriscilla.png", 
+        "team": [
+          {
+            "family_name": "Chan", 
+            "email": "prischan@design.upenn.edu", 
+            "id": 0, 
+            "name": "LokYunPriscilla"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "farah_silmi.3dm", 
+          "farah_silmi.gh", 
+          "farah_silmi.pdf"
+        ], 
+        "team_name": "Silmi Farah", 
+        "thumbnail": "thumbnails/farah_silmi.png", 
+        "team": [
+          {
+            "family_name": "Farah", 
+            "email": "silmi@design.upenn.edu", 
+            "id": 1, 
+            "name": "Silmi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "guarin_juan.3dm", 
+          "guarin_juan.gh", 
+          "guarin_juan.pdf"
+        ], 
+        "team_name": "Juan Guarin", 
+        "thumbnail": "thumbnails/guarin_juan.png", 
+        "team": [
+          {
+            "family_name": "Guarin", 
+            "email": "guarin@design.upenn.edu", 
+            "id": 2, 
+            "name": "Juan"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "gupta_naman.3dm", 
+          "gupta_naman.ghx", 
+          "gupta_naman.jpg"
+        ], 
+        "team_name": "Naman Gupta", 
+        "thumbnail": null, 
+        "team": [
+          {
+            "family_name": "Gupta", 
+            "email": "naman259@design.upenn.edu", 
+            "id": 3, 
+            "name": "Naman"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "huang_weston.3dm", 
+          "huang_weston.gh", 
+          "huang_weston.pdf"
+        ], 
+        "team_name": "Weston Huang", 
+        "thumbnail": "thumbnails/huang_weston.png", 
+        "team": [
+          {
+            "family_name": "Huang", 
+            "email": "hweston@design.upenn.edu", 
+            "id": 4, 
+            "name": "Weston"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "hwang_youngjin.3dm", 
+          "hwang_youngjin.gh", 
           "hwang_youngjin.pdf"
         ], 
         "team_name": "Youngjin Hwang", 
@@ -628,6 +1552,7 @@
       }, 
       {
         "files": [
+          "jeon_bosung.3dm", 
           "jeon_bosung.gh", 
           "jeon_bosung.pdf"
         ], 
@@ -661,9 +1586,270 @@
       }, 
       {
         "files": [
-          "kamath_ayodh.3dm", 
           "kamath_ayodh.gh", 
+          "kamath_ayodh.pdf"
+        ], 
+        "team_name": "Ayodh Kamath", 
+        "thumbnail": "thumbnails/kamath_ayodh.png", 
+        "team": [
+          {
+            "family_name": "Kamath", 
+            "email": "ayodh@upenn.edu", 
+            "id": 8, 
+            "name": "Ayodh"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "katta-adiseshaiah_aishwarya.3dm", 
+          "katta-adiseshaiah_aishwarya.gh", 
+          "katta-adiseshaiah_aishwarya.pdf"
+        ], 
+        "team_name": "Aishwarya Katta-Adiseshaiah", 
+        "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png", 
+        "team": [
+          {
+            "family_name": "Katta-Adiseshaiah", 
+            "email": "aishu@design.upenn.edu", 
+            "id": 9, 
+            "name": "Aishwarya"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "kennedy_kirin.3dm", 
+          "kennedy_kirin.gh", 
+          "kennedy_kirin.pdf"
+        ], 
+        "team_name": "Kirin Kennedy", 
+        "thumbnail": "thumbnails/kennedy_kirin.png", 
+        "team": [
+          {
+            "family_name": "Kennedy", 
+            "email": "kkennedy@design.upenn.edu", 
+            "id": 10, 
+            "name": "Kirin"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "li_yunqian.3dm", 
+          "li_yunqian.gh", 
+          "li_yunqian.pdf"
+        ], 
+        "team_name": "Yunqian Li", 
+        "thumbnail": "thumbnails/li_yunqian.png", 
+        "team": [
+          {
+            "family_name": "Li", 
+            "email": "yunqian@design.upenn.edu", 
+            "id": 11, 
+            "name": "Yunqian"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "ma_xiaoyu.3dm", 
+          "ma_xiaoyu.gh", 
+          "ma_xiaoyu.pdf"
+        ], 
+        "team_name": "Xiaoyu Ma", 
+        "thumbnail": "thumbnails/ma_xiaoyu.png", 
+        "team": [
+          {
+            "family_name": "Ma", 
+            "email": "maxiaoyu@upenn.edu", 
+            "id": 12, 
+            "name": "Xiaoyu"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "nelson_graham_051117.3dm", 
+          "nelson_graham_051117.gh", 
+          "nelson_graham_051117.pdf"
+        ], 
+        "team_name": "Graham Nelson", 
+        "thumbnail": "thumbnails/nelson_graham_051117.png", 
+        "team": [
+          {
+            "family_name": "Nelson", 
+            "email": "grnelson@design.upenn.edu", 
+            "id": 13, 
+            "name": "Graham"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "peng_yunzhongda_1101.3dm", 
+          "peng_yunzhongda_1101.gh", 
+          "peng_yunzhongda_1105.pdf"
+        ], 
+        "team_name": "Yunzhongda Peng", 
+        "thumbnail": "thumbnails/peng_yunzhongda_1105.png", 
+        "team": [
+          {
+            "family_name": "Peng", 
+            "email": "pengyun@upenn.edu", 
+            "id": 14, 
+            "name": "Yunzhongda"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "wang_yuchi.3dm", 
+          "wang_yuchi.gh", 
+          "wang_yuchi.pdf"
+        ], 
+        "team_name": "Yuchi Wang", 
+        "thumbnail": "thumbnails/wang_yuchi.png", 
+        "team": [
+          {
+            "family_name": "Wang", 
+            "email": "yuchwang@upenn.edu", 
+            "id": 15, 
+            "name": "Yuchi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhang_yunlong.3dm", 
+          "zhang_yunlong.gh", 
+          "zhang_yunlong.pdf"
+        ], 
+        "team_name": "Yunlong Zhang", 
+        "thumbnail": "thumbnails/zhang_yunlong.png", 
+        "team": [
+          {
+            "family_name": "Zhang", 
+            "email": "zyunlong@upenn.edu", 
+            "id": 16, 
+            "name": "Yunlong"
+          }
+        ]
+      }
+    ], 
+    "name": "Energy Simulation I", 
+    "is_group_project": false
+  }, 
+  {
+    "reload": false, 
+    "folder": "20171113", 
+    "submissions": [
+      {
+        "files": [
+          "chan_lokyunpriscilla.3dm", 
+          "chan_lokyunpriscilla.gh", 
+          "chan_lokyunpriscilla.pdf"
+        ], 
+        "team_name": "LokYunPriscilla Chan", 
+        "thumbnail": "thumbnails/chan_lokyunpriscilla.png", 
+        "team": [
+          {
+            "family_name": "Chan", 
+            "email": "prischan@design.upenn.edu", 
+            "id": 0, 
+            "name": "LokYunPriscilla"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "farah_silmi.3dm", 
+          "farah_silmi.gh", 
+          "farah_silmi.pdf"
+        ], 
+        "team_name": "Silmi Farah", 
+        "thumbnail": "thumbnails/farah_silmi.png", 
+        "team": [
+          {
+            "family_name": "Farah", 
+            "email": "silmi@design.upenn.edu", 
+            "id": 1, 
+            "name": "Silmi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "guarin_juan.3dm", 
+          "guarin_juan.gh", 
+          "guarin_juan.pdf"
+        ], 
+        "team_name": "Juan Guarin", 
+        "thumbnail": "thumbnails/guarin_juan.png", 
+        "team": [
+          {
+            "family_name": "Guarin", 
+            "email": "guarin@design.upenn.edu", 
+            "id": 2, 
+            "name": "Juan"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "huang_weston.3dm", 
+          "huang_weston.gh", 
+          "huang_weston.pdf"
+        ], 
+        "team_name": "Weston Huang", 
+        "thumbnail": "thumbnails/huang_weston.png", 
+        "team": [
+          {
+            "family_name": "Huang", 
+            "email": "hweston@design.upenn.edu", 
+            "id": 4, 
+            "name": "Weston"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jeon_bosung.3dm", 
+          "jeon_bosung.gh", 
+          "jeon_bosung.pdf"
+        ], 
+        "team_name": "Bosung Jeon", 
+        "thumbnail": "thumbnails/jeon_bosung.png", 
+        "team": [
+          {
+            "family_name": "Jeon", 
+            "email": "bosung@upenn.edu", 
+            "id": 6, 
+            "name": "Bosung"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "jiang_hewen.3dm", 
+          "jiang_hewen.gh", 
+          "jiang_hewen.pdf"
+        ], 
+        "team_name": "Hewen Jiang", 
+        "thumbnail": "thumbnails/jiang_hewen.png", 
+        "team": [
+          {
+            "family_name": "Jiang", 
+            "email": "hewen@upenn.edu", 
+            "id": 7, 
+            "name": "Hewen"
+          }
+        ]
+      }, 
+      {
+        "files": [
           "kamath_ayodh.pdf", 
+          "kamath_ayodh_1.gh", 
           "kamath_ayodh_2.gh"
         ], 
         "team_name": "Ayodh Kamath", 
@@ -747,308 +1933,12 @@
       }, 
       {
         "files": [
-          "nelson_graham_101617.pdf", 
-          "nelson_graham_sunpath_100917.gh"
-        ], 
-        "team_name": "Graham Nelson", 
-        "thumbnail": "thumbnails/nelson_graham_101617.png", 
-        "team": [
-          {
-            "family_name": "Nelson", 
-            "email": "grnelson@design.upenn.edu", 
-            "id": 13, 
-            "name": "Graham"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "wang_yuchi.3dm", 
-          "wang_yuchi.pdf", 
-          "wang_yuchi_comparison.gh", 
-          "wang_yuchi_shader.gh"
-        ], 
-        "team_name": "Yuchi Wang", 
-        "thumbnail": "thumbnails/wang_yuchi.png", 
-        "team": [
-          {
-            "family_name": "Wang", 
-            "email": "yuchwang@upenn.edu", 
-            "id": 15, 
-            "name": "Yuchi"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "zhang_yunlong.3dm", 
-          "zhang_yunlong.gh", 
-          "zhang_yunlong.pdf"
-        ], 
-        "team_name": "Yunlong Zhang", 
-        "thumbnail": "thumbnails/zhang_yunlong.png", 
-        "team": [
-          {
-            "family_name": "Zhang", 
-            "email": "zyunlong@upenn.edu", 
-            "id": 16, 
-            "name": "Yunlong"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "zhao_xiaoyu.3dm", 
-          "zhao_xiaoyu.gh", 
-          "zhao_xiaoyu.pdf"
-        ], 
-        "team_name": "Xiaoyu Zhao", 
-        "thumbnail": "thumbnails/zhao_xiaoyu.png", 
-        "team": [
-          {
-            "family_name": "Zhao", 
-            "email": "xiaoyuz@upenn.edu", 
-            "id": 17, 
-            "name": "Xiaoyu"
-          }
-        ]
-      }
-    ], 
-    "name": "Meyerson hall canopy", 
-    "is_group_project": false
-  }, 
-  {
-    "reload": false, 
-    "folder": "20171023", 
-    "submissions": [
-      {
-        "files": [
-          "chan_lokyunpriscilla.3dm", 
-          "chan_lokyunpriscilla.gh", 
-          "chan_lokyunpriscilla.pdf"
-        ], 
-        "team_name": "LokYunPriscilla Chan", 
-        "thumbnail": "thumbnails/chan_lokyunpriscilla.png", 
-        "team": [
-          {
-            "family_name": "Chan", 
-            "email": "prischan@design.upenn.edu", 
-            "id": 0, 
-            "name": "LokYunPriscilla"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "farah_silmi.3dm", 
-          "farah_silmi.gh", 
-          "farah_silmi.pdf"
-        ], 
-        "team_name": "Silmi Farah", 
-        "thumbnail": "thumbnails/farah_silmi.png", 
-        "team": [
-          {
-            "family_name": "Farah", 
-            "email": "silmi@design.upenn.edu", 
-            "id": 1, 
-            "name": "Silmi"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "guarin_juan.3dm", 
-          "guarin_juan.gh", 
-          "guarin_juan.pdf"
-        ], 
-        "team_name": "Juan Guarin", 
-        "thumbnail": "thumbnails/guarin_juan.png", 
-        "team": [
-          {
-            "family_name": "Guarin", 
-            "email": "guarin@design.upenn.edu", 
-            "id": 2, 
-            "name": "Juan"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "gupta_naman.3dm", 
-          "gupta_naman.gh", 
-          "gupta_naman.pdf"
-        ], 
-        "team_name": "Naman Gupta", 
-        "thumbnail": "thumbnails/gupta_naman.png", 
-        "team": [
-          {
-            "family_name": "Gupta", 
-            "email": "naman259@design.upenn.edu", 
-            "id": 3, 
-            "name": "Naman"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "huang_weston.3dm", 
-          "huang_weston.gh", 
-          "huang_weston.pdf"
-        ], 
-        "team_name": "Weston Huang", 
-        "thumbnail": "thumbnails/huang_weston.png", 
-        "team": [
-          {
-            "family_name": "Huang", 
-            "email": "hweston@design.upenn.edu", 
-            "id": 4, 
-            "name": "Weston"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "hwang_youngjin.3dm", 
-          "hwang_youngjin.gh", 
-          "hwang_youngjin.pdf"
-        ], 
-        "team_name": "Youngjin Hwang", 
-        "thumbnail": "thumbnails/hwang_youngjin.png", 
-        "team": [
-          {
-            "family_name": "Hwang", 
-            "email": "yjhwang@design.upenn.edu", 
-            "id": 5, 
-            "name": "Youngjin"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "jeon_bosung.3dm", 
-          "jeon_bosung.gh", 
-          "jeon_bosung.pdf"
-        ], 
-        "team_name": "Bosung Jeon", 
-        "thumbnail": "thumbnails/jeon_bosung.png", 
-        "team": [
-          {
-            "family_name": "Jeon", 
-            "email": "bosung@upenn.edu", 
-            "id": 6, 
-            "name": "Bosung"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "jiang_hewen.3dm", 
-          "jiang_hewen.gh", 
-          "jiang_hewen.pdf"
-        ], 
-        "team_name": "Hewen Jiang", 
-        "thumbnail": "thumbnails/jiang_hewen.png", 
-        "team": [
-          {
-            "family_name": "Jiang", 
-            "email": "hewen@upenn.edu", 
-            "id": 7, 
-            "name": "Hewen"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "kamath_ayodh.3dm", 
-          "kamath_ayodh.gh", 
-          "kamath_ayodh.pdf"
-        ], 
-        "team_name": "Ayodh Kamath", 
-        "thumbnail": "thumbnails/kamath_ayodh.png", 
-        "team": [
-          {
-            "family_name": "Kamath", 
-            "email": "ayodh@upenn.edu", 
-            "id": 8, 
-            "name": "Ayodh"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "katta-adiseshaiah_aishwarya.3dm", 
-          "katta-adiseshaiah_aishwarya.gh", 
-          "katta-adiseshaiah_aishwarya.pdf"
-        ], 
-        "team_name": "Aishwarya Katta-Adiseshaiah", 
-        "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png", 
-        "team": [
-          {
-            "family_name": "Katta-Adiseshaiah", 
-            "email": "aishu@design.upenn.edu", 
-            "id": 9, 
-            "name": "Aishwarya"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "kennedy_kirin.gh", 
-          "kennedy_kirin.pdf"
-        ], 
-        "team_name": "Kirin Kennedy", 
-        "thumbnail": "thumbnails/kennedy_kirin.png", 
-        "team": [
-          {
-            "family_name": "Kennedy", 
-            "email": "kkennedy@design.upenn.edu", 
-            "id": 10, 
-            "name": "Kirin"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "li_yunqian.3dm", 
-          "li_yunqian.gh", 
-          "li_yunqian.pdf"
-        ], 
-        "team_name": "Yunqian Li", 
-        "thumbnail": "thumbnails/li_yunqian.png", 
-        "team": [
-          {
-            "family_name": "Li", 
-            "email": "yunqian@design.upenn.edu", 
-            "id": 11, 
-            "name": "Yunqian"
-          }
-        ]
-      }, 
-      {
-        "files": [
-          "ma_xiaoyu.3dm", 
-          "ma_xiaoyu.gh", 
-          "ma_xiaoyu.pdf"
-        ], 
-        "team_name": "Xiaoyu Ma", 
-        "thumbnail": "thumbnails/ma_xiaoyu.png", 
-        "team": [
-          {
-            "family_name": "Ma", 
-            "email": "maxiaoyu@upenn.edu", 
-            "id": 12, 
-            "name": "Xiaoyu"
-          }
-        ]
-      }, 
-      {
-        "files": [
           "nelson_graham.3dm", 
-          "nelson_graham.gh", 
-          "nelson_graham.pdf"
+          "nelson_graham_111217.gh", 
+          "nelson_graham_111217.pdf"
         ], 
         "team_name": "Graham Nelson", 
-        "thumbnail": "thumbnails/nelson_graham.png", 
+        "thumbnail": "thumbnails/nelson_graham_111217.png", 
         "team": [
           {
             "family_name": "Nelson", 
@@ -1060,12 +1950,12 @@
       }, 
       {
         "files": [
-          "peng_yunzhongda.3dm", 
-          "peng_yunzhongda.gh", 
-          "peng_yunzhongda_1023.pdf"
+          "peng_yunzhongda_1112.3dm", 
+          "peng_yunzhongda_1112.gh", 
+          "peng_yunzhongda_1112.pdf"
         ], 
         "team_name": "Yunzhongda Peng", 
-        "thumbnail": "thumbnails/peng_yunzhongda_1023.png", 
+        "thumbnail": "thumbnails/peng_yunzhongda_1112.png", 
         "team": [
           {
             "family_name": "Peng", 
@@ -1108,26 +1998,9 @@
             "name": "Yunlong"
           }
         ]
-      }, 
-      {
-        "files": [
-          "zhao_xiaoyu.3dm", 
-          "zhao_xiaoyu.gh", 
-          "zhao_xiaoyu.pdf"
-        ], 
-        "team_name": "Xiaoyu Zhao", 
-        "thumbnail": "thumbnails/zhao_xiaoyu.png", 
-        "team": [
-          {
-            "family_name": "Zhao", 
-            "email": "xiaoyuz@upenn.edu", 
-            "id": 17, 
-            "name": "Xiaoyu"
-          }
-        ]
       }
     ], 
-    "name": "Daylighting I", 
+    "name": "Energy Simulation II", 
     "is_group_project": false
   }
 ]
