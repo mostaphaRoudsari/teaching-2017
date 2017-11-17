@@ -1549,6 +1549,11 @@
                 "thumbnail": "thumbnails/turpin_ellison_climate data report.png"
             }, 
             {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/turpin_ellison_annual comfort map.png"
+            }, 
+            {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
                 "thumbnail": "thumbnails/turpin_ellison_case_studies.png"
