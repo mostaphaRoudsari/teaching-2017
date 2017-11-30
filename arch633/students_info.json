@@ -57,6 +57,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/adamski_alexandra_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/adamski_alexandra_illuminance_exercise.png"
             }
         ], 
         "id": 0, 
@@ -120,6 +125,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/ali_mohamed_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/ali_mohamed_illumination.png"
             }
         ], 
         "id": 1, 
@@ -178,6 +188,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/bonilla_carla_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/bonilla_carla_daylighting_assignment.png"
             }
         ], 
         "id": 2, 
@@ -294,6 +309,11 @@
                 "folder": "09_building_enclosure", 
                 "name": "Enclosure", 
                 "thumbnail": "thumbnails/chen_sirui.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/chen_sirui_illumination.png"
             }
         ], 
         "id": 4, 
@@ -359,6 +379,11 @@
                 "folder": "09_building_enclosure", 
                 "name": "Enclosure", 
                 "thumbnail": "thumbnails/duan_xiaoyu_conduction.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/duan_xiaoyu_illumination.png"
             }
         ], 
         "id": 6, 
@@ -422,6 +447,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/han_xuanhao_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/han_xuanhao_daylighting_exercise.png"
             }
         ], 
         "id": 7, 
@@ -485,6 +515,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/hao_yunzhuo_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/hao_yunzhuo_daylighting_exercise.png"
             }
         ], 
         "id": 8, 
@@ -596,6 +631,11 @@
                 "folder": "09_building_enclosure", 
                 "name": "Enclosure", 
                 "thumbnail": "thumbnails/hernandez_mariela_09_building_enclosure.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/hernandez_mariela_illuminance_measurement.png"
             }
         ], 
         "id": 10, 
@@ -659,6 +699,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": null
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/hillier_jordan_day light exercise.png"
             }
         ], 
         "id": 11, 
@@ -717,6 +762,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/huang_justine_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/huang_justine_daylighting1.png"
             }
         ], 
         "id": 12, 
@@ -740,6 +790,11 @@
                 "folder": "02_outdoor_comfort_map_round_II", 
                 "name": "Field measurement II", 
                 "thumbnail": "thumbnails/group_04_assignment_3.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/ijaz_uroosa_daylighting_exercise.png"
             }
         ], 
         "id": 13, 
@@ -803,6 +858,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/jia_weizhen_energy_balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/jia_weizhen_daylighting_exercise.png"
             }
         ], 
         "id": 14, 
@@ -866,6 +926,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/kane_keaton_building energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/kane_keaton_illumination.png"
             }
         ], 
         "id": 15, 
@@ -924,6 +989,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/kim_gwansook_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/kim_gwansook_daylighting_exercise.png"
             }
         ], 
         "id": 16, 
@@ -987,6 +1057,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/lanski_katherine_energybalance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/lanski_katherine_illumination.png"
             }
         ], 
         "id": 17, 
@@ -1151,6 +1226,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/lin_shihkai_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/lin_shihkai_daylighting_exercise.png"
             }
         ], 
         "id": 20, 
@@ -1330,6 +1410,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/ogunmoyero_ayotunde_building energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/ogunmoyero_ayotunde_daylighting_exercise.png"
             }
         ], 
         "id": 23, 
@@ -1393,6 +1478,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/oh_jinah_energy_balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/oh_jinah_illumination.png"
             }
         ], 
         "id": 24, 
@@ -1456,6 +1546,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/su_ting_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/su_ting_daylighting assignment.png"
             }
         ], 
         "id": 25, 
@@ -1519,6 +1614,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/sun_xuezhu_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/sun_xuezhu_daylightingexercise.png"
             }
         ], 
         "id": 26, 
@@ -1577,6 +1677,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/turpin_ellison_energy_balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/turpin_ellison_daylighting.png"
             }
         ], 
         "id": 27, 
@@ -1605,6 +1710,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/vannoy_calvin_assignment 10.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/vannoy_calvin_assignment 11.png"
             }
         ], 
         "id": 28, 
@@ -1668,6 +1778,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/wang_bingyu_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/wang_bingyu_daylighting exercise.png"
             }
         ], 
         "id": 29, 
@@ -1731,6 +1846,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/weaver_logan_energy_balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/weaver_logan_assignment 11.png"
             }
         ], 
         "id": 30, 
@@ -1837,6 +1957,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/zhang_yefan_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/zhang_yefan_daylighting exercise.png"
             }
         ], 
         "id": 32, 
