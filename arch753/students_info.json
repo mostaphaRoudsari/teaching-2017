@@ -37,6 +37,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/chan_lokyunpriscilla.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/chan_lokyunpriscilla.png"
             }
         ], 
         "id": 0, 
@@ -79,6 +84,11 @@
             {
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
+                "thumbnail": "thumbnails/farah_silmi.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
                 "thumbnail": "thumbnails/farah_silmi.png"
             }
         ], 
@@ -123,6 +133,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/guarin_juan.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/guarin_juan.png"
             }
         ], 
         "id": 2, 
@@ -161,6 +176,11 @@
                 "folder": "20171106", 
                 "name": "Energy Simulation I", 
                 "thumbnail": null
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/gupta_naman.png"
             }
         ], 
         "id": 3, 
@@ -204,6 +224,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/huang_weston.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/huang_weston.png"
             }
         ], 
         "id": 4, 
@@ -236,6 +261,11 @@
             {
                 "folder": "20171106", 
                 "name": "Energy Simulation I", 
+                "thumbnail": "thumbnails/hwang_youngjin.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
                 "thumbnail": "thumbnails/hwang_youngjin.png"
             }
         ], 
@@ -280,6 +310,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/jeon_bosung.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/jeon_bosung.png"
             }
         ], 
         "id": 6, 
@@ -322,6 +357,11 @@
             {
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
+                "thumbnail": "thumbnails/jiang_hewen.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
                 "thumbnail": "thumbnails/jiang_hewen.png"
             }
         ], 
@@ -366,6 +406,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/kamath_ayodh.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/kamath_ayodh.png"
             }
         ], 
         "id": 8, 
@@ -408,6 +453,11 @@
             {
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
+                "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
                 "thumbnail": "thumbnails/katta-adiseshaiah_aishwarya.png"
             }
         ], 
@@ -452,6 +502,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/kennedy_kirin.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/kennedy_kirin.png"
             }
         ], 
         "id": 10, 
@@ -495,6 +550,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/li_yunqian.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/li_yunqian.png"
             }
         ], 
         "id": 11, 
@@ -532,6 +592,11 @@
             {
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
+                "thumbnail": "thumbnails/ma_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
                 "thumbnail": "thumbnails/ma_xiaoyu.png"
             }
         ], 
@@ -576,6 +641,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/nelson_graham_111217.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/nelson_graham_111917.png"
             }
         ], 
         "id": 13, 
@@ -609,6 +679,11 @@
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/peng_yunzhongda_1112.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
+                "thumbnail": "thumbnails/peng_yunzhongda_1118.png"
             }
         ], 
         "id": 14, 
@@ -651,6 +726,11 @@
             {
                 "folder": "20171113", 
                 "name": "Energy Simulation II", 
+                "thumbnail": "thumbnails/wang_yuchi.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
                 "thumbnail": "thumbnails/wang_yuchi.png"
             }
         ], 
@@ -727,6 +807,11 @@
             {
                 "folder": "20171030", 
                 "name": "Daylighting II", 
+                "thumbnail": "thumbnails/zhao_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171120", 
+                "name": "Energy Simu III", 
                 "thumbnail": "thumbnails/zhao_xiaoyu.png"
             }
         ], 
