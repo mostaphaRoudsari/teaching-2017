@@ -251,6 +251,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/bronola_nicole_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/bronola_nicole_daylighting_exercise.png"
             }
         ], 
         "id": 3, 
@@ -379,6 +384,11 @@
                 "folder": "09_building_enclosure", 
                 "name": "Enclosure", 
                 "thumbnail": "thumbnails/duan_xiaoyu_conduction.png"
+            }, 
+            {
+                "folder": "10_energy_balance", 
+                "name": "Energy Balance", 
+                "thumbnail": "thumbnails/duan_xiaoyu_energy balance.png"
             }, 
             {
                 "folder": "11_illuminance_measurement", 
@@ -633,6 +643,11 @@
                 "thumbnail": "thumbnails/hernandez_mariela_09_building_enclosure.png"
             }, 
             {
+                "folder": "10_energy_balance", 
+                "name": "Energy Balance", 
+                "thumbnail": "thumbnails/hernandez_mariela_energy_balance.png"
+            }, 
+            {
                 "folder": "11_illuminance_measurement", 
                 "name": "11_illuminance_measurement", 
                 "thumbnail": "thumbnails/hernandez_mariela_illuminance_measurement.png"
@@ -752,6 +767,11 @@
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
                 "thumbnail": "thumbnails/huang_justine_meyerson_massing.png"
+            }, 
+            {
+                "folder": "08_natural_ventilation_meyerson", 
+                "name": "Natural Ventilation", 
+                "thumbnail": "thumbnails/huang_justine_natural ventilation.png"
             }, 
             {
                 "folder": "09_building_enclosure", 
@@ -1322,6 +1342,16 @@
                 "folder": "03_outdoor_shading_design", 
                 "name": "Canopy design", 
                 "thumbnail": "thumbnails/matia_andrew_outdoorcomfortcalculation.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": "thumbnails/matia_andrew_climatedataround2.png"
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/matia_andrew_outdoorcomfortsimulation.png"
             }, 
             {
                 "folder": "06_case_studies", 
@@ -2025,6 +2055,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/zhang_yi_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/zhang_yi_daylightingexercise.png"
             }
         ], 
         "id": 33, 
@@ -2088,6 +2123,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/zhu_zheng-yang_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "11_illuminance_measurement", 
+                "thumbnail": "thumbnails/zhu_zheng-yang_daylightingexercise.png"
             }
         ], 
         "id": 34, 

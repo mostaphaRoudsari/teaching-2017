@@ -20,8 +20,8 @@
           {
             "family_name": "Adamski", 
             "email": "aadamski@upenn.edu", 
-            "id": 0, 
-            "name": "Alexandra"
+            "name": "Alexandra", 
+            "id": 0
           }
         ]
       }, 
@@ -35,8 +35,8 @@
           {
             "family_name": "Ali", 
             "email": "mohamed7@upenn.edu", 
-            "id": 1, 
-            "name": "Mohamed"
+            "name": "Mohamed", 
+            "id": 1
           }
         ]
       }, 
@@ -50,8 +50,8 @@
           {
             "family_name": "Bonilla", 
             "email": "cbonil@upenn.edu", 
-            "id": 2, 
-            "name": "Carla"
+            "name": "Carla", 
+            "id": 2
           }
         ]
       }, 
@@ -65,8 +65,8 @@
           {
             "family_name": "Bronola", 
             "email": "nbronola@upenn.edu", 
-            "id": 3, 
-            "name": "Nicole"
+            "name": "Nicole", 
+            "id": 3
           }
         ]
       }, 
@@ -80,8 +80,8 @@
           {
             "family_name": "Chen", 
             "email": "chensir@upenn.edu", 
-            "id": 4, 
-            "name": "Sirui"
+            "name": "Sirui", 
+            "id": 4
           }
         ]
       }, 
@@ -95,8 +95,8 @@
           {
             "family_name": "Duan", 
             "email": "dxiaoyu@upenn.edu", 
-            "id": 6, 
-            "name": "Xiaoyu"
+            "name": "Xiaoyu", 
+            "id": 6
           }
         ]
       }, 
@@ -110,8 +110,8 @@
           {
             "family_name": "Han", 
             "email": "xuanhao@upenn.edu", 
-            "id": 7, 
-            "name": "Xuanhao"
+            "name": "Xuanhao", 
+            "id": 7
           }
         ]
       }, 
@@ -125,8 +125,8 @@
           {
             "family_name": "Hao", 
             "email": "hyunz@design.upenn.edu", 
-            "id": 8, 
-            "name": "Yunzhuo"
+            "name": "Yunzhuo", 
+            "id": 8
           }
         ]
       }, 
@@ -140,8 +140,8 @@
           {
             "family_name": "Heldridge", 
             "email": "ehel@upenn.edu", 
-            "id": 9, 
-            "name": "Elizabeth"
+            "name": "Elizabeth", 
+            "id": 9
           }
         ]
       }, 
@@ -155,8 +155,8 @@
           {
             "family_name": "Hernandez", 
             "email": "marielah@upenn.edu", 
-            "id": 10, 
-            "name": "Mariela"
+            "name": "Mariela", 
+            "id": 10
           }
         ]
       }, 
@@ -170,8 +170,8 @@
           {
             "family_name": "Hillier", 
             "email": "hillierj@sas.upenn.edu", 
-            "id": 11, 
-            "name": "Jordan"
+            "name": "Jordan", 
+            "id": 11
           }
         ]
       }, 
@@ -185,8 +185,8 @@
           {
             "family_name": "Huang", 
             "email": "juhuang@upenn.edu", 
-            "id": 12, 
-            "name": "Justine"
+            "name": "Justine", 
+            "id": 12
           }
         ]
       }, 
@@ -200,8 +200,8 @@
           {
             "family_name": "Ijaz", 
             "email": "uroosa@upenn.edu", 
-            "id": 13, 
-            "name": "Uroosa"
+            "name": "Uroosa", 
+            "id": 13
           }
         ]
       }, 
@@ -215,8 +215,8 @@
           {
             "family_name": "Jia", 
             "email": "weizhenj@upenn.edu", 
-            "id": 14, 
-            "name": "Weizhen"
+            "name": "Weizhen", 
+            "id": 14
           }
         ]
       }, 
@@ -230,8 +230,8 @@
           {
             "family_name": "Kane", 
             "email": "keaton@upenn.edu", 
-            "id": 15, 
-            "name": "Keaton"
+            "name": "Keaton", 
+            "id": 15
           }
         ]
       }, 
@@ -245,8 +245,8 @@
           {
             "family_name": "Kim", 
             "email": "gwkim@upenn.edu", 
-            "id": 16, 
-            "name": "GwanSook"
+            "name": "GwanSook", 
+            "id": 16
           }
         ]
       }, 
@@ -260,8 +260,8 @@
           {
             "family_name": "Lanski", 
             "email": "klanski@upenn.edu", 
-            "id": 17, 
-            "name": "Katherine"
+            "name": "Katherine", 
+            "id": 17
           }
         ]
       }, 
@@ -275,8 +275,8 @@
           {
             "family_name": "Lee", 
             "email": "jongwlee@upenn.edu", 
-            "id": 18, 
-            "name": "Jongwon"
+            "name": "Jongwon", 
+            "id": 18
           }
         ]
       }, 
@@ -290,8 +290,8 @@
           {
             "family_name": "Lee", 
             "email": "leetae@upenn.edu", 
-            "id": 19, 
-            "name": "Tae"
+            "name": "Tae", 
+            "id": 19
           }
         ]
       }, 
@@ -305,8 +305,8 @@
           {
             "family_name": "Lin", 
             "email": "shilin@upenn.edu", 
-            "id": 20, 
-            "name": "ShihKai"
+            "name": "ShihKai", 
+            "id": 20
           }
         ]
       }, 
@@ -320,8 +320,8 @@
           {
             "family_name": "Liu", 
             "email": "lyuc@upenn.edu", 
-            "id": 21, 
-            "name": "Yuchen"
+            "name": "Yuchen", 
+            "id": 21
           }
         ]
       }, 
@@ -335,8 +335,8 @@
           {
             "family_name": "Matia", 
             "email": "amatia@upenn.edu", 
-            "id": 22, 
-            "name": "Andrew"
+            "name": "Andrew", 
+            "id": 22
           }
         ]
       }, 
@@ -350,8 +350,8 @@
           {
             "family_name": "Ogunmoyero", 
             "email": "oayo@upenn.edu", 
-            "id": 23, 
-            "name": "Ayotunde"
+            "name": "Ayotunde", 
+            "id": 23
           }
         ]
       }, 
@@ -365,8 +365,8 @@
           {
             "family_name": "Oh", 
             "email": "jinahoh@upenn.edu", 
-            "id": 24, 
-            "name": "Jinah"
+            "name": "Jinah", 
+            "id": 24
           }
         ]
       }, 
@@ -380,8 +380,8 @@
           {
             "family_name": "Su", 
             "email": "tingsu@upenn.edu", 
-            "id": 25, 
-            "name": "Ting"
+            "name": "Ting", 
+            "id": 25
           }
         ]
       }, 
@@ -395,8 +395,8 @@
           {
             "family_name": "Sun", 
             "email": "xuezhu@upenn.edu", 
-            "id": 26, 
-            "name": "Xuezhu"
+            "name": "Xuezhu", 
+            "id": 26
           }
         ]
       }, 
@@ -410,8 +410,8 @@
           {
             "family_name": "Vannoy", 
             "email": "cvannoy@upenn.edu", 
-            "id": 28, 
-            "name": "Calvin"
+            "name": "Calvin", 
+            "id": 28
           }
         ]
       }, 
@@ -425,8 +425,8 @@
           {
             "family_name": "Wang", 
             "email": "bingyuw@upenn.edu", 
-            "id": 29, 
-            "name": "Bingyu"
+            "name": "Bingyu", 
+            "id": 29
           }
         ]
       }, 
@@ -440,8 +440,8 @@
           {
             "family_name": "Weaver", 
             "email": "loweaver@upenn.edu", 
-            "id": 30, 
-            "name": "Logan"
+            "name": "Logan", 
+            "id": 30
           }
         ]
       }, 
@@ -455,8 +455,8 @@
           {
             "family_name": "Yamba", 
             "email": "moiseyam@upenn.edu", 
-            "id": 31, 
-            "name": "Moise"
+            "name": "Moise", 
+            "id": 31
           }
         ]
       }, 
@@ -470,8 +470,8 @@
           {
             "family_name": "Zhang", 
             "email": "yefanz@upenn.edu", 
-            "id": 32, 
-            "name": "Yefan"
+            "name": "Yefan", 
+            "id": 32
           }
         ]
       }, 
@@ -485,8 +485,8 @@
           {
             "family_name": "Zhang", 
             "email": "yizhang2@upenn.edu", 
-            "id": 33, 
-            "name": "Yi"
+            "name": "Yi", 
+            "id": 33
           }
         ]
       }, 
@@ -500,8 +500,8 @@
           {
             "family_name": "Zhu", 
             "email": "zhengzhu@upenn.edu", 
-            "id": 34, 
-            "name": "Zheng-Yang"
+            "name": "Zheng-Yang", 
+            "id": 34
           }
         ]
       }
@@ -523,20 +523,20 @@
           {
             "family_name": "Weaver", 
             "email": "loweaver@upenn.edu", 
-            "id": 30, 
-            "name": "Logan"
+            "name": "Logan", 
+            "id": 30
           }, 
           {
             "family_name": "Lanski", 
             "email": "klanski@upenn.edu", 
-            "id": 17, 
-            "name": "Katherine"
+            "name": "Katherine", 
+            "id": 17
           }, 
           {
             "family_name": "Huang", 
             "email": "juhuang@upenn.edu", 
-            "id": 12, 
-            "name": "Justine"
+            "name": "Justine", 
+            "id": 12
           }
         ]
       }, 
@@ -550,20 +550,20 @@
           {
             "family_name": "Hillier", 
             "email": "hillierj@sas.upenn.edu", 
-            "id": 11, 
-            "name": "Jordan"
+            "name": "Jordan", 
+            "id": 11
           }, 
           {
             "family_name": "Kane", 
             "email": "keaton@upenn.edu", 
-            "id": 15, 
-            "name": "Keaton"
+            "name": "Keaton", 
+            "id": 15
           }, 
           {
             "family_name": "Kim", 
             "email": "gwkim@upenn.edu", 
-            "id": 16, 
-            "name": "GwanSook"
+            "name": "GwanSook", 
+            "id": 16
           }
         ]
       }, 
@@ -577,14 +577,14 @@
           {
             "family_name": "Lin", 
             "email": "shilin@upenn.edu", 
-            "id": 20, 
-            "name": "ShihKai"
+            "name": "ShihKai", 
+            "id": 20
           }, 
           {
             "family_name": "Zhang", 
             "email": "yefanz@upenn.edu", 
-            "id": 32, 
-            "name": "Yefan"
+            "name": "Yefan", 
+            "id": 32
           }
         ]
       }, 
@@ -598,20 +598,20 @@
           {
             "family_name": "Hernandez", 
             "email": "marielah@upenn.edu", 
-            "id": 10, 
-            "name": "Mariela"
+            "name": "Mariela", 
+            "id": 10
           }, 
           {
             "family_name": "Ijaz", 
             "email": "uroosa@upenn.edu", 
-            "id": 13, 
-            "name": "Uroosa"
+            "name": "Uroosa", 
+            "id": 13
           }, 
           {
             "family_name": "Bonilla", 
             "email": "cbonil@upenn.edu", 
-            "id": 2, 
-            "name": "Carla"
+            "name": "Carla", 
+            "id": 2
           }
         ]
       }, 
@@ -625,20 +625,20 @@
           {
             "family_name": "Oh", 
             "email": "jinahoh@upenn.edu", 
-            "id": 24, 
-            "name": "Jinah"
+            "name": "Jinah", 
+            "id": 24
           }, 
           {
             "family_name": "Adamski", 
             "email": "aadamski@upenn.edu", 
-            "id": 0, 
-            "name": "Alexandra"
+            "name": "Alexandra", 
+            "id": 0
           }, 
           {
             "family_name": "Heldridge", 
             "email": "ehel@upenn.edu", 
-            "id": 9, 
-            "name": "Elizabeth"
+            "name": "Elizabeth", 
+            "id": 9
           }
         ]
       }, 
@@ -652,20 +652,20 @@
           {
             "family_name": "Wang", 
             "email": "bingyuw@upenn.edu", 
-            "id": 29, 
-            "name": "Bingyu"
+            "name": "Bingyu", 
+            "id": 29
           }, 
           {
             "family_name": "Su", 
             "email": "tingsu@upenn.edu", 
-            "id": 25, 
-            "name": "Ting"
+            "name": "Ting", 
+            "id": 25
           }, 
           {
             "family_name": "Duan", 
             "email": "dxiaoyu@upenn.edu", 
-            "id": 6, 
-            "name": "Xiaoyu"
+            "name": "Xiaoyu", 
+            "id": 6
           }
         ]
       }, 
@@ -679,20 +679,20 @@
           {
             "family_name": "Han", 
             "email": "xuanhao@upenn.edu", 
-            "id": 7, 
-            "name": "Xuanhao"
+            "name": "Xuanhao", 
+            "id": 7
           }, 
           {
             "family_name": "Zhu", 
             "email": "zhengzhu@upenn.edu", 
-            "id": 34, 
-            "name": "Zheng-Yang"
+            "name": "Zheng-Yang", 
+            "id": 34
           }, 
           {
             "family_name": "Liu", 
             "email": "lyuc@upenn.edu", 
-            "id": 21, 
-            "name": "Yuchen"
+            "name": "Yuchen", 
+            "id": 21
           }
         ]
       }, 
@@ -706,20 +706,20 @@
           {
             "family_name": "Jia", 
             "email": "weizhenj@upenn.edu", 
-            "id": 14, 
-            "name": "Weizhen"
+            "name": "Weizhen", 
+            "id": 14
           }, 
           {
             "family_name": "Chen", 
             "email": "chensir@upenn.edu", 
-            "id": 4, 
-            "name": "Sirui"
+            "name": "Sirui", 
+            "id": 4
           }, 
           {
             "family_name": "Hao", 
             "email": "hyunz@design.upenn.edu", 
-            "id": 8, 
-            "name": "Yunzhuo"
+            "name": "Yunzhuo", 
+            "id": 8
           }
         ]
       }, 
@@ -733,14 +733,14 @@
           {
             "family_name": "Zhang", 
             "email": "yizhang2@upenn.edu", 
-            "id": 33, 
-            "name": "Yi"
+            "name": "Yi", 
+            "id": 33
           }, 
           {
             "family_name": "Sun", 
             "email": "xuezhu@upenn.edu", 
-            "id": 26, 
-            "name": "Xuezhu"
+            "name": "Xuezhu", 
+            "id": 26
           }
         ]
       }, 
@@ -754,14 +754,14 @@
           {
             "family_name": "Matia", 
             "email": "amatia@upenn.edu", 
-            "id": 22, 
-            "name": "Andrew"
+            "name": "Andrew", 
+            "id": 22
           }, 
           {
             "family_name": "Lee", 
             "email": "leetae@upenn.edu", 
-            "id": 19, 
-            "name": "Tae"
+            "name": "Tae", 
+            "id": 19
           }
         ]
       }, 
@@ -775,20 +775,20 @@
           {
             "family_name": "Ali", 
             "email": "mohamed7@upenn.edu", 
-            "id": 1, 
-            "name": "Mohamed"
+            "name": "Mohamed", 
+            "id": 1
           }, 
           {
             "family_name": "Bronola", 
             "email": "nbronola@upenn.edu", 
-            "id": 3, 
-            "name": "Nicole"
+            "name": "Nicole", 
+            "id": 3
           }, 
           {
             "family_name": "Turpin", 
             "email": "ellisont@design.upenn.edu", 
-            "id": 27, 
-            "name": "Ellison"
+            "name": "Ellison", 
+            "id": 27
           }
         ]
       }, 
@@ -802,20 +802,20 @@
           {
             "family_name": "Lee", 
             "email": "jongwlee@upenn.edu", 
-            "id": 18, 
-            "name": "Jongwon"
+            "name": "Jongwon", 
+            "id": 18
           }, 
           {
             "family_name": "Yamba", 
             "email": "moiseyam@upenn.edu", 
-            "id": 31, 
-            "name": "Moise"
+            "name": "Moise", 
+            "id": 31
           }, 
           {
             "family_name": "Ogunmoyero", 
             "email": "oayo@upenn.edu", 
-            "id": 23, 
-            "name": "Ayotunde"
+            "name": "Ayotunde", 
+            "id": 23
           }
         ]
       }
@@ -837,20 +837,20 @@
           {
             "family_name": "Weaver", 
             "email": "loweaver@upenn.edu", 
-            "id": 30, 
-            "name": "Logan"
+            "name": "Logan", 
+            "id": 30
           }, 
           {
             "family_name": "Lanski", 
             "email": "klanski@upenn.edu", 
-            "id": 17, 
-            "name": "Katherine"
+            "name": "Katherine", 
+            "id": 17
           }, 
           {
             "family_name": "Huang", 
             "email": "juhuang@upenn.edu", 
-            "id": 12, 
-            "name": "Justine"
+            "name": "Justine", 
+            "id": 12
           }
         ]
       }, 
@@ -864,20 +864,20 @@
           {
             "family_name": "Hillier", 
             "email": "hillierj@sas.upenn.edu", 
-            "id": 11, 
-            "name": "Jordan"
+            "name": "Jordan", 
+            "id": 11
           }, 
           {
             "family_name": "Kane", 
             "email": "keaton@upenn.edu", 
-            "id": 15, 
-            "name": "Keaton"
+            "name": "Keaton", 
+            "id": 15
           }, 
           {
             "family_name": "Kim", 
             "email": "gwkim@upenn.edu", 
-            "id": 16, 
-            "name": "GwanSook"
+            "name": "GwanSook", 
+            "id": 16
           }
         ]
       }, 
@@ -891,14 +891,14 @@
           {
             "family_name": "Lin", 
             "email": "shilin@upenn.edu", 
-            "id": 20, 
-            "name": "ShihKai"
+            "name": "ShihKai", 
+            "id": 20
           }, 
           {
             "family_name": "Zhang", 
             "email": "yefanz@upenn.edu", 
-            "id": 32, 
-            "name": "Yefan"
+            "name": "Yefan", 
+            "id": 32
           }
         ]
       }, 
@@ -912,20 +912,20 @@
           {
             "family_name": "Hernandez", 
             "email": "marielah@upenn.edu", 
-            "id": 10, 
-            "name": "Mariela"
+            "name": "Mariela", 
+            "id": 10
           }, 
           {
             "family_name": "Ijaz", 
             "email": "uroosa@upenn.edu", 
-            "id": 13, 
-            "name": "Uroosa"
+            "name": "Uroosa", 
+            "id": 13
           }, 
           {
             "family_name": "Bonilla", 
             "email": "cbonil@upenn.edu", 
-            "id": 2, 
-            "name": "Carla"
+            "name": "Carla", 
+            "id": 2
           }
         ]
       }, 
@@ -939,20 +939,20 @@
           {
             "family_name": "Oh", 
             "email": "jinahoh@upenn.edu", 
-            "id": 24, 
-            "name": "Jinah"
+            "name": "Jinah", 
+            "id": 24
           }, 
           {
             "family_name": "Adamski", 
             "email": "aadamski@upenn.edu", 
-            "id": 0, 
-            "name": "Alexandra"
+            "name": "Alexandra", 
+            "id": 0
           }, 
           {
             "family_name": "Heldridge", 
             "email": "ehel@upenn.edu", 
-            "id": 9, 
-            "name": "Elizabeth"
+            "name": "Elizabeth", 
+            "id": 9
           }
         ]
       }, 
@@ -966,20 +966,20 @@
           {
             "family_name": "Wang", 
             "email": "bingyuw@upenn.edu", 
-            "id": 29, 
-            "name": "Bingyu"
+            "name": "Bingyu", 
+            "id": 29
           }, 
           {
             "family_name": "Su", 
             "email": "tingsu@upenn.edu", 
-            "id": 25, 
-            "name": "Ting"
+            "name": "Ting", 
+            "id": 25
           }, 
           {
             "family_name": "Duan", 
             "email": "dxiaoyu@upenn.edu", 
-            "id": 6, 
-            "name": "Xiaoyu"
+            "name": "Xiaoyu", 
+            "id": 6
           }
         ]
       }, 
@@ -993,20 +993,20 @@
           {
             "family_name": "Han", 
             "email": "xuanhao@upenn.edu", 
-            "id": 7, 
-            "name": "Xuanhao"
+            "name": "Xuanhao", 
+            "id": 7
           }, 
           {
             "family_name": "Zhu", 
             "email": "zhengzhu@upenn.edu", 
-            "id": 34, 
-            "name": "Zheng-Yang"
+            "name": "Zheng-Yang", 
+            "id": 34
           }, 
           {
             "family_name": "Liu", 
             "email": "lyuc@upenn.edu", 
-            "id": 21, 
-            "name": "Yuchen"
+            "name": "Yuchen", 
+            "id": 21
           }
         ]
       }, 
@@ -1020,20 +1020,20 @@
           {
             "family_name": "Jia", 
             "email": "weizhenj@upenn.edu", 
-            "id": 14, 
-            "name": "Weizhen"
+            "name": "Weizhen", 
+            "id": 14
           }, 
           {
             "family_name": "Chen", 
             "email": "chensir@upenn.edu", 
-            "id": 4, 
-            "name": "Sirui"
+            "name": "Sirui", 
+            "id": 4
           }, 
           {
             "family_name": "Hao", 
             "email": "hyunz@design.upenn.edu", 
-            "id": 8, 
-            "name": "Yunzhuo"
+            "name": "Yunzhuo", 
+            "id": 8
           }
         ]
       }, 
@@ -1047,14 +1047,14 @@
           {
             "family_name": "Zhang", 
             "email": "yizhang2@upenn.edu", 
-            "id": 33, 
-            "name": "Yi"
+            "name": "Yi", 
+            "id": 33
           }, 
           {
             "family_name": "Sun", 
             "email": "xuezhu@upenn.edu", 
-            "id": 26, 
-            "name": "Xuezhu"
+            "name": "Xuezhu", 
+            "id": 26
           }
         ]
       }, 
@@ -1068,14 +1068,14 @@
           {
             "family_name": "Matia", 
             "email": "amatia@upenn.edu", 
-            "id": 22, 
-            "name": "Andrew"
+            "name": "Andrew", 
+            "id": 22
           }, 
           {
             "family_name": "Lee", 
             "email": "leetae@upenn.edu", 
-            "id": 19, 
-            "name": "Tae"
+            "name": "Tae", 
+            "id": 19
           }
         ]
       }, 
@@ -1089,20 +1089,20 @@
           {
             "family_name": "Ali", 
             "email": "mohamed7@upenn.edu", 
-            "id": 1, 
-            "name": "Mohamed"
+            "name": "Mohamed", 
+            "id": 1
           }, 
           {
             "family_name": "Bronola", 
             "email": "nbronola@upenn.edu", 
-            "id": 3, 
-            "name": "Nicole"
+            "name": "Nicole", 
+            "id": 3
           }, 
           {
             "family_name": "Turpin", 
             "email": "ellisont@design.upenn.edu", 
-            "id": 27, 
-            "name": "Ellison"
+            "name": "Ellison", 
+            "id": 27
           }
         ]
       }, 
@@ -1116,20 +1116,20 @@
           {
             "family_name": "Lee", 
             "email": "jongwlee@upenn.edu", 
-            "id": 18, 
-            "name": "Jongwon"
+            "name": "Jongwon", 
+            "id": 18
           }, 
           {
             "family_name": "Yamba", 
             "email": "moiseyam@upenn.edu", 
-            "id": 31, 
-            "name": "Moise"
+            "name": "Moise", 
+            "id": 31
           }, 
           {
             "family_name": "Ogunmoyero", 
             "email": "oayo@upenn.edu", 
-            "id": 23, 
-            "name": "Ayotunde"
+            "name": "Ayotunde", 
+            "id": 23
           }
         ]
       }
@@ -1149,10 +1149,10 @@
         "thumbnail": "thumbnails/adamski_alexandra_outdoor comfort.png", 
         "team": [
           {
-            "id": 0, 
             "family_name": "Adamski", 
-            "email": "aadamski@upenn.edu", 
-            "name": "Alexandra"
+            "id": 0, 
+            "name": "Alexandra", 
+            "email": "aadamski@upenn.edu"
           }
         ]
       }, 
@@ -1164,10 +1164,10 @@
         "thumbnail": "thumbnails/ali_mohamed_outdoor comfort.png", 
         "team": [
           {
-            "id": 1, 
             "family_name": "Ali", 
-            "email": "mohamed7@upenn.edu", 
-            "name": "Mohamed"
+            "id": 1, 
+            "name": "Mohamed", 
+            "email": "mohamed7@upenn.edu"
           }
         ]
       }, 
@@ -1179,10 +1179,10 @@
         "thumbnail": "thumbnails/bonilla_carla_outdoor comfort simulation.png", 
         "team": [
           {
-            "id": 2, 
             "family_name": "Bonilla", 
-            "email": "cbonil@upenn.edu", 
-            "name": "Carla"
+            "id": 2, 
+            "name": "Carla", 
+            "email": "cbonil@upenn.edu"
           }
         ]
       }, 
@@ -1194,10 +1194,10 @@
         "thumbnail": "thumbnails/bronola_nicole_03.png", 
         "team": [
           {
-            "id": 3, 
             "family_name": "Bronola", 
-            "email": "nbronola@upenn.edu", 
-            "name": "Nicole"
+            "id": 3, 
+            "name": "Nicole", 
+            "email": "nbronola@upenn.edu"
           }
         ]
       }, 
@@ -1209,10 +1209,10 @@
         "thumbnail": "thumbnails/chen_sirui_outdoor_comfort_simulation.png", 
         "team": [
           {
-            "id": 4, 
             "family_name": "Chen", 
-            "email": "chensir@upenn.edu", 
-            "name": "Sirui"
+            "id": 4, 
+            "name": "Sirui", 
+            "email": "chensir@upenn.edu"
           }
         ]
       }, 
@@ -1224,10 +1224,10 @@
         "thumbnail": "thumbnails/duan_xiaoyu_assignment 03.png", 
         "team": [
           {
-            "id": 6, 
             "family_name": "Duan", 
-            "email": "dxiaoyu@upenn.edu", 
-            "name": "Xiaoyu"
+            "id": 6, 
+            "name": "Xiaoyu", 
+            "email": "dxiaoyu@upenn.edu"
           }
         ]
       }, 
@@ -1239,10 +1239,10 @@
         "thumbnail": "thumbnails/han_xuanhao_assignment3.png", 
         "team": [
           {
-            "id": 7, 
             "family_name": "Han", 
-            "email": "xuanhao@upenn.edu", 
-            "name": "Xuanhao"
+            "id": 7, 
+            "name": "Xuanhao", 
+            "email": "xuanhao@upenn.edu"
           }
         ]
       }, 
@@ -1254,10 +1254,10 @@
         "thumbnail": "thumbnails/hao_yunzhuo_assignment3.png", 
         "team": [
           {
-            "id": 8, 
             "family_name": "Hao", 
-            "email": "hyunz@design.upenn.edu", 
-            "name": "Yunzhuo"
+            "id": 8, 
+            "name": "Yunzhuo", 
+            "email": "hyunz@design.upenn.edu"
           }
         ]
       }, 
@@ -1269,10 +1269,10 @@
         "thumbnail": "thumbnails/heldridge_elizabeth_outdoor comfort assignment.png", 
         "team": [
           {
-            "id": 9, 
             "family_name": "Heldridge", 
-            "email": "ehel@upenn.edu", 
-            "name": "Elizabeth"
+            "id": 9, 
+            "name": "Elizabeth", 
+            "email": "ehel@upenn.edu"
           }
         ]
       }, 
@@ -1284,10 +1284,10 @@
         "thumbnail": "thumbnails/hernandez_mariela_outdoor_comfort_simulation.png", 
         "team": [
           {
-            "id": 10, 
             "family_name": "Hernandez", 
-            "email": "marielah@upenn.edu", 
-            "name": "Mariela"
+            "id": 10, 
+            "name": "Mariela", 
+            "email": "marielah@upenn.edu"
           }
         ]
       }, 
@@ -1299,10 +1299,10 @@
         "thumbnail": "thumbnails/hillier_jordan_assignment 3.png", 
         "team": [
           {
-            "id": 11, 
             "family_name": "Hillier", 
-            "email": "hillierj@sas.upenn.edu", 
-            "name": "Jordan"
+            "id": 11, 
+            "name": "Jordan", 
+            "email": "hillierj@sas.upenn.edu"
           }
         ]
       }, 
@@ -1314,10 +1314,10 @@
         "thumbnail": "thumbnails/huang_justine_canopy design.png", 
         "team": [
           {
-            "id": 12, 
             "family_name": "Huang", 
-            "email": "juhuang@upenn.edu", 
-            "name": "Justine"
+            "id": 12, 
+            "name": "Justine", 
+            "email": "juhuang@upenn.edu"
           }
         ]
       }, 
@@ -1329,10 +1329,10 @@
         "thumbnail": "thumbnails/jia_weizhen_03.png", 
         "team": [
           {
-            "id": 14, 
             "family_name": "Jia", 
-            "email": "weizhenj@upenn.edu", 
-            "name": "Weizhen"
+            "id": 14, 
+            "name": "Weizhen", 
+            "email": "weizhenj@upenn.edu"
           }
         ]
       }, 
@@ -1344,10 +1344,10 @@
         "thumbnail": "thumbnails/kane_keaton_outdoor comfort simulation.png", 
         "team": [
           {
-            "id": 15, 
             "family_name": "Kane", 
-            "email": "keaton@upenn.edu", 
-            "name": "Keaton"
+            "id": 15, 
+            "name": "Keaton", 
+            "email": "keaton@upenn.edu"
           }
         ]
       }, 
@@ -1359,10 +1359,10 @@
         "thumbnail": "thumbnails/kim_gwansook_outdoor_comfort_simulation.png", 
         "team": [
           {
-            "id": 16, 
             "family_name": "Kim", 
-            "email": "gwkim@upenn.edu", 
-            "name": "GwanSook"
+            "id": 16, 
+            "name": "GwanSook", 
+            "email": "gwkim@upenn.edu"
           }
         ]
       }, 
@@ -1374,10 +1374,10 @@
         "thumbnail": "thumbnails/lanski_katherine_outdoorcomfortsimulation.png", 
         "team": [
           {
-            "id": 17, 
             "family_name": "Lanski", 
-            "email": "klanski@upenn.edu", 
-            "name": "Katherine"
+            "id": 17, 
+            "name": "Katherine", 
+            "email": "klanski@upenn.edu"
           }
         ]
       }, 
@@ -1389,10 +1389,10 @@
         "thumbnail": "thumbnails/lee_jongwon_03- outdoor comfort.png", 
         "team": [
           {
-            "id": 18, 
             "family_name": "Lee", 
-            "email": "jongwlee@upenn.edu", 
-            "name": "Jongwon"
+            "id": 18, 
+            "name": "Jongwon", 
+            "email": "jongwlee@upenn.edu"
           }
         ]
       }, 
@@ -1404,10 +1404,10 @@
         "thumbnail": "thumbnails/lee_tae_4_outdoor comfort simulation.png", 
         "team": [
           {
-            "id": 19, 
             "family_name": "Lee", 
-            "email": "leetae@upenn.edu", 
-            "name": "Tae"
+            "id": 19, 
+            "name": "Tae", 
+            "email": "leetae@upenn.edu"
           }
         ]
       }, 
@@ -1419,10 +1419,10 @@
         "thumbnail": "thumbnails/lin_shihkai_outdoorcomfort.png", 
         "team": [
           {
-            "id": 20, 
             "family_name": "Lin", 
-            "email": "shilin@upenn.edu", 
-            "name": "ShihKai"
+            "id": 20, 
+            "name": "ShihKai", 
+            "email": "shilin@upenn.edu"
           }
         ]
       }, 
@@ -1434,10 +1434,10 @@
         "thumbnail": "thumbnails/liu_yuchen_outdoorcomfortcalculation.png", 
         "team": [
           {
-            "id": 21, 
             "family_name": "Liu", 
-            "email": "lyuc@upenn.edu", 
-            "name": "Yuchen"
+            "id": 21, 
+            "name": "Yuchen", 
+            "email": "lyuc@upenn.edu"
           }
         ]
       }, 
@@ -1449,10 +1449,10 @@
         "thumbnail": "thumbnails/matia_andrew_outdoorcomfortcalculation.png", 
         "team": [
           {
-            "id": 22, 
             "family_name": "Matia", 
-            "email": "amatia@upenn.edu", 
-            "name": "Andrew"
+            "id": 22, 
+            "name": "Andrew", 
+            "email": "amatia@upenn.edu"
           }
         ]
       }, 
@@ -1464,10 +1464,10 @@
         "thumbnail": "thumbnails/ogunmoyero_ayotunde_outdoorcomfort.png", 
         "team": [
           {
-            "id": 23, 
             "family_name": "Ogunmoyero", 
-            "email": "oayo@upenn.edu", 
-            "name": "Ayotunde"
+            "id": 23, 
+            "name": "Ayotunde", 
+            "email": "oayo@upenn.edu"
           }
         ]
       }, 
@@ -1479,10 +1479,10 @@
         "thumbnail": "thumbnails/oh_jinah.png", 
         "team": [
           {
-            "id": 24, 
             "family_name": "Oh", 
-            "email": "jinahoh@upenn.edu", 
-            "name": "Jinah"
+            "id": 24, 
+            "name": "Jinah", 
+            "email": "jinahoh@upenn.edu"
           }
         ]
       }, 
@@ -1494,10 +1494,10 @@
         "thumbnail": "thumbnails/su_ting_assignment03.png", 
         "team": [
           {
-            "id": 25, 
             "family_name": "Su", 
-            "email": "tingsu@upenn.edu", 
-            "name": "Ting"
+            "id": 25, 
+            "name": "Ting", 
+            "email": "tingsu@upenn.edu"
           }
         ]
       }, 
@@ -1509,10 +1509,10 @@
         "thumbnail": "thumbnails/sun_xuezhu_outdoor comfort simulation.png", 
         "team": [
           {
-            "id": 26, 
             "family_name": "Sun", 
-            "email": "xuezhu@upenn.edu", 
-            "name": "Xuezhu"
+            "id": 26, 
+            "name": "Xuezhu", 
+            "email": "xuezhu@upenn.edu"
           }
         ]
       }, 
@@ -1524,10 +1524,10 @@
         "thumbnail": "thumbnails/turpin_ellison_03.png", 
         "team": [
           {
-            "id": 27, 
             "family_name": "Turpin", 
-            "email": "ellisont@design.upenn.edu", 
-            "name": "Ellison"
+            "id": 27, 
+            "name": "Ellison", 
+            "email": "ellisont@design.upenn.edu"
           }
         ]
       }, 
@@ -1539,10 +1539,10 @@
         "thumbnail": "thumbnails/vannoy_calvin_assignment_4.png", 
         "team": [
           {
-            "id": 28, 
             "family_name": "Vannoy", 
-            "email": "cvannoy@upenn.edu", 
-            "name": "Calvin"
+            "id": 28, 
+            "name": "Calvin", 
+            "email": "cvannoy@upenn.edu"
           }
         ]
       }, 
@@ -1554,10 +1554,10 @@
         "thumbnail": "thumbnails/wang_bingyu_outdoor comfort calculation.png", 
         "team": [
           {
-            "id": 29, 
             "family_name": "Wang", 
-            "email": "bingyuw@upenn.edu", 
-            "name": "Bingyu"
+            "id": 29, 
+            "name": "Bingyu", 
+            "email": "bingyuw@upenn.edu"
           }
         ]
       }, 
@@ -1569,10 +1569,10 @@
         "thumbnail": "thumbnails/weaver_logan_assignment 3_outdoor comfort studies.png", 
         "team": [
           {
-            "id": 30, 
             "family_name": "Weaver", 
-            "email": "loweaver@upenn.edu", 
-            "name": "Logan"
+            "id": 30, 
+            "name": "Logan", 
+            "email": "loweaver@upenn.edu"
           }
         ]
       }, 
@@ -1584,10 +1584,10 @@
         "thumbnail": "thumbnails/yamba_moise_a4.png", 
         "team": [
           {
-            "id": 31, 
             "family_name": "Yamba", 
-            "email": "moiseyam@upenn.edu", 
-            "name": "Moise"
+            "id": 31, 
+            "name": "Moise", 
+            "email": "moiseyam@upenn.edu"
           }
         ]
       }, 
@@ -1599,10 +1599,10 @@
         "thumbnail": "thumbnails/zhang_yefan_outdoor comfort simulation.png", 
         "team": [
           {
-            "id": 32, 
             "family_name": "Zhang", 
-            "email": "yefanz@upenn.edu", 
-            "name": "Yefan"
+            "id": 32, 
+            "name": "Yefan", 
+            "email": "yefanz@upenn.edu"
           }
         ]
       }, 
@@ -1614,10 +1614,10 @@
         "thumbnail": "thumbnails/zhang_yi_outdoor comfort.png", 
         "team": [
           {
-            "id": 33, 
             "family_name": "Zhang", 
-            "email": "yizhang2@upenn.edu", 
-            "name": "Yi"
+            "id": 33, 
+            "name": "Yi", 
+            "email": "yizhang2@upenn.edu"
           }
         ]
       }, 
@@ -1629,10 +1629,10 @@
         "thumbnail": "thumbnails/zhu_zheng-yang_assignment 3.png", 
         "team": [
           {
-            "id": 34, 
             "family_name": "Zhu", 
-            "email": "zhengzhu@upenn.edu", 
-            "name": "Zheng-Yang"
+            "id": 34, 
+            "name": "Zheng-Yang", 
+            "email": "zhengzhu@upenn.edu"
           }
         ]
       }
@@ -1652,9 +1652,9 @@
         "thumbnail": "thumbnails/adamski_alexandra_climate_data_report_2.png", 
         "team": [
           {
-            "id": 0, 
             "family_name": "Adamski", 
             "email": "aadamski@upenn.edu", 
+            "id": 0, 
             "name": "Alexandra"
           }
         ]
@@ -1667,9 +1667,9 @@
         "thumbnail": "thumbnails/ali_mohamed_weather report2.png", 
         "team": [
           {
-            "id": 1, 
             "family_name": "Ali", 
             "email": "mohamed7@upenn.edu", 
+            "id": 1, 
             "name": "Mohamed"
           }
         ]
@@ -1682,9 +1682,9 @@
         "thumbnail": "thumbnails/bonilla_carla_climate report round 2.png", 
         "team": [
           {
-            "id": 2, 
             "family_name": "Bonilla", 
             "email": "cbonil@upenn.edu", 
+            "id": 2, 
             "name": "Carla"
           }
         ]
@@ -1697,9 +1697,9 @@
         "thumbnail": "thumbnails/chen_sirui_climate_report_round_2.png", 
         "team": [
           {
-            "id": 4, 
             "family_name": "Chen", 
             "email": "chensir@upenn.edu", 
+            "id": 4, 
             "name": "Sirui"
           }
         ]
@@ -1712,9 +1712,9 @@
         "thumbnail": "thumbnails/duan_xiaoyu_assignment 04.png", 
         "team": [
           {
-            "id": 6, 
             "family_name": "Duan", 
             "email": "dxiaoyu@upenn.edu", 
+            "id": 6, 
             "name": "Xiaoyu"
           }
         ]
@@ -1727,9 +1727,9 @@
         "thumbnail": "thumbnails/han_xuanhao_assignment4.png", 
         "team": [
           {
-            "id": 7, 
             "family_name": "Han", 
             "email": "xuanhao@upenn.edu", 
+            "id": 7, 
             "name": "Xuanhao"
           }
         ]
@@ -1742,9 +1742,9 @@
         "thumbnail": "thumbnails/hao_yunzhuo_climate report round 2.png", 
         "team": [
           {
-            "id": 8, 
             "family_name": "Hao", 
             "email": "hyunz@design.upenn.edu", 
+            "id": 8, 
             "name": "Yunzhuo"
           }
         ]
@@ -1757,9 +1757,9 @@
         "thumbnail": "thumbnails/hernandez_mariela_climate_data_report_round_2.png", 
         "team": [
           {
-            "id": 10, 
             "family_name": "Hernandez", 
             "email": "marielah@upenn.edu", 
+            "id": 10, 
             "name": "Mariela"
           }
         ]
@@ -1772,9 +1772,9 @@
         "thumbnail": "thumbnails/hillier_jordan_climate analysis edited.png", 
         "team": [
           {
-            "id": 11, 
             "family_name": "Hillier", 
             "email": "hillierj@sas.upenn.edu", 
+            "id": 11, 
             "name": "Jordan"
           }
         ]
@@ -1787,9 +1787,9 @@
         "thumbnail": "thumbnails/huang_justine_passive design.png", 
         "team": [
           {
-            "id": 12, 
             "family_name": "Huang", 
             "email": "juhuang@upenn.edu", 
+            "id": 12, 
             "name": "Justine"
           }
         ]
@@ -1802,9 +1802,9 @@
         "thumbnail": "thumbnails/jia_weizhen_climate report round2.png", 
         "team": [
           {
-            "id": 14, 
             "family_name": "Jia", 
             "email": "weizhenj@upenn.edu", 
+            "id": 14, 
             "name": "Weizhen"
           }
         ]
@@ -1817,9 +1817,9 @@
         "thumbnail": "thumbnails/kane_keaton_climate data report round 2.png", 
         "team": [
           {
-            "id": 15, 
             "family_name": "Kane", 
             "email": "keaton@upenn.edu", 
+            "id": 15, 
             "name": "Keaton"
           }
         ]
@@ -1832,9 +1832,9 @@
         "thumbnail": "thumbnails/kim_gwansook_04_climate_data_report_round_2.png", 
         "team": [
           {
-            "id": 16, 
             "family_name": "Kim", 
             "email": "gwkim@upenn.edu", 
+            "id": 16, 
             "name": "GwanSook"
           }
         ]
@@ -1847,9 +1847,9 @@
         "thumbnail": "thumbnails/lanski_katherine_climatereport02.png", 
         "team": [
           {
-            "id": 17, 
             "family_name": "Lanski", 
             "email": "klanski@upenn.edu", 
+            "id": 17, 
             "name": "Katherine"
           }
         ]
@@ -1862,9 +1862,9 @@
         "thumbnail": "thumbnails/lee_tae_04_climate_data_report_round_2.png", 
         "team": [
           {
-            "id": 19, 
             "family_name": "Lee", 
             "email": "leetae@upenn.edu", 
+            "id": 19, 
             "name": "Tae"
           }
         ]
@@ -1877,9 +1877,9 @@
         "thumbnail": "thumbnails/lin_shihkai_climate report round 2.png", 
         "team": [
           {
-            "id": 20, 
             "family_name": "Lin", 
             "email": "shilin@upenn.edu", 
+            "id": 20, 
             "name": "ShihKai"
           }
         ]
@@ -1892,10 +1892,25 @@
         "thumbnail": "thumbnails/liu_yuchen_climatreportround2.png", 
         "team": [
           {
-            "id": 21, 
             "family_name": "Liu", 
             "email": "lyuc@upenn.edu", 
+            "id": 21, 
             "name": "Yuchen"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "matia_andrew_climatedataround2.pdf"
+        ], 
+        "team_name": "Andrew Matia", 
+        "thumbnail": "thumbnails/matia_andrew_climatedataround2.png", 
+        "team": [
+          {
+            "family_name": "Matia", 
+            "email": "amatia@upenn.edu", 
+            "id": 22, 
+            "name": "Andrew"
           }
         ]
       }, 
@@ -1907,9 +1922,9 @@
         "thumbnail": "thumbnails/ogunmoyero_ayotunde_climate data report round 2.png", 
         "team": [
           {
-            "id": 23, 
             "family_name": "Ogunmoyero", 
             "email": "oayo@upenn.edu", 
+            "id": 23, 
             "name": "Ayotunde"
           }
         ]
@@ -1922,9 +1937,9 @@
         "thumbnail": "thumbnails/oh_jinah_round 2.png", 
         "team": [
           {
-            "id": 24, 
             "family_name": "Oh", 
             "email": "jinahoh@upenn.edu", 
+            "id": 24, 
             "name": "Jinah"
           }
         ]
@@ -1937,9 +1952,9 @@
         "thumbnail": "thumbnails/su_ting_assignment04.png", 
         "team": [
           {
-            "id": 25, 
             "family_name": "Su", 
             "email": "tingsu@upenn.edu", 
+            "id": 25, 
             "name": "Ting"
           }
         ]
@@ -1952,9 +1967,9 @@
         "thumbnail": "thumbnails/sun_xuezhu_assignment_4.png", 
         "team": [
           {
-            "id": 26, 
             "family_name": "Sun", 
             "email": "xuezhu@upenn.edu", 
+            "id": 26, 
             "name": "Xuezhu"
           }
         ]
@@ -1967,9 +1982,9 @@
         "thumbnail": "thumbnails/turpin_ellison_climate data report.png", 
         "team": [
           {
-            "id": 27, 
             "family_name": "Turpin", 
             "email": "ellisont@design.upenn.edu", 
+            "id": 27, 
             "name": "Ellison"
           }
         ]
@@ -1982,9 +1997,9 @@
         "thumbnail": null, 
         "team": [
           {
-            "id": 29, 
             "family_name": "Wang", 
             "email": "bingyuw@upenn.edu", 
+            "id": 29, 
             "name": "Bingyu"
           }
         ]
@@ -1997,9 +2012,9 @@
         "thumbnail": "thumbnails/weaver_logan_climate_data_report_round_2.png", 
         "team": [
           {
-            "id": 30, 
             "family_name": "Weaver", 
             "email": "loweaver@upenn.edu", 
+            "id": 30, 
             "name": "Logan"
           }
         ]
@@ -2012,9 +2027,9 @@
         "thumbnail": "thumbnails/yamba_moise_a5.png", 
         "team": [
           {
-            "id": 31, 
             "family_name": "Yamba", 
             "email": "moiseyam@upenn.edu", 
+            "id": 31, 
             "name": "Moise"
           }
         ]
@@ -2027,9 +2042,9 @@
         "thumbnail": "thumbnails/zhang_yefan_assginment4.png", 
         "team": [
           {
-            "id": 32, 
             "family_name": "Zhang", 
             "email": "yefanz@upenn.edu", 
+            "id": 32, 
             "name": "Yefan"
           }
         ]
@@ -2042,9 +2057,9 @@
         "thumbnail": "thumbnails/zhang_yi_04_climate_data.png", 
         "team": [
           {
-            "id": 33, 
             "family_name": "Zhang", 
             "email": "yizhang2@upenn.edu", 
+            "id": 33, 
             "name": "Yi"
           }
         ]
@@ -2057,9 +2072,9 @@
         "thumbnail": "thumbnails/zhu_zheng-yang_assignment 4.png", 
         "team": [
           {
-            "id": 34, 
             "family_name": "Zhu", 
             "email": "zhengzhu@upenn.edu", 
+            "id": 34, 
             "name": "Zheng-Yang"
           }
         ]
@@ -2082,8 +2097,8 @@
           {
             "family_name": "Adamski", 
             "email": "aadamski@upenn.edu", 
-            "name": "Alexandra", 
-            "id": 0
+            "id": 0, 
+            "name": "Alexandra"
           }
         ]
       }, 
@@ -2097,8 +2112,8 @@
           {
             "family_name": "Ali", 
             "email": "mohamed7@upenn.edu", 
-            "name": "Mohamed", 
-            "id": 1
+            "id": 1, 
+            "name": "Mohamed"
           }
         ]
       }, 
@@ -2112,8 +2127,8 @@
           {
             "family_name": "Bonilla", 
             "email": "cbonil@upenn.edu", 
-            "name": "Carla", 
-            "id": 2
+            "id": 2, 
+            "name": "Carla"
           }
         ]
       }, 
@@ -2127,8 +2142,8 @@
           {
             "family_name": "Bronola", 
             "email": "nbronola@upenn.edu", 
-            "name": "Nicole", 
-            "id": 3
+            "id": 3, 
+            "name": "Nicole"
           }
         ]
       }, 
@@ -2142,8 +2157,8 @@
           {
             "family_name": "Chen", 
             "email": "chensir@upenn.edu", 
-            "name": "Sirui", 
-            "id": 4
+            "id": 4, 
+            "name": "Sirui"
           }
         ]
       }, 
@@ -2157,8 +2172,8 @@
           {
             "family_name": "Duan", 
             "email": "dxiaoyu@upenn.edu", 
-            "name": "Xiaoyu", 
-            "id": 6
+            "id": 6, 
+            "name": "Xiaoyu"
           }
         ]
       }, 
@@ -2172,8 +2187,8 @@
           {
             "family_name": "Han", 
             "email": "xuanhao@upenn.edu", 
-            "name": "Xuanhao", 
-            "id": 7
+            "id": 7, 
+            "name": "Xuanhao"
           }
         ]
       }, 
@@ -2187,8 +2202,8 @@
           {
             "family_name": "Hao", 
             "email": "hyunz@design.upenn.edu", 
-            "name": "Yunzhuo", 
-            "id": 8
+            "id": 8, 
+            "name": "Yunzhuo"
           }
         ]
       }, 
@@ -2202,8 +2217,8 @@
           {
             "family_name": "Heldridge", 
             "email": "ehel@upenn.edu", 
-            "name": "Elizabeth", 
-            "id": 9
+            "id": 9, 
+            "name": "Elizabeth"
           }
         ]
       }, 
@@ -2217,8 +2232,8 @@
           {
             "family_name": "Hillier", 
             "email": "hillierj@sas.upenn.edu", 
-            "name": "Jordan", 
-            "id": 11
+            "id": 11, 
+            "name": "Jordan"
           }
         ]
       }, 
@@ -2232,8 +2247,8 @@
           {
             "family_name": "Huang", 
             "email": "juhuang@upenn.edu", 
-            "name": "Justine", 
-            "id": 12
+            "id": 12, 
+            "name": "Justine"
           }
         ]
       }, 
@@ -2247,8 +2262,8 @@
           {
             "family_name": "Jia", 
             "email": "weizhenj@upenn.edu", 
-            "name": "Weizhen", 
-            "id": 14
+            "id": 14, 
+            "name": "Weizhen"
           }
         ]
       }, 
@@ -2262,8 +2277,8 @@
           {
             "family_name": "Kane", 
             "email": "keaton@upenn.edu", 
-            "name": "Keaton", 
-            "id": 15
+            "id": 15, 
+            "name": "Keaton"
           }
         ]
       }, 
@@ -2277,8 +2292,8 @@
           {
             "family_name": "Lanski", 
             "email": "klanski@upenn.edu", 
-            "name": "Katherine", 
-            "id": 17
+            "id": 17, 
+            "name": "Katherine"
           }
         ]
       }, 
@@ -2292,8 +2307,8 @@
           {
             "family_name": "Lee", 
             "email": "leetae@upenn.edu", 
-            "name": "Tae", 
-            "id": 19
+            "id": 19, 
+            "name": "Tae"
           }
         ]
       }, 
@@ -2307,8 +2322,8 @@
           {
             "family_name": "Lin", 
             "email": "shilin@upenn.edu", 
-            "name": "ShihKai", 
-            "id": 20
+            "id": 20, 
+            "name": "ShihKai"
           }
         ]
       }, 
@@ -2322,8 +2337,23 @@
           {
             "family_name": "Liu", 
             "email": "lyuc@upenn.edu", 
-            "name": "Yuchen", 
-            "id": 21
+            "id": 21, 
+            "name": "Yuchen"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "matia_andrew_outdoorcomfortsimulation.pdf"
+        ], 
+        "team_name": "Andrew Matia", 
+        "thumbnail": "thumbnails/matia_andrew_outdoorcomfortsimulation.png", 
+        "team": [
+          {
+            "family_name": "Matia", 
+            "email": "amatia@upenn.edu", 
+            "id": 22, 
+            "name": "Andrew"
           }
         ]
       }, 
@@ -2337,8 +2367,8 @@
           {
             "family_name": "Ogunmoyero", 
             "email": "oayo@upenn.edu", 
-            "name": "Ayotunde", 
-            "id": 23
+            "id": 23, 
+            "name": "Ayotunde"
           }
         ]
       }, 
@@ -2352,8 +2382,8 @@
           {
             "family_name": "Oh", 
             "email": "jinahoh@upenn.edu", 
-            "name": "Jinah", 
-            "id": 24
+            "id": 24, 
+            "name": "Jinah"
           }
         ]
       }, 
@@ -2367,8 +2397,8 @@
           {
             "family_name": "Su", 
             "email": "tingsu@upenn.edu", 
-            "name": "Ting", 
-            "id": 25
+            "id": 25, 
+            "name": "Ting"
           }
         ]
       }, 
@@ -2382,8 +2412,8 @@
           {
             "family_name": "Sun", 
             "email": "xuezhu@upenn.edu", 
-            "name": "Xuezhu", 
-            "id": 26
+            "id": 26, 
+            "name": "Xuezhu"
           }
         ]
       }, 
@@ -2397,8 +2427,8 @@
           {
             "family_name": "Turpin", 
             "email": "ellisont@design.upenn.edu", 
-            "name": "Ellison", 
-            "id": 27
+            "id": 27, 
+            "name": "Ellison"
           }
         ]
       }, 
@@ -2412,8 +2442,8 @@
           {
             "family_name": "Wang", 
             "email": "bingyuw@upenn.edu", 
-            "name": "Bingyu", 
-            "id": 29
+            "id": 29, 
+            "name": "Bingyu"
           }
         ]
       }, 
@@ -2427,8 +2457,8 @@
           {
             "family_name": "Weaver", 
             "email": "loweaver@upenn.edu", 
-            "name": "Logan", 
-            "id": 30
+            "id": 30, 
+            "name": "Logan"
           }
         ]
       }, 
@@ -2442,8 +2472,8 @@
           {
             "family_name": "Zhang", 
             "email": "yefanz@upenn.edu", 
-            "name": "Yefan", 
-            "id": 32
+            "id": 32, 
+            "name": "Yefan"
           }
         ]
       }, 
@@ -2457,8 +2487,8 @@
           {
             "family_name": "Zhang", 
             "email": "yizhang2@upenn.edu", 
-            "name": "Yi", 
-            "id": 33
+            "id": 33, 
+            "name": "Yi"
           }
         ]
       }, 
@@ -2472,8 +2502,8 @@
           {
             "family_name": "Zhu", 
             "email": "zhengzhu@upenn.edu", 
-            "name": "Zheng-Yang", 
-            "id": 34
+            "id": 34, 
+            "name": "Zheng-Yang"
           }
         ]
       }
@@ -2494,9 +2524,9 @@
         "team": [
           {
             "family_name": "Adamski", 
+            "email": "aadamski@upenn.edu", 
             "id": 0, 
-            "name": "Alexandra", 
-            "email": "aadamski@upenn.edu"
+            "name": "Alexandra"
           }
         ]
       }, 
@@ -2509,9 +2539,9 @@
         "team": [
           {
             "family_name": "Ali", 
+            "email": "mohamed7@upenn.edu", 
             "id": 1, 
-            "name": "Mohamed", 
-            "email": "mohamed7@upenn.edu"
+            "name": "Mohamed"
           }
         ]
       }, 
@@ -2524,9 +2554,9 @@
         "team": [
           {
             "family_name": "Bonilla", 
+            "email": "cbonil@upenn.edu", 
             "id": 2, 
-            "name": "Carla", 
-            "email": "cbonil@upenn.edu"
+            "name": "Carla"
           }
         ]
       }, 
@@ -2539,9 +2569,9 @@
         "team": [
           {
             "family_name": "Bronola", 
+            "email": "nbronola@upenn.edu", 
             "id": 3, 
-            "name": "Nicole", 
-            "email": "nbronola@upenn.edu"
+            "name": "Nicole"
           }
         ]
       }, 
@@ -2554,9 +2584,9 @@
         "team": [
           {
             "family_name": "Chen", 
+            "email": "chensir@upenn.edu", 
             "id": 4, 
-            "name": "Sirui", 
-            "email": "chensir@upenn.edu"
+            "name": "Sirui"
           }
         ]
       }, 
@@ -2569,9 +2599,9 @@
         "team": [
           {
             "family_name": "Duan", 
+            "email": "dxiaoyu@upenn.edu", 
             "id": 6, 
-            "name": "Xiaoyu", 
-            "email": "dxiaoyu@upenn.edu"
+            "name": "Xiaoyu"
           }
         ]
       }, 
@@ -2584,9 +2614,9 @@
         "team": [
           {
             "family_name": "Han", 
+            "email": "xuanhao@upenn.edu", 
             "id": 7, 
-            "name": "Xuanhao", 
-            "email": "xuanhao@upenn.edu"
+            "name": "Xuanhao"
           }
         ]
       }, 
@@ -2599,9 +2629,9 @@
         "team": [
           {
             "family_name": "Hao", 
+            "email": "hyunz@design.upenn.edu", 
             "id": 8, 
-            "name": "Yunzhuo", 
-            "email": "hyunz@design.upenn.edu"
+            "name": "Yunzhuo"
           }
         ]
       }, 
@@ -2614,9 +2644,9 @@
         "team": [
           {
             "family_name": "Heldridge", 
+            "email": "ehel@upenn.edu", 
             "id": 9, 
-            "name": "Elizabeth", 
-            "email": "ehel@upenn.edu"
+            "name": "Elizabeth"
           }
         ]
       }, 
@@ -2629,9 +2659,9 @@
         "team": [
           {
             "family_name": "Hernandez", 
+            "email": "marielah@upenn.edu", 
             "id": 10, 
-            "name": "Mariela", 
-            "email": "marielah@upenn.edu"
+            "name": "Mariela"
           }
         ]
       }, 
@@ -2644,9 +2674,9 @@
         "team": [
           {
             "family_name": "Hillier", 
+            "email": "hillierj@sas.upenn.edu", 
             "id": 11, 
-            "name": "Jordan", 
-            "email": "hillierj@sas.upenn.edu"
+            "name": "Jordan"
           }
         ]
       }, 
@@ -2659,9 +2689,9 @@
         "team": [
           {
             "family_name": "Huang", 
+            "email": "juhuang@upenn.edu", 
             "id": 12, 
-            "name": "Justine", 
-            "email": "juhuang@upenn.edu"
+            "name": "Justine"
           }
         ]
       }, 
@@ -2674,9 +2704,9 @@
         "team": [
           {
             "family_name": "Jia", 
+            "email": "weizhenj@upenn.edu", 
             "id": 14, 
-            "name": "Weizhen", 
-            "email": "weizhenj@upenn.edu"
+            "name": "Weizhen"
           }
         ]
       }, 
@@ -2689,9 +2719,9 @@
         "team": [
           {
             "family_name": "Kane", 
+            "email": "keaton@upenn.edu", 
             "id": 15, 
-            "name": "Keaton", 
-            "email": "keaton@upenn.edu"
+            "name": "Keaton"
           }
         ]
       }, 
@@ -2704,9 +2734,9 @@
         "team": [
           {
             "family_name": "Kim", 
+            "email": "gwkim@upenn.edu", 
             "id": 16, 
-            "name": "GwanSook", 
-            "email": "gwkim@upenn.edu"
+            "name": "GwanSook"
           }
         ]
       }, 
@@ -2719,9 +2749,9 @@
         "team": [
           {
             "family_name": "Lanski", 
+            "email": "klanski@upenn.edu", 
             "id": 17, 
-            "name": "Katherine", 
-            "email": "klanski@upenn.edu"
+            "name": "Katherine"
           }
         ]
       }, 
@@ -2734,9 +2764,9 @@
         "team": [
           {
             "family_name": "Lee", 
+            "email": "leetae@upenn.edu", 
             "id": 19, 
-            "name": "Tae", 
-            "email": "leetae@upenn.edu"
+            "name": "Tae"
           }
         ]
       }, 
@@ -2749,9 +2779,9 @@
         "team": [
           {
             "family_name": "Lin", 
+            "email": "shilin@upenn.edu", 
             "id": 20, 
-            "name": "ShihKai", 
-            "email": "shilin@upenn.edu"
+            "name": "ShihKai"
           }
         ]
       }, 
@@ -2764,9 +2794,9 @@
         "team": [
           {
             "family_name": "Liu", 
+            "email": "lyuc@upenn.edu", 
             "id": 21, 
-            "name": "Yuchen", 
-            "email": "lyuc@upenn.edu"
+            "name": "Yuchen"
           }
         ]
       }, 
@@ -2779,9 +2809,9 @@
         "team": [
           {
             "family_name": "Matia", 
+            "email": "amatia@upenn.edu", 
             "id": 22, 
-            "name": "Andrew", 
-            "email": "amatia@upenn.edu"
+            "name": "Andrew"
           }
         ]
       }, 
@@ -2794,9 +2824,9 @@
         "team": [
           {
             "family_name": "Ogunmoyero", 
+            "email": "oayo@upenn.edu", 
             "id": 23, 
-            "name": "Ayotunde", 
-            "email": "oayo@upenn.edu"
+            "name": "Ayotunde"
           }
         ]
       }, 
@@ -2809,9 +2839,9 @@
         "team": [
           {
             "family_name": "Oh", 
+            "email": "jinahoh@upenn.edu", 
             "id": 24, 
-            "name": "Jinah", 
-            "email": "jinahoh@upenn.edu"
+            "name": "Jinah"
           }
         ]
       }, 
@@ -2825,9 +2855,9 @@
         "team": [
           {
             "family_name": "Su", 
+            "email": "tingsu@upenn.edu", 
             "id": 25, 
-            "name": "Ting", 
-            "email": "tingsu@upenn.edu"
+            "name": "Ting"
           }
         ]
       }, 
@@ -2840,9 +2870,9 @@
         "team": [
           {
             "family_name": "Sun", 
+            "email": "xuezhu@upenn.edu", 
             "id": 26, 
-            "name": "Xuezhu", 
-            "email": "xuezhu@upenn.edu"
+            "name": "Xuezhu"
           }
         ]
       }, 
@@ -2855,9 +2885,9 @@
         "team": [
           {
             "family_name": "Turpin", 
+            "email": "ellisont@design.upenn.edu", 
             "id": 27, 
-            "name": "Ellison", 
-            "email": "ellisont@design.upenn.edu"
+            "name": "Ellison"
           }
         ]
       }, 
@@ -2870,9 +2900,9 @@
         "team": [
           {
             "family_name": "Wang", 
+            "email": "bingyuw@upenn.edu", 
             "id": 29, 
-            "name": "Bingyu", 
-            "email": "bingyuw@upenn.edu"
+            "name": "Bingyu"
           }
         ]
       }, 
@@ -2885,9 +2915,9 @@
         "team": [
           {
             "family_name": "Weaver", 
+            "email": "loweaver@upenn.edu", 
             "id": 30, 
-            "name": "Logan", 
-            "email": "loweaver@upenn.edu"
+            "name": "Logan"
           }
         ]
       }, 
@@ -2900,9 +2930,9 @@
         "team": [
           {
             "family_name": "Zhang", 
+            "email": "yefanz@upenn.edu", 
             "id": 32, 
-            "name": "Yefan", 
-            "email": "yefanz@upenn.edu"
+            "name": "Yefan"
           }
         ]
       }, 
@@ -2915,9 +2945,9 @@
         "team": [
           {
             "family_name": "Zhang", 
+            "email": "yizhang2@upenn.edu", 
             "id": 33, 
-            "name": "Yi", 
-            "email": "yizhang2@upenn.edu"
+            "name": "Yi"
           }
         ]
       }, 
@@ -2930,9 +2960,9 @@
         "team": [
           {
             "family_name": "Zhu", 
+            "email": "zhengzhu@upenn.edu", 
             "id": 34, 
-            "name": "Zheng-Yang", 
-            "email": "zhengzhu@upenn.edu"
+            "name": "Zheng-Yang"
           }
         ]
       }
@@ -2958,10 +2988,10 @@
         "thumbnail": "thumbnails/adamski_alexandra_meyerson_massing.png", 
         "team": [
           {
-            "id": 0, 
             "family_name": "Adamski", 
-            "email": "aadamski@upenn.edu", 
-            "name": "Alexandra"
+            "id": 0, 
+            "name": "Alexandra", 
+            "email": "aadamski@upenn.edu"
           }
         ]
       }, 
@@ -2975,10 +3005,10 @@
         "thumbnail": "thumbnails/ali_mohamed_meyerson_massing.png", 
         "team": [
           {
-            "id": 1, 
             "family_name": "Ali", 
-            "email": "mohamed7@upenn.edu", 
-            "name": "Mohamed"
+            "id": 1, 
+            "name": "Mohamed", 
+            "email": "mohamed7@upenn.edu"
           }
         ]
       }, 
@@ -2992,10 +3022,10 @@
         "thumbnail": "thumbnails/bonilla_carla_meyerson_massing.png", 
         "team": [
           {
-            "id": 2, 
             "family_name": "Bonilla", 
-            "email": "cbonil@upenn.edu", 
-            "name": "Carla"
+            "id": 2, 
+            "name": "Carla", 
+            "email": "cbonil@upenn.edu"
           }
         ]
       }, 
@@ -3009,10 +3039,10 @@
         "thumbnail": "thumbnails/bronola_nicole_meyerson_massing.png", 
         "team": [
           {
-            "id": 3, 
             "family_name": "Bronola", 
-            "email": "nbronola@upenn.edu", 
-            "name": "Nicole"
+            "id": 3, 
+            "name": "Nicole", 
+            "email": "nbronola@upenn.edu"
           }
         ]
       }, 
@@ -3026,10 +3056,10 @@
         "thumbnail": "thumbnails/chen_sirui_meyerson_massing.png", 
         "team": [
           {
-            "id": 4, 
             "family_name": "Chen", 
-            "email": "chensir@upenn.edu", 
-            "name": "Sirui"
+            "id": 4, 
+            "name": "Sirui", 
+            "email": "chensir@upenn.edu"
           }
         ]
       }, 
@@ -3043,10 +3073,10 @@
         "thumbnail": "thumbnails/duan_xiaoyu_meyerson_massing.png", 
         "team": [
           {
-            "id": 6, 
             "family_name": "Duan", 
-            "email": "dxiaoyu@upenn.edu", 
-            "name": "Xiaoyu"
+            "id": 6, 
+            "name": "Xiaoyu", 
+            "email": "dxiaoyu@upenn.edu"
           }
         ]
       }, 
@@ -3060,10 +3090,10 @@
         "thumbnail": "thumbnails/han_xuanhao_meyerson_massing.png", 
         "team": [
           {
-            "id": 7, 
             "family_name": "Han", 
-            "email": "xuanhao@upenn.edu", 
-            "name": "Xuanhao"
+            "id": 7, 
+            "name": "Xuanhao", 
+            "email": "xuanhao@upenn.edu"
           }
         ]
       }, 
@@ -3077,10 +3107,10 @@
         "thumbnail": "thumbnails/hao_yunzhuo_massing.png", 
         "team": [
           {
-            "id": 8, 
             "family_name": "Hao", 
-            "email": "hyunz@design.upenn.edu", 
-            "name": "Yunzhuo"
+            "id": 8, 
+            "name": "Yunzhuo", 
+            "email": "hyunz@design.upenn.edu"
           }
         ]
       }, 
@@ -3094,10 +3124,10 @@
         "thumbnail": "thumbnails/heldridge_elizabeth_meyerson_massing.png", 
         "team": [
           {
-            "id": 9, 
             "family_name": "Heldridge", 
-            "email": "ehel@upenn.edu", 
-            "name": "Elizabeth"
+            "id": 9, 
+            "name": "Elizabeth", 
+            "email": "ehel@upenn.edu"
           }
         ]
       }, 
@@ -3111,10 +3141,10 @@
         "thumbnail": "thumbnails/hernandez_mariela_meyerson_massing.png", 
         "team": [
           {
-            "id": 10, 
             "family_name": "Hernandez", 
-            "email": "marielah@upenn.edu", 
-            "name": "Mariela"
+            "id": 10, 
+            "name": "Mariela", 
+            "email": "marielah@upenn.edu"
           }
         ]
       }, 
@@ -3128,10 +3158,10 @@
         "thumbnail": "thumbnails/hillier_jordan_meyerson massing.png", 
         "team": [
           {
-            "id": 11, 
             "family_name": "Hillier", 
-            "email": "hillierj@sas.upenn.edu", 
-            "name": "Jordan"
+            "id": 11, 
+            "name": "Jordan", 
+            "email": "hillierj@sas.upenn.edu"
           }
         ]
       }, 
@@ -3145,10 +3175,10 @@
         "thumbnail": "thumbnails/huang_justine_meyerson_massing.png", 
         "team": [
           {
-            "id": 12, 
             "family_name": "Huang", 
-            "email": "juhuang@upenn.edu", 
-            "name": "Justine"
+            "id": 12, 
+            "name": "Justine", 
+            "email": "juhuang@upenn.edu"
           }
         ]
       }, 
@@ -3162,10 +3192,10 @@
         "thumbnail": "thumbnails/jia_weizhen_meyerson_massing.png", 
         "team": [
           {
-            "id": 14, 
             "family_name": "Jia", 
-            "email": "weizhenj@upenn.edu", 
-            "name": "Weizhen"
+            "id": 14, 
+            "name": "Weizhen", 
+            "email": "weizhenj@upenn.edu"
           }
         ]
       }, 
@@ -3179,10 +3209,10 @@
         "thumbnail": "thumbnails/kane_keaton_meyerson_massing.png", 
         "team": [
           {
-            "id": 15, 
             "family_name": "Kane", 
-            "email": "keaton@upenn.edu", 
-            "name": "Keaton"
+            "id": 15, 
+            "name": "Keaton", 
+            "email": "keaton@upenn.edu"
           }
         ]
       }, 
@@ -3196,10 +3226,10 @@
         "thumbnail": "thumbnails/kim_gwansook_meyerson_massing.png", 
         "team": [
           {
-            "id": 16, 
             "family_name": "Kim", 
-            "email": "gwkim@upenn.edu", 
-            "name": "GwanSook"
+            "id": 16, 
+            "name": "GwanSook", 
+            "email": "gwkim@upenn.edu"
           }
         ]
       }, 
@@ -3213,10 +3243,10 @@
         "thumbnail": "thumbnails/lanski_katherine_meyerson_massing.png", 
         "team": [
           {
-            "id": 17, 
             "family_name": "Lanski", 
-            "email": "klanski@upenn.edu", 
-            "name": "Katherine"
+            "id": 17, 
+            "name": "Katherine", 
+            "email": "klanski@upenn.edu"
           }
         ]
       }, 
@@ -3230,10 +3260,10 @@
         "thumbnail": "thumbnails/lee_tae_meyerson_massing.png", 
         "team": [
           {
-            "id": 19, 
             "family_name": "Lee", 
-            "email": "leetae@upenn.edu", 
-            "name": "Tae"
+            "id": 19, 
+            "name": "Tae", 
+            "email": "leetae@upenn.edu"
           }
         ]
       }, 
@@ -3245,10 +3275,10 @@
         "thumbnail": "thumbnails/lin_shihkai_meyerson_massing.png", 
         "team": [
           {
-            "id": 20, 
             "family_name": "Lin", 
-            "email": "shilin@upenn.edu", 
-            "name": "ShihKai"
+            "id": 20, 
+            "name": "ShihKai", 
+            "email": "shilin@upenn.edu"
           }
         ]
       }, 
@@ -3260,10 +3290,10 @@
         "thumbnail": "thumbnails/liu_yuchen_meyerson_massing.png", 
         "team": [
           {
-            "id": 21, 
             "family_name": "Liu", 
-            "email": "lyuc@upenn.edu", 
-            "name": "Yuchen"
+            "id": 21, 
+            "name": "Yuchen", 
+            "email": "lyuc@upenn.edu"
           }
         ]
       }, 
@@ -3277,10 +3307,10 @@
         "thumbnail": "thumbnails/matia_andrew_meyerson_massing.png", 
         "team": [
           {
-            "id": 22, 
             "family_name": "Matia", 
-            "email": "amatia@upenn.edu", 
-            "name": "Andrew"
+            "id": 22, 
+            "name": "Andrew", 
+            "email": "amatia@upenn.edu"
           }
         ]
       }, 
@@ -3294,10 +3324,10 @@
         "thumbnail": "thumbnails/ogunmoyero_ayotunde_meyerson_massing.png", 
         "team": [
           {
-            "id": 23, 
             "family_name": "Ogunmoyero", 
-            "email": "oayo@upenn.edu", 
-            "name": "Ayotunde"
+            "id": 23, 
+            "name": "Ayotunde", 
+            "email": "oayo@upenn.edu"
           }
         ]
       }, 
@@ -3311,10 +3341,10 @@
         "thumbnail": "thumbnails/oh_jinah_meyerson_massing.png", 
         "team": [
           {
-            "id": 24, 
             "family_name": "Oh", 
-            "email": "jinahoh@upenn.edu", 
-            "name": "Jinah"
+            "id": 24, 
+            "name": "Jinah", 
+            "email": "jinahoh@upenn.edu"
           }
         ]
       }, 
@@ -3328,10 +3358,10 @@
         "thumbnail": "thumbnails/su_ting_meyerson_massing.png", 
         "team": [
           {
-            "id": 25, 
             "family_name": "Su", 
-            "email": "tingsu@upenn.edu", 
-            "name": "Ting"
+            "id": 25, 
+            "name": "Ting", 
+            "email": "tingsu@upenn.edu"
           }
         ]
       }, 
@@ -3345,10 +3375,10 @@
         "thumbnail": "thumbnails/sun_xuezhu_meyerson_massing.png", 
         "team": [
           {
-            "id": 26, 
             "family_name": "Sun", 
-            "email": "xuezhu@upenn.edu", 
-            "name": "Xuezhu"
+            "id": 26, 
+            "name": "Xuezhu", 
+            "email": "xuezhu@upenn.edu"
           }
         ]
       }, 
@@ -3362,10 +3392,10 @@
         "thumbnail": "thumbnails/turpin_ellison_meyerson_massing.png", 
         "team": [
           {
-            "id": 27, 
             "family_name": "Turpin", 
-            "email": "ellisont@design.upenn.edu", 
-            "name": "Ellison"
+            "id": 27, 
+            "name": "Ellison", 
+            "email": "ellisont@design.upenn.edu"
           }
         ]
       }, 
@@ -3379,10 +3409,10 @@
         "thumbnail": "thumbnails/vannoy_calvin_meyerson_massing.png", 
         "team": [
           {
-            "id": 28, 
             "family_name": "Vannoy", 
-            "email": "cvannoy@upenn.edu", 
-            "name": "Calvin"
+            "id": 28, 
+            "name": "Calvin", 
+            "email": "cvannoy@upenn.edu"
           }
         ]
       }, 
@@ -3396,10 +3426,10 @@
         "thumbnail": "thumbnails/wang_bingyu_meyerson_massing.png", 
         "team": [
           {
-            "id": 29, 
             "family_name": "Wang", 
-            "email": "bingyuw@upenn.edu", 
-            "name": "Bingyu"
+            "id": 29, 
+            "name": "Bingyu", 
+            "email": "bingyuw@upenn.edu"
           }
         ]
       }, 
@@ -3413,10 +3443,10 @@
         "thumbnail": "thumbnails/weaver_logan_meyerson_massing.png", 
         "team": [
           {
-            "id": 30, 
             "family_name": "Weaver", 
-            "email": "loweaver@upenn.edu", 
-            "name": "Logan"
+            "id": 30, 
+            "name": "Logan", 
+            "email": "loweaver@upenn.edu"
           }
         ]
       }, 
@@ -3430,10 +3460,10 @@
         "thumbnail": "thumbnails/zhang_yefan_meyerson_massing.png", 
         "team": [
           {
-            "id": 32, 
             "family_name": "Zhang", 
-            "email": "yefanz@upenn.edu", 
-            "name": "Yefan"
+            "id": 32, 
+            "name": "Yefan", 
+            "email": "yefanz@upenn.edu"
           }
         ]
       }, 
@@ -3447,10 +3477,10 @@
         "thumbnail": "thumbnails/zhang_yi_meyerson_massing.png", 
         "team": [
           {
-            "id": 33, 
             "family_name": "Zhang", 
-            "email": "yizhang2@upenn.edu", 
-            "name": "Yi"
+            "id": 33, 
+            "name": "Yi", 
+            "email": "yizhang2@upenn.edu"
           }
         ]
       }, 
@@ -3464,10 +3494,10 @@
         "thumbnail": "thumbnails/zhu_zheng-yang_meyerson_massing.png", 
         "team": [
           {
-            "id": 34, 
             "family_name": "Zhu", 
-            "email": "zhengzhu@upenn.edu", 
-            "name": "Zheng-Yang"
+            "id": 34, 
+            "name": "Zheng-Yang", 
+            "email": "zhengzhu@upenn.edu"
           }
         ]
       }
@@ -3487,9 +3517,9 @@
         "thumbnail": "thumbnails/adamski_alexandra_airflow.png", 
         "team": [
           {
-            "id": 0, 
             "family_name": "Adamski", 
             "email": "aadamski@upenn.edu", 
+            "id": 0, 
             "name": "Alexandra"
           }
         ]
@@ -3502,9 +3532,9 @@
         "thumbnail": "thumbnails/ali_mohamed_project 8.png", 
         "team": [
           {
-            "id": 1, 
             "family_name": "Ali", 
             "email": "mohamed7@upenn.edu", 
+            "id": 1, 
             "name": "Mohamed"
           }
         ]
@@ -3517,9 +3547,9 @@
         "thumbnail": "thumbnails/bronola_nicole.png", 
         "team": [
           {
-            "id": 3, 
             "family_name": "Bronola", 
             "email": "nbronola@upenn.edu", 
+            "id": 3, 
             "name": "Nicole"
           }
         ]
@@ -3532,9 +3562,9 @@
         "thumbnail": "thumbnails/chen_sirui_ventilation.png", 
         "team": [
           {
-            "id": 4, 
             "family_name": "Chen", 
             "email": "chensir@upenn.edu", 
+            "id": 4, 
             "name": "Sirui"
           }
         ]
@@ -3547,9 +3577,9 @@
         "thumbnail": "thumbnails/duan_xiaoyu_natural_ventilation.png", 
         "team": [
           {
-            "id": 6, 
             "family_name": "Duan", 
             "email": "dxiaoyu@upenn.edu", 
+            "id": 6, 
             "name": "Xiaoyu"
           }
         ]
@@ -3562,9 +3592,9 @@
         "thumbnail": null, 
         "team": [
           {
-            "id": 7, 
             "family_name": "Han", 
             "email": "xuanhao@upenn.edu", 
+            "id": 7, 
             "name": "Xuanhao"
           }
         ]
@@ -3577,9 +3607,9 @@
         "thumbnail": "thumbnails/hao_yunzhuo_meyerson ventilation.png", 
         "team": [
           {
-            "id": 8, 
             "family_name": "Hao", 
             "email": "hyunz@design.upenn.edu", 
+            "id": 8, 
             "name": "Yunzhuo"
           }
         ]
@@ -3592,9 +3622,9 @@
         "thumbnail": "thumbnails/heldridge_elizabeth_ventilation.png", 
         "team": [
           {
-            "id": 9, 
             "family_name": "Heldridge", 
             "email": "ehel@upenn.edu", 
+            "id": 9, 
             "name": "Elizabeth"
           }
         ]
@@ -3607,9 +3637,9 @@
         "thumbnail": "thumbnails/hernandez_mariela_natural_ventilation_meyerson.png", 
         "team": [
           {
-            "id": 10, 
             "family_name": "Hernandez", 
             "email": "marielah@upenn.edu", 
+            "id": 10, 
             "name": "Mariela"
           }
         ]
@@ -3622,10 +3652,25 @@
         "thumbnail": "thumbnails/hillier_jordan.png", 
         "team": [
           {
-            "id": 11, 
             "family_name": "Hillier", 
             "email": "hillierj@sas.upenn.edu", 
+            "id": 11, 
             "name": "Jordan"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "huang_justine_natural ventilation.pdf"
+        ], 
+        "team_name": "Justine Huang", 
+        "thumbnail": "thumbnails/huang_justine_natural ventilation.png", 
+        "team": [
+          {
+            "family_name": "Huang", 
+            "email": "juhuang@upenn.edu", 
+            "id": 12, 
+            "name": "Justine"
           }
         ]
       }, 
@@ -3637,9 +3682,9 @@
         "thumbnail": "thumbnails/jia_weizhen_airflow.png", 
         "team": [
           {
-            "id": 14, 
             "family_name": "Jia", 
             "email": "weizhenj@upenn.edu", 
+            "id": 14, 
             "name": "Weizhen"
           }
         ]
@@ -3652,9 +3697,9 @@
         "thumbnail": "thumbnails/kane_keaton_meyerson_ventilation.png", 
         "team": [
           {
-            "id": 15, 
             "family_name": "Kane", 
             "email": "keaton@upenn.edu", 
+            "id": 15, 
             "name": "Keaton"
           }
         ]
@@ -3667,9 +3712,9 @@
         "thumbnail": "thumbnails/kim_gwansook.png", 
         "team": [
           {
-            "id": 16, 
             "family_name": "Kim", 
             "email": "gwkim@upenn.edu", 
+            "id": 16, 
             "name": "GwanSook"
           }
         ]
@@ -3682,9 +3727,9 @@
         "thumbnail": "thumbnails/lanski_katherine.png", 
         "team": [
           {
-            "id": 17, 
             "family_name": "Lanski", 
             "email": "klanski@upenn.edu", 
+            "id": 17, 
             "name": "Katherine"
           }
         ]
@@ -3697,9 +3742,9 @@
         "thumbnail": "thumbnails/lee_jongwon_coolvent.png", 
         "team": [
           {
-            "id": 18, 
             "family_name": "Lee", 
             "email": "jongwlee@upenn.edu", 
+            "id": 18, 
             "name": "Jongwon"
           }
         ]
@@ -3712,9 +3757,9 @@
         "thumbnail": "thumbnails/lee_tae_natural ventilation.png", 
         "team": [
           {
-            "id": 19, 
             "family_name": "Lee", 
             "email": "leetae@upenn.edu", 
+            "id": 19, 
             "name": "Tae"
           }
         ]
@@ -3727,9 +3772,9 @@
         "thumbnail": "thumbnails/lin_shihkai_ventilation.png", 
         "team": [
           {
-            "id": 20, 
             "family_name": "Lin", 
             "email": "shilin@upenn.edu", 
+            "id": 20, 
             "name": "ShihKai"
           }
         ]
@@ -3742,9 +3787,9 @@
         "thumbnail": "thumbnails/liu_yuchen.png", 
         "team": [
           {
-            "id": 21, 
             "family_name": "Liu", 
             "email": "lyuc@upenn.edu", 
+            "id": 21, 
             "name": "Yuchen"
           }
         ]
@@ -3757,9 +3802,9 @@
         "thumbnail": "thumbnails/matia_andrew_meyerson_ventilation.png", 
         "team": [
           {
-            "id": 22, 
             "family_name": "Matia", 
             "email": "amatia@upenn.edu", 
+            "id": 22, 
             "name": "Andrew"
           }
         ]
@@ -3772,9 +3817,9 @@
         "thumbnail": "thumbnails/ogunmoyero_ayotunde_meyerson_ventilation.png", 
         "team": [
           {
-            "id": 23, 
             "family_name": "Ogunmoyero", 
             "email": "oayo@upenn.edu", 
+            "id": 23, 
             "name": "Ayotunde"
           }
         ]
@@ -3787,9 +3832,9 @@
         "thumbnail": "thumbnails/oh_jinah.png", 
         "team": [
           {
-            "id": 24, 
             "family_name": "Oh", 
             "email": "jinahoh@upenn.edu", 
+            "id": 24, 
             "name": "Jinah"
           }
         ]
@@ -3802,9 +3847,9 @@
         "thumbnail": "thumbnails/su_ting.png", 
         "team": [
           {
-            "id": 25, 
             "family_name": "Su", 
             "email": "tingsu@upenn.edu", 
+            "id": 25, 
             "name": "Ting"
           }
         ]
@@ -3817,9 +3862,9 @@
         "thumbnail": "thumbnails/sun_xuezhu_meyerson_ventilation.png", 
         "team": [
           {
-            "id": 26, 
             "family_name": "Sun", 
             "email": "xuezhu@upenn.edu", 
+            "id": 26, 
             "name": "Xuezhu"
           }
         ]
@@ -3832,9 +3877,9 @@
         "thumbnail": "thumbnails/turpin_ellison_meyerson_ventilation.png", 
         "team": [
           {
-            "id": 27, 
             "family_name": "Turpin", 
             "email": "ellisont@design.upenn.edu", 
+            "id": 27, 
             "name": "Ellison"
           }
         ]
@@ -3847,9 +3892,9 @@
         "thumbnail": "thumbnails/wang_bingyu.png", 
         "team": [
           {
-            "id": 29, 
             "family_name": "Wang", 
             "email": "bingyuw@upenn.edu", 
+            "id": 29, 
             "name": "Bingyu"
           }
         ]
@@ -3862,9 +3907,9 @@
         "thumbnail": "thumbnails/weaver_logan.png", 
         "team": [
           {
-            "id": 30, 
             "family_name": "Weaver", 
             "email": "loweaver@upenn.edu", 
+            "id": 30, 
             "name": "Logan"
           }
         ]
@@ -3877,9 +3922,9 @@
         "thumbnail": "thumbnails/yamba_moise_ventilation.png", 
         "team": [
           {
-            "id": 31, 
             "family_name": "Yamba", 
             "email": "moiseyam@upenn.edu", 
+            "id": 31, 
             "name": "Moise"
           }
         ]
@@ -3892,9 +3937,9 @@
         "thumbnail": "thumbnails/zhang_yefan_natural ventilation.png", 
         "team": [
           {
-            "id": 32, 
             "family_name": "Zhang", 
             "email": "yefanz@upenn.edu", 
+            "id": 32, 
             "name": "Yefan"
           }
         ]
@@ -3907,9 +3952,9 @@
         "thumbnail": "thumbnails/zhang_yi.png", 
         "team": [
           {
-            "id": 33, 
             "family_name": "Zhang", 
             "email": "yizhang2@upenn.edu", 
+            "id": 33, 
             "name": "Yi"
           }
         ]
@@ -3922,9 +3967,9 @@
         "thumbnail": "thumbnails/zhu_zheng-yang.png", 
         "team": [
           {
-            "id": 34, 
             "family_name": "Zhu", 
             "email": "zhengzhu@upenn.edu", 
+            "id": 34, 
             "name": "Zheng-Yang"
           }
         ]
@@ -3945,10 +3990,10 @@
         "thumbnail": "thumbnails/adamski_alexandra_insulation.png", 
         "team": [
           {
-            "id": 0, 
             "family_name": "Adamski", 
-            "email": "aadamski@upenn.edu", 
-            "name": "Alexandra"
+            "id": 0, 
+            "name": "Alexandra", 
+            "email": "aadamski@upenn.edu"
           }
         ]
       }, 
@@ -3960,10 +4005,10 @@
         "thumbnail": "thumbnails/ali_mohamed_conduction.png", 
         "team": [
           {
-            "id": 1, 
             "family_name": "Ali", 
-            "email": "mohamed7@upenn.edu", 
-            "name": "Mohamed"
+            "id": 1, 
+            "name": "Mohamed", 
+            "email": "mohamed7@upenn.edu"
           }
         ]
       }, 
@@ -3975,10 +4020,10 @@
         "thumbnail": "thumbnails/bonilla_carla_conduction.png", 
         "team": [
           {
-            "id": 2, 
             "family_name": "Bonilla", 
-            "email": "cbonil@upenn.edu", 
-            "name": "Carla"
+            "id": 2, 
+            "name": "Carla", 
+            "email": "cbonil@upenn.edu"
           }
         ]
       }, 
@@ -3990,10 +4035,10 @@
         "thumbnail": null, 
         "team": [
           {
-            "id": 3, 
             "family_name": "Bronola", 
-            "email": "nbronola@upenn.edu", 
-            "name": "Nicole"
+            "id": 3, 
+            "name": "Nicole", 
+            "email": "nbronola@upenn.edu"
           }
         ]
       }, 
@@ -4005,10 +4050,10 @@
         "thumbnail": "thumbnails/chen_sirui.png", 
         "team": [
           {
-            "id": 4, 
             "family_name": "Chen", 
-            "email": "chensir@upenn.edu", 
-            "name": "Sirui"
+            "id": 4, 
+            "name": "Sirui", 
+            "email": "chensir@upenn.edu"
           }
         ]
       }, 
@@ -4020,10 +4065,10 @@
         "thumbnail": "thumbnails/duan_xiaoyu_conduction.png", 
         "team": [
           {
-            "id": 6, 
             "family_name": "Duan", 
-            "email": "dxiaoyu@upenn.edu", 
-            "name": "Xiaoyu"
+            "id": 6, 
+            "name": "Xiaoyu", 
+            "email": "dxiaoyu@upenn.edu"
           }
         ]
       }, 
@@ -4035,10 +4080,10 @@
         "thumbnail": "thumbnails/han_xuanhao_assignment9.png", 
         "team": [
           {
-            "id": 7, 
             "family_name": "Han", 
-            "email": "xuanhao@upenn.edu", 
-            "name": "Xuanhao"
+            "id": 7, 
+            "name": "Xuanhao", 
+            "email": "xuanhao@upenn.edu"
           }
         ]
       }, 
@@ -4050,10 +4095,10 @@
         "thumbnail": "thumbnails/hao_yunzhuo_building enclosure.png", 
         "team": [
           {
-            "id": 8, 
             "family_name": "Hao", 
-            "email": "hyunz@design.upenn.edu", 
-            "name": "Yunzhuo"
+            "id": 8, 
+            "name": "Yunzhuo", 
+            "email": "hyunz@design.upenn.edu"
           }
         ]
       }, 
@@ -4065,10 +4110,10 @@
         "thumbnail": "thumbnails/heldridge_elizabeth_building enclosure.png", 
         "team": [
           {
-            "id": 9, 
             "family_name": "Heldridge", 
-            "email": "ehel@upenn.edu", 
-            "name": "Elizabeth"
+            "id": 9, 
+            "name": "Elizabeth", 
+            "email": "ehel@upenn.edu"
           }
         ]
       }, 
@@ -4080,10 +4125,10 @@
         "thumbnail": "thumbnails/hernandez_mariela_09_building_enclosure.png", 
         "team": [
           {
-            "id": 10, 
             "family_name": "Hernandez", 
-            "email": "marielah@upenn.edu", 
-            "name": "Mariela"
+            "id": 10, 
+            "name": "Mariela", 
+            "email": "marielah@upenn.edu"
           }
         ]
       }, 
@@ -4095,10 +4140,10 @@
         "thumbnail": "thumbnails/hillier_jordan_assignment 9.png", 
         "team": [
           {
-            "id": 11, 
             "family_name": "Hillier", 
-            "email": "hillierj@sas.upenn.edu", 
-            "name": "Jordan"
+            "id": 11, 
+            "name": "Jordan", 
+            "email": "hillierj@sas.upenn.edu"
           }
         ]
       }, 
@@ -4110,10 +4155,10 @@
         "thumbnail": "thumbnails/huang_justine_conduction.png", 
         "team": [
           {
-            "id": 12, 
             "family_name": "Huang", 
-            "email": "juhuang@upenn.edu", 
-            "name": "Justine"
+            "id": 12, 
+            "name": "Justine", 
+            "email": "juhuang@upenn.edu"
           }
         ]
       }, 
@@ -4125,10 +4170,10 @@
         "thumbnail": "thumbnails/jia_weizhen_insulation.png", 
         "team": [
           {
-            "id": 14, 
             "family_name": "Jia", 
-            "email": "weizhenj@upenn.edu", 
-            "name": "Weizhen"
+            "id": 14, 
+            "name": "Weizhen", 
+            "email": "weizhenj@upenn.edu"
           }
         ]
       }, 
@@ -4140,10 +4185,10 @@
         "thumbnail": "thumbnails/kane_keaton_conduction.png", 
         "team": [
           {
-            "id": 15, 
             "family_name": "Kane", 
-            "email": "keaton@upenn.edu", 
-            "name": "Keaton"
+            "id": 15, 
+            "name": "Keaton", 
+            "email": "keaton@upenn.edu"
           }
         ]
       }, 
@@ -4155,10 +4200,10 @@
         "thumbnail": "thumbnails/kim_gwansook_conduction.png", 
         "team": [
           {
-            "id": 16, 
             "family_name": "Kim", 
-            "email": "gwkim@upenn.edu", 
-            "name": "GwanSook"
+            "id": 16, 
+            "name": "GwanSook", 
+            "email": "gwkim@upenn.edu"
           }
         ]
       }, 
@@ -4170,10 +4215,10 @@
         "thumbnail": "thumbnails/lanski_katherine_conduction.png", 
         "team": [
           {
-            "id": 17, 
             "family_name": "Lanski", 
-            "email": "klanski@upenn.edu", 
-            "name": "Katherine"
+            "id": 17, 
+            "name": "Katherine", 
+            "email": "klanski@upenn.edu"
           }
         ]
       }, 
@@ -4185,10 +4230,10 @@
         "thumbnail": "thumbnails/lee_jongwon_conduction.png", 
         "team": [
           {
-            "id": 18, 
             "family_name": "Lee", 
-            "email": "jongwlee@upenn.edu", 
-            "name": "Jongwon"
+            "id": 18, 
+            "name": "Jongwon", 
+            "email": "jongwlee@upenn.edu"
           }
         ]
       }, 
@@ -4200,10 +4245,10 @@
         "thumbnail": "thumbnails/lee_tae_building_enclosure.png", 
         "team": [
           {
-            "id": 19, 
             "family_name": "Lee", 
-            "email": "leetae@upenn.edu", 
-            "name": "Tae"
+            "id": 19, 
+            "name": "Tae", 
+            "email": "leetae@upenn.edu"
           }
         ]
       }, 
@@ -4215,10 +4260,10 @@
         "thumbnail": "thumbnails/lin_shihkai_conduction.png", 
         "team": [
           {
-            "id": 20, 
             "family_name": "Lin", 
-            "email": "shilin@upenn.edu", 
-            "name": "ShihKai"
+            "id": 20, 
+            "name": "ShihKai", 
+            "email": "shilin@upenn.edu"
           }
         ]
       }, 
@@ -4230,10 +4275,10 @@
         "thumbnail": "thumbnails/liu_yuchen.png", 
         "team": [
           {
-            "id": 21, 
             "family_name": "Liu", 
-            "email": "lyuc@upenn.edu", 
-            "name": "Yuchen"
+            "id": 21, 
+            "name": "Yuchen", 
+            "email": "lyuc@upenn.edu"
           }
         ]
       }, 
@@ -4245,10 +4290,10 @@
         "thumbnail": "thumbnails/matia_andrew_building enclosure.png", 
         "team": [
           {
-            "id": 22, 
             "family_name": "Matia", 
-            "email": "amatia@upenn.edu", 
-            "name": "Andrew"
+            "id": 22, 
+            "name": "Andrew", 
+            "email": "amatia@upenn.edu"
           }
         ]
       }, 
@@ -4260,10 +4305,10 @@
         "thumbnail": "thumbnails/ogunmoyero_ayotunde_conduction.png", 
         "team": [
           {
-            "id": 23, 
             "family_name": "Ogunmoyero", 
-            "email": "oayo@upenn.edu", 
-            "name": "Ayotunde"
+            "id": 23, 
+            "name": "Ayotunde", 
+            "email": "oayo@upenn.edu"
           }
         ]
       }, 
@@ -4275,10 +4320,10 @@
         "thumbnail": "thumbnails/oh_jinah_insulation.png", 
         "team": [
           {
-            "id": 24, 
             "family_name": "Oh", 
-            "email": "jinahoh@upenn.edu", 
-            "name": "Jinah"
+            "id": 24, 
+            "name": "Jinah", 
+            "email": "jinahoh@upenn.edu"
           }
         ]
       }, 
@@ -4290,10 +4335,10 @@
         "thumbnail": "thumbnails/su_ting_conduction.png", 
         "team": [
           {
-            "id": 25, 
             "family_name": "Su", 
-            "email": "tingsu@upenn.edu", 
-            "name": "Ting"
+            "id": 25, 
+            "name": "Ting", 
+            "email": "tingsu@upenn.edu"
           }
         ]
       }, 
@@ -4305,10 +4350,10 @@
         "thumbnail": "thumbnails/sun_xuezhu_conduction.png", 
         "team": [
           {
-            "id": 26, 
             "family_name": "Sun", 
-            "email": "xuezhu@upenn.edu", 
-            "name": "Xuezhu"
+            "id": 26, 
+            "name": "Xuezhu", 
+            "email": "xuezhu@upenn.edu"
           }
         ]
       }, 
@@ -4320,10 +4365,10 @@
         "thumbnail": "thumbnails/turpin_ellison_building_enclosure.png", 
         "team": [
           {
-            "id": 27, 
             "family_name": "Turpin", 
-            "email": "ellisont@design.upenn.edu", 
-            "name": "Ellison"
+            "id": 27, 
+            "name": "Ellison", 
+            "email": "ellisont@design.upenn.edu"
           }
         ]
       }, 
@@ -4335,10 +4380,10 @@
         "thumbnail": "thumbnails/wang_bingyu.png", 
         "team": [
           {
-            "id": 29, 
             "family_name": "Wang", 
-            "email": "bingyuw@upenn.edu", 
-            "name": "Bingyu"
+            "id": 29, 
+            "name": "Bingyu", 
+            "email": "bingyuw@upenn.edu"
           }
         ]
       }, 
@@ -4350,10 +4395,10 @@
         "thumbnail": "thumbnails/weaver_logan_assignment_9.png", 
         "team": [
           {
-            "id": 30, 
             "family_name": "Weaver", 
-            "email": "loweaver@upenn.edu", 
-            "name": "Logan"
+            "id": 30, 
+            "name": "Logan", 
+            "email": "loweaver@upenn.edu"
           }
         ]
       }, 
@@ -4365,10 +4410,10 @@
         "thumbnail": "thumbnails/yamba_moise_a9.png", 
         "team": [
           {
-            "id": 31, 
             "family_name": "Yamba", 
-            "email": "moiseyam@upenn.edu", 
-            "name": "Moise"
+            "id": 31, 
+            "name": "Moise", 
+            "email": "moiseyam@upenn.edu"
           }
         ]
       }, 
@@ -4380,10 +4425,10 @@
         "thumbnail": "thumbnails/zhang_yefan_conduction.png", 
         "team": [
           {
-            "id": 32, 
             "family_name": "Zhang", 
-            "email": "yefanz@upenn.edu", 
-            "name": "Yefan"
+            "id": 32, 
+            "name": "Yefan", 
+            "email": "yefanz@upenn.edu"
           }
         ]
       }, 
@@ -4395,10 +4440,10 @@
         "thumbnail": "thumbnails/zhang_yi_conduction.png", 
         "team": [
           {
-            "id": 33, 
             "family_name": "Zhang", 
-            "email": "yizhang2@upenn.edu", 
-            "name": "Yi"
+            "id": 33, 
+            "name": "Yi", 
+            "email": "yizhang2@upenn.edu"
           }
         ]
       }, 
@@ -4410,10 +4455,10 @@
         "thumbnail": "thumbnails/zhu_zheng-yang_assignment 8.png", 
         "team": [
           {
-            "id": 34, 
             "family_name": "Zhu", 
-            "email": "zhengzhu@upenn.edu", 
-            "name": "Zheng-Yang"
+            "id": 34, 
+            "name": "Zheng-Yang", 
+            "email": "zhengzhu@upenn.edu"
           }
         ]
       }
@@ -4433,9 +4478,9 @@
         "thumbnail": "thumbnails/adamski_alexandra_energy balance.png", 
         "team": [
           {
-            "id": 0, 
             "family_name": "Adamski", 
             "email": "aadamski@upenn.edu", 
+            "id": 0, 
             "name": "Alexandra"
           }
         ]
@@ -4448,9 +4493,9 @@
         "thumbnail": "thumbnails/ali_mohamed_energy balance.png", 
         "team": [
           {
-            "id": 1, 
             "family_name": "Ali", 
             "email": "mohamed7@upenn.edu", 
+            "id": 1, 
             "name": "Mohamed"
           }
         ]
@@ -4463,9 +4508,9 @@
         "thumbnail": "thumbnails/bonilla_carla_energy balance.png", 
         "team": [
           {
-            "id": 2, 
             "family_name": "Bonilla", 
             "email": "cbonil@upenn.edu", 
+            "id": 2, 
             "name": "Carla"
           }
         ]
@@ -4478,10 +4523,25 @@
         "thumbnail": "thumbnails/bronola_nicole_energy balance.png", 
         "team": [
           {
-            "id": 3, 
             "family_name": "Bronola", 
             "email": "nbronola@upenn.edu", 
+            "id": 3, 
             "name": "Nicole"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "duan_xiaoyu_energy balance.pdf"
+        ], 
+        "team_name": "Xiaoyu Duan", 
+        "thumbnail": "thumbnails/duan_xiaoyu_energy balance.png", 
+        "team": [
+          {
+            "family_name": "Duan", 
+            "email": "dxiaoyu@upenn.edu", 
+            "id": 6, 
+            "name": "Xiaoyu"
           }
         ]
       }, 
@@ -4493,9 +4553,9 @@
         "thumbnail": "thumbnails/han_xuanhao_energy balance.png", 
         "team": [
           {
-            "id": 7, 
             "family_name": "Han", 
             "email": "xuanhao@upenn.edu", 
+            "id": 7, 
             "name": "Xuanhao"
           }
         ]
@@ -4508,9 +4568,9 @@
         "thumbnail": "thumbnails/hao_yunzhuo_energy balance.png", 
         "team": [
           {
-            "id": 8, 
             "family_name": "Hao", 
             "email": "hyunz@design.upenn.edu", 
+            "id": 8, 
             "name": "Yunzhuo"
           }
         ]
@@ -4523,10 +4583,25 @@
         "thumbnail": "thumbnails/heldridge_elizabeth_energy balance.png", 
         "team": [
           {
-            "id": 9, 
             "family_name": "Heldridge", 
             "email": "ehel@upenn.edu", 
+            "id": 9, 
             "name": "Elizabeth"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "hernandez_mariela_energy_balance.pdf"
+        ], 
+        "team_name": "Mariela Hernandez", 
+        "thumbnail": "thumbnails/hernandez_mariela_energy_balance.png", 
+        "team": [
+          {
+            "family_name": "Hernandez", 
+            "email": "marielah@upenn.edu", 
+            "id": 10, 
+            "name": "Mariela"
           }
         ]
       }, 
@@ -4538,9 +4613,9 @@
         "thumbnail": null, 
         "team": [
           {
-            "id": 11, 
             "family_name": "Hillier", 
             "email": "hillierj@sas.upenn.edu", 
+            "id": 11, 
             "name": "Jordan"
           }
         ]
@@ -4553,9 +4628,9 @@
         "thumbnail": "thumbnails/huang_justine_energy balance.png", 
         "team": [
           {
-            "id": 12, 
             "family_name": "Huang", 
             "email": "juhuang@upenn.edu", 
+            "id": 12, 
             "name": "Justine"
           }
         ]
@@ -4568,9 +4643,9 @@
         "thumbnail": "thumbnails/jia_weizhen_energy_balance.png", 
         "team": [
           {
-            "id": 14, 
             "family_name": "Jia", 
             "email": "weizhenj@upenn.edu", 
+            "id": 14, 
             "name": "Weizhen"
           }
         ]
@@ -4583,9 +4658,9 @@
         "thumbnail": "thumbnails/kane_keaton_building energy balance.png", 
         "team": [
           {
-            "id": 15, 
             "family_name": "Kane", 
             "email": "keaton@upenn.edu", 
+            "id": 15, 
             "name": "Keaton"
           }
         ]
@@ -4598,9 +4673,9 @@
         "thumbnail": "thumbnails/kim_gwansook_energy balance.png", 
         "team": [
           {
-            "id": 16, 
             "family_name": "Kim", 
             "email": "gwkim@upenn.edu", 
+            "id": 16, 
             "name": "GwanSook"
           }
         ]
@@ -4613,9 +4688,9 @@
         "thumbnail": "thumbnails/lanski_katherine_energybalance.png", 
         "team": [
           {
-            "id": 17, 
             "family_name": "Lanski", 
             "email": "klanski@upenn.edu", 
+            "id": 17, 
             "name": "Katherine"
           }
         ]
@@ -4628,9 +4703,9 @@
         "thumbnail": "thumbnails/lee_tae_energy_balance.png", 
         "team": [
           {
-            "id": 19, 
             "family_name": "Lee", 
             "email": "leetae@upenn.edu", 
+            "id": 19, 
             "name": "Tae"
           }
         ]
@@ -4643,9 +4718,9 @@
         "thumbnail": "thumbnails/lin_shihkai_energy balance.png", 
         "team": [
           {
-            "id": 20, 
             "family_name": "Lin", 
             "email": "shilin@upenn.edu", 
+            "id": 20, 
             "name": "ShihKai"
           }
         ]
@@ -4658,9 +4733,9 @@
         "thumbnail": "thumbnails/liu_yuchen_energy balance.png", 
         "team": [
           {
-            "id": 21, 
             "family_name": "Liu", 
             "email": "lyuc@upenn.edu", 
+            "id": 21, 
             "name": "Yuchen"
           }
         ]
@@ -4673,9 +4748,9 @@
         "thumbnail": "thumbnails/matia_andrew_energy balance.png", 
         "team": [
           {
-            "id": 22, 
             "family_name": "Matia", 
             "email": "amatia@upenn.edu", 
+            "id": 22, 
             "name": "Andrew"
           }
         ]
@@ -4688,9 +4763,9 @@
         "thumbnail": "thumbnails/ogunmoyero_ayotunde_building energy balance.png", 
         "team": [
           {
-            "id": 23, 
             "family_name": "Ogunmoyero", 
             "email": "oayo@upenn.edu", 
+            "id": 23, 
             "name": "Ayotunde"
           }
         ]
@@ -4703,9 +4778,9 @@
         "thumbnail": "thumbnails/oh_jinah_energy_balance.png", 
         "team": [
           {
-            "id": 24, 
             "family_name": "Oh", 
             "email": "jinahoh@upenn.edu", 
+            "id": 24, 
             "name": "Jinah"
           }
         ]
@@ -4718,9 +4793,9 @@
         "thumbnail": "thumbnails/su_ting_energy balance.png", 
         "team": [
           {
-            "id": 25, 
             "family_name": "Su", 
             "email": "tingsu@upenn.edu", 
+            "id": 25, 
             "name": "Ting"
           }
         ]
@@ -4733,9 +4808,9 @@
         "thumbnail": "thumbnails/sun_xuezhu_energy balance.png", 
         "team": [
           {
-            "id": 26, 
             "family_name": "Sun", 
             "email": "xuezhu@upenn.edu", 
+            "id": 26, 
             "name": "Xuezhu"
           }
         ]
@@ -4748,9 +4823,9 @@
         "thumbnail": "thumbnails/turpin_ellison_energy_balance.png", 
         "team": [
           {
-            "id": 27, 
             "family_name": "Turpin", 
             "email": "ellisont@design.upenn.edu", 
+            "id": 27, 
             "name": "Ellison"
           }
         ]
@@ -4763,9 +4838,9 @@
         "thumbnail": "thumbnails/vannoy_calvin_assignment 10.png", 
         "team": [
           {
-            "id": 28, 
             "family_name": "Vannoy", 
             "email": "cvannoy@upenn.edu", 
+            "id": 28, 
             "name": "Calvin"
           }
         ]
@@ -4778,9 +4853,9 @@
         "thumbnail": "thumbnails/wang_bingyu_energy balance.png", 
         "team": [
           {
-            "id": 29, 
             "family_name": "Wang", 
             "email": "bingyuw@upenn.edu", 
+            "id": 29, 
             "name": "Bingyu"
           }
         ]
@@ -4793,9 +4868,9 @@
         "thumbnail": "thumbnails/weaver_logan_energy_balance.png", 
         "team": [
           {
-            "id": 30, 
             "family_name": "Weaver", 
             "email": "loweaver@upenn.edu", 
+            "id": 30, 
             "name": "Logan"
           }
         ]
@@ -4808,9 +4883,9 @@
         "thumbnail": "thumbnails/zhang_yefan_energy balance.png", 
         "team": [
           {
-            "id": 32, 
             "family_name": "Zhang", 
             "email": "yefanz@upenn.edu", 
+            "id": 32, 
             "name": "Yefan"
           }
         ]
@@ -4823,9 +4898,9 @@
         "thumbnail": "thumbnails/zhang_yi_energy balance.png", 
         "team": [
           {
-            "id": 33, 
             "family_name": "Zhang", 
             "email": "yizhang2@upenn.edu", 
+            "id": 33, 
             "name": "Yi"
           }
         ]
@@ -4838,9 +4913,9 @@
         "thumbnail": "thumbnails/zhu_zheng-yang_energy balance.png", 
         "team": [
           {
-            "id": 34, 
             "family_name": "Zhu", 
             "email": "zhengzhu@upenn.edu", 
+            "id": 34, 
             "name": "Zheng-Yang"
           }
         ]
@@ -4895,6 +4970,21 @@
             "email": "cbonil@upenn.edu", 
             "id": 2, 
             "name": "Carla"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "bronola_nicole_daylighting_exercise.pdf"
+        ], 
+        "team_name": "Nicole Bronola", 
+        "thumbnail": "thumbnails/bronola_nicole_daylighting_exercise.png", 
+        "team": [
+          {
+            "family_name": "Bronola", 
+            "email": "nbronola@upenn.edu", 
+            "id": 3, 
+            "name": "Nicole"
           }
         ]
       }, 
@@ -5225,6 +5315,36 @@
             "email": "yefanz@upenn.edu", 
             "id": 32, 
             "name": "Yefan"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhang_yi_daylightingexercise.pdf"
+        ], 
+        "team_name": "Yi Zhang", 
+        "thumbnail": "thumbnails/zhang_yi_daylightingexercise.png", 
+        "team": [
+          {
+            "family_name": "Zhang", 
+            "email": "yizhang2@upenn.edu", 
+            "id": 33, 
+            "name": "Yi"
+          }
+        ]
+      }, 
+      {
+        "files": [
+          "zhu_zheng-yang_daylightingexercise.pdf"
+        ], 
+        "team_name": "Zheng-Yang Zhu", 
+        "thumbnail": "thumbnails/zhu_zheng-yang_daylightingexercise.png", 
+        "team": [
+          {
+            "family_name": "Zhu", 
+            "email": "zhengzhu@upenn.edu", 
+            "id": 34, 
+            "name": "Zheng-Yang"
           }
         ]
       }
