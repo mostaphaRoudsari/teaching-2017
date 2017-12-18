@@ -60,7 +60,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/adamski_alexandra_illuminance_exercise.png"
             }
         ], 
@@ -128,7 +128,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/ali_mohamed_illumination.png"
             }
         ], 
@@ -167,7 +167,7 @@
             {
                 "folder": "05_annual_comfort_map", 
                 "name": "Annual comfort map", 
-                "thumbnail": "thumbnails/bonilla_carla_annual comfort map.png"
+                "thumbnail": "thumbnails/bonilla_carla_annual comfort map 2.png"
             }, 
             {
                 "folder": "06_case_studies", 
@@ -178,6 +178,11 @@
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
                 "thumbnail": "thumbnails/bonilla_carla_meyerson_massing.png"
+            }, 
+            {
+                "folder": "08_natural_ventilation_meyerson", 
+                "name": "Natural Ventilation", 
+                "thumbnail": "thumbnails/bonilla_carla_natural ventilation.png"
             }, 
             {
                 "folder": "09_building_enclosure", 
@@ -191,7 +196,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/bonilla_carla_daylighting_assignment.png"
             }
         ], 
@@ -254,7 +259,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/bronola_nicole_daylighting_exercise.png"
             }
         ], 
@@ -317,7 +322,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/chen_sirui_illumination.png"
             }
         ], 
@@ -392,7 +397,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/duan_xiaoyu_illumination.png"
             }
         ], 
@@ -460,7 +465,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/han_xuanhao_daylighting_exercise.png"
             }
         ], 
@@ -528,7 +533,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/hao_yunzhuo_daylighting_exercise.png"
             }
         ], 
@@ -649,7 +654,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/hernandez_mariela_illuminance_measurement.png"
             }
         ], 
@@ -717,7 +722,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/hillier_jordan_day light exercise.png"
             }
         ], 
@@ -785,7 +790,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/huang_justine_daylighting1.png"
             }
         ], 
@@ -812,8 +817,48 @@
                 "thumbnail": "thumbnails/group_04_assignment_3.png"
             }, 
             {
+                "folder": "03_outdoor_shading_design", 
+                "name": "Canopy design", 
+                "thumbnail": "thumbnails/ijaz_uroosa_outdoor comfort.png"
+            }, 
+            {
+                "folder": "04_climate_analysis_round_II", 
+                "name": "Climate analysis II", 
+                "thumbnail": null
+            }, 
+            {
+                "folder": "05_annual_comfort_map", 
+                "name": "Annual comfort map", 
+                "thumbnail": "thumbnails/ijaz_uroosa_annual_comfort_map.png"
+            }, 
+            {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/ijaz_uroosa_case study report.png"
+            }, 
+            {
+                "folder": "07_massing_meyerson_hall", 
+                "name": "Massing study", 
+                "thumbnail": "thumbnails/ijaz_uroosa_meyerson_massing.png"
+            }, 
+            {
+                "folder": "08_natural_ventilation_meyerson", 
+                "name": "Natural Ventilation", 
+                "thumbnail": null
+            }, 
+            {
+                "folder": "09_building_enclosure", 
+                "name": "Enclosure", 
+                "thumbnail": "thumbnails/ijaz_uroosa_enclosure.png"
+            }, 
+            {
+                "folder": "10_energy_balance", 
+                "name": "Energy Balance", 
+                "thumbnail": null
+            }, 
+            {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/ijaz_uroosa_daylighting_exercise.png"
             }
         ], 
@@ -881,7 +926,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/jia_weizhen_daylighting_exercise.png"
             }
         ], 
@@ -949,7 +994,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/kane_keaton_illumination.png"
             }
         ], 
@@ -1012,7 +1057,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/kim_gwansook_daylighting_exercise.png"
             }
         ], 
@@ -1080,7 +1125,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/lanski_katherine_illumination.png"
             }
         ], 
@@ -1120,6 +1165,11 @@
                 "folder": "09_building_enclosure", 
                 "name": "Enclosure", 
                 "thumbnail": "thumbnails/lee_jongwon_conduction.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
+                "thumbnail": "thumbnails/lee_jongwon_illumination_assignment12.png"
             }
         ], 
         "id": 18, 
@@ -1183,6 +1233,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/lee_tae_energy_balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
+                "thumbnail": "thumbnails/lee_tae_daylightingexercise.png"
             }
         ], 
         "id": 19, 
@@ -1249,7 +1304,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/lin_shihkai_daylighting_exercise.png"
             }
         ], 
@@ -1314,6 +1369,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/liu_yuchen_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
+                "thumbnail": "thumbnails/liu_yuchen_daylightmeasurement.png"
             }
         ], 
         "id": 21, 
@@ -1377,6 +1437,11 @@
                 "folder": "10_energy_balance", 
                 "name": "Energy Balance", 
                 "thumbnail": "thumbnails/matia_andrew_energy balance.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
+                "thumbnail": "thumbnails/matia_andrew_illumination measurement.png"
             }
         ], 
         "id": 22, 
@@ -1443,7 +1508,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/ogunmoyero_ayotunde_daylighting_exercise.png"
             }
         ], 
@@ -1511,7 +1576,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/oh_jinah_illumination.png"
             }
         ], 
@@ -1555,7 +1620,7 @@
             {
                 "folder": "06_case_studies", 
                 "name": "Case study", 
-                "thumbnail": "thumbnails/su_ting_chancery st james plc,30 st mary axe.png"
+                "thumbnail": "thumbnails/su_ting_chancery st.png"
             }, 
             {
                 "folder": "07_massing_meyerson_hall", 
@@ -1579,7 +1644,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/su_ting_daylighting assignment.png"
             }
         ], 
@@ -1647,7 +1712,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/sun_xuezhu_daylightingexercise.png"
             }
         ], 
@@ -1710,7 +1775,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/turpin_ellison_daylighting.png"
             }
         ], 
@@ -1732,9 +1797,24 @@
                 "thumbnail": "thumbnails/vannoy_calvin_assignment_4.png"
             }, 
             {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/vannoy_calvin_assignment 6.png"
+            }, 
+            {
                 "folder": "07_massing_meyerson_hall", 
                 "name": "Massing study", 
                 "thumbnail": "thumbnails/vannoy_calvin_meyerson_massing.png"
+            }, 
+            {
+                "folder": "08_natural_ventilation_meyerson", 
+                "name": "Natural Ventilation", 
+                "thumbnail": "thumbnails/vannoy_calvin_assignment 7.png"
+            }, 
+            {
+                "folder": "09_building_enclosure", 
+                "name": "Enclosure", 
+                "thumbnail": "thumbnails/vannoy_calvin_assignment 8.png"
             }, 
             {
                 "folder": "10_energy_balance", 
@@ -1743,7 +1823,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/vannoy_calvin_assignment 11.png"
             }
         ], 
@@ -1811,7 +1891,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/wang_bingyu_daylighting exercise.png"
             }
         ], 
@@ -1879,7 +1959,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/weaver_logan_assignment 11.png"
             }
         ], 
@@ -1916,6 +1996,11 @@
                 "thumbnail": "thumbnails/yamba_moise_a5.png"
             }, 
             {
+                "folder": "06_case_studies", 
+                "name": "Case study", 
+                "thumbnail": "thumbnails/yamba_moise_assignment 07.png"
+            }, 
+            {
                 "folder": "08_natural_ventilation_meyerson", 
                 "name": "Natural Ventilation", 
                 "thumbnail": "thumbnails/yamba_moise_ventilation.png"
@@ -1924,6 +2009,11 @@
                 "folder": "09_building_enclosure", 
                 "name": "Enclosure", 
                 "thumbnail": "thumbnails/yamba_moise_a9.png"
+            }, 
+            {
+                "folder": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
+                "thumbnail": "thumbnails/yamba_moise_daylightingexercise.png"
             }
         ], 
         "id": 31, 
@@ -1990,7 +2080,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/zhang_yefan_daylighting exercise.png"
             }
         ], 
@@ -2058,7 +2148,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/zhang_yi_daylightingexercise.png"
             }
         ], 
@@ -2126,7 +2216,7 @@
             }, 
             {
                 "folder": "11_illuminance_measurement", 
-                "name": "11_illuminance_measurement", 
+                "name": "Illuminance Measurement", 
                 "thumbnail": "thumbnails/zhu_zheng-yang_daylightingexercise.png"
             }
         ], 

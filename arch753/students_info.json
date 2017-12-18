@@ -193,6 +193,11 @@
                 "thumbnail": null
             }, 
             {
+                "folder": "20171113", 
+                "name": "Energy Simulation II", 
+                "thumbnail": "thumbnails/gupta_naman.png"
+            }, 
+            {
                 "folder": "20171120", 
                 "name": "Energy Simulation III", 
                 "thumbnail": "thumbnails/gupta_naman.png"
@@ -286,6 +291,11 @@
             {
                 "folder": "20171106", 
                 "name": "Energy Simulation I", 
+                "thumbnail": "thumbnails/hwang_youngjin.png"
+            }, 
+            {
+                "folder": "20171113", 
+                "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/hwang_youngjin.png"
             }, 
             {
@@ -630,6 +640,11 @@
                 "thumbnail": "thumbnails/ma_xiaoyu.png"
             }, 
             {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/ma_xiaoyu.png"
+            }, 
+            {
                 "folder": "20171016", 
                 "name": "Meyerson hall canopy", 
                 "thumbnail": "thumbnails/ma_xiaoyu.png"
@@ -729,6 +744,16 @@
                 "folder": "20170925", 
                 "name": "Weather data analysis I", 
                 "thumbnail": "thumbnails/peng_yunzhongda_0918.png"
+            }, 
+            {
+                "folder": "20171009", 
+                "name": "Weather data analysis II", 
+                "thumbnail": "thumbnails/peng_yunzhongda_1009.png"
+            }, 
+            {
+                "folder": "20171016", 
+                "name": "Meyerson hall canopy", 
+                "thumbnail": "thumbnails/peng_yunzhongda_1016.png"
             }, 
             {
                 "folder": "20171023", 
@@ -892,6 +917,16 @@
             {
                 "folder": "20171030", 
                 "name": "Daylighting II", 
+                "thumbnail": "thumbnails/zhao_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171106", 
+                "name": "Energy Simulation I", 
+                "thumbnail": "thumbnails/zhao_xiaoyu.png"
+            }, 
+            {
+                "folder": "20171113", 
+                "name": "Energy Simulation II", 
                 "thumbnail": "thumbnails/zhao_xiaoyu.png"
             }, 
             {
